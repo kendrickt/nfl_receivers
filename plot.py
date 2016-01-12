@@ -1,10 +1,11 @@
 from matplotlib import pyplot as plt
 import sys
 from Player import Player
-import numpy as np
 
 
 if __name__ == "__main__":
+    print "hello"
+
     years = sys.argv[1:]
     for year in years:
         f = file("receiver_stats_" + year + ".csv", "r")
@@ -59,16 +60,16 @@ if __name__ == "__main__":
             best_fit_x.append(player.deep_atts())
             best_fit_y.append(float(player.deep_comps())/player.deep_atts())
 
+        """
         best_fit_coeff = np.polyfit(best_fit_x, best_fit_y, 2)
         print best_fit_coeff
         best_fit_line = [
             best_fit_coeff[0] + best_fit_coeff[1] * x + best_fit_coeff[2]*x**2
             for x in xrange(xmin, xmax)
         ]
-        plt.plot(xrange(xmin, xmax), best_fit_line)
         plt.show()
-
         """
+
         plt.xlim(xmin, xmax)
         plt.ylim(ymin, ymax)
         for player in players:
@@ -82,4 +83,3 @@ if __name__ == "__main__":
         plt.xlabel("# of completions")
         plt.ylabel("% of completions")
         plt.show()
-        """

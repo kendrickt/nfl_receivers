@@ -1,6 +1,6 @@
 class Player(object):
 
-    def __init__(self, name, team, year):
+    def __init__(self, name, team, year=None):
         self.name = name
         self.team = team
         self.year = year
@@ -19,45 +19,51 @@ class Player(object):
         else:
             self.away.incompletion(short)
 
-    def total_yds(self):
+    def yds(self):
         return self.away.total_yds() + self.home.total_yds()
 
-    def total_comps(self):
+    def comps(self):
         return (self.away.total_comps() + self.home.total_comps())
 
-    def total_atts(self):
+    def atts(self):
         return (self.away.total_atts() + self.home.total_atts())
 
-    def total_atts_per_game(self):
-        return (self.away.total_atts() + self.home.total_atts())/self.home.games
+    def compperc(self):
+        if self.comps():
+            return float(self.comps()) / self.atts()
+        return 0
 
-    def short_yds(self):
-        return self.away.short_yds() + self.home.short_yds()
+    def games(self):
+        return (self.away.games + self.home.games)
 
-    def short_comps(self):
-        return (self.away.short_comps() + self.home.short_comps())
+    def yds_per_att(self):
+        if self.yds():
+            return float(self.yds()) / self.atts()
+        return 0
 
-    def short_atts(self):
-        return (self.away.short_atts() + self.home.short_atts())
+    def yds_per_comp(self):
+        if self.yds():
+            return float(self.yds()) / self.comps()
+        return 0
 
-    def short_atts_per_game(self):
-        return (self.away.short_atts() + self.home.short_atts())/self.home.games
+    def yds_per_game(self):
+        if self.yds():
+            return float(self.yds()) / self.games()
+        return 0
 
-    def deep_yds(self):
-        return self.away.deep_yds() + self.home.deep_yds()
+    def atts_per_game(self):
+        if self.atts():
+            return float(self.atts())/self.games()
+        return 0
 
-    def deep_comps(self):
-        return (self.away.deep_comps() + self.home.deep_comps())
-
-    def deep_atts(self):
-        return (self.away.deep_atts() + self.home.deep_atts())
-
-    def deep_atts_per_game(self):
-        return (self.away.deep_atts() + self.home.deep_atts())/self.home.games
+    def comps_per_game(self):
+        if self.comps():
+            return float(self.comps())/self.games()
+        return 0
 
     def combine(self, other):
-        self.away.combine(other.away)
         self.home.combine(other.home)
+        self.away.combine(other.away)
 
     def update_player(self, play, hometeam, yds):
         # Short or deep pass?
@@ -96,7 +102,7 @@ class Passes(object):
         self.comp_deep = 0.0
         self.att_deep = 0.0
         self.yds_deep = 0.0
-        self.games = 1.0
+        self.games = 0.0
 
     def completion(self, short, yds):
         if short:
@@ -122,24 +128,6 @@ class Passes(object):
 
     def total_atts(self):
         return self.att_short + self.att_deep
-
-    def short_yds(self):
-        return self.yds_short
-
-    def short_comps(self):
-        return self.comp_short
-
-    def short_atts(self):
-        return self.att_short
-
-    def deep_yds(self):
-        return self.yds_deep
-
-    def deep_comps(self):
-        return self.comp_deep
-
-    def deep_atts(self):
-        return self.att_deep
 
     def combine(self, other):
         self.comp_short += other.comp_short

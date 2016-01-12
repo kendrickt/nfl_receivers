@@ -1,0 +1,13 @@
+blog 1
+    plot completion percentage vs number of attempts, but only the top 30 players wrt attepts
+    plots yds per catch vs number of catches per game, only the top 30 players wrt catches per game
+
+    filter by playoff teams
+        then plot the same two things above.
+
+blog 2
+    yds per catch vs year, for the top 20 players across the 6 year span. 
+    only show players who have an overall positive delta between all 6 years
+
+
+

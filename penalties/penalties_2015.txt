@@ -1830,7 +1830,7 @@
 (CIN, CIN 20, Q2, 1 and 10) (11:16) G.Bernard left guard to CIN 21 for 1 yard (R.Starks). PENALTY on CLE-R.Starks, Taunting, 15 yards, enforced at CIN 21.
 (CIN, CLE 6, Q2, 4 and 2) (5:21) A.Dalton pass incomplete short left to A.Green. PENALTY on CLE-R.Starks, Defensive Offside, 3 yards, enforced at CLE 6 - No Play.
 (CLE, CLE 12, Q3, 1 and 10) (11:15) PENALTY on CLE-A.Mack, False Start, 5 yards, enforced at CLE 12 - No Play.
-(CLE, CLE 10, Q3, 3 and 12) (9:51) (Shotgun) J.Manziel scrambles up the middle to CLE 22 for 12 yards (L.Hall). Cincinnati challenged the first down ruling, and the play was REVERSED. (Shotgun) J.Manziel scrambles up the middle to CLE 21 for 11 yards (L.Hall).
+(CLE, CLE 10, Q3, 3 and 12) (9:51) (Shotgun) J.Manziel scrambles to CLE 22 for 12 yards (L.Hall). Cincinnati challenged the first down ruling, and the play was REVERSED. (Shotgun) J.Manziel scrambles to CLE 21 for 11 yards (L.Hall).
 (CLE, CLE 26, Q3, 4 and 4) (3:09) A.Lee punts 56 yards to CIN 18, Center-C.Hughlett. B.Tate to CIN 19 for 1 yard (D.Johnson Jr). PENALTY on CIN-M.Hunt, Illegal Block Above the Waist, 10 yards, enforced at CIN 19.
 (CIN, CIN 42, Q3, 1 and 10) (:42) (Shotgun) A.Dalton pass short left to B.Tate to CLE 36 for 22 yards (K.Dansby). Cleveland challenged the runner was down by contact ruling, and the play was REVERSED. (Shotgun) A.Dalton pass short left to B.Tate to CIN 46 for 4 yards (J.Gilbert).
 (CLE, CLE 24, Q4, 4 and 10) (7:23) A.Lee punts 46 yards to CIN 30, Center-C.Hughlett. B.Tate pushed ob at CLE 41 for 29 yards (T.Carder). PENALTY on CIN, Illegal Block Above the Waist, 10 yards, enforced at CIN 33. No player number announced by officials. Tate credited with 3 return yards, due to penalty.
@@ -1876,13 +1876,14 @@
 (NE, WAS 20, Q4, 1 and 10) (12:38) J.Edelman left end to WAS 15 for 5 yards (K.Robinson). reverse PENALTY on NE-R.Gronkowski, Offensive Holding, 10 yards, enforced at WAS 20 - No Play.
 (WAS, WAS 29, Q4, 3 and 1) (11:00) (Shotgun) C.Thompson right end pushed ob at WAS 38 for 9 yards (L.Ryan). PENALTY on WAS-M.Moses, Offensive Holding, 10 yards, enforced at WAS 29 - No Play.
 (WAS, WAS 34, Q4, 4 and 8) (9:23) T.Way punts 38 yards to NE 28, Center-N.Sundberg. D.Amendola ran ob at NE 33 for 5 yards. PENALTY on NE-P.Chung, Offensive Holding, 10 yards, enforced at NE 27.
-(NE, WAS 33, Q4, 4 and 9) (4:02) (Punt formation) PENALTY on NE-R.Allen, Delay of Game, 5 yards, enforced at WAS 33 - No Play.
+(NE, WAS 33, Q4, 4 and 9) (4:02) (Punt formation) PENALTY on NE, Delay of Game, 5 yards, enforced at WAS 33 - No Play.
 (WAS, NE 6, Q4, 2 and 6) (:42) (Shotgun) K.Cousins sacked at NE 15 for -9 yards (A.Hicks). PENALTY on NE-J.Coleman, Defensive Holding, 3 yards, enforced at NE 6 - No Play.
 (NO, TEN 33, Q1, 1 and 10) (11:27) (Shotgun) D.Brees pass short right to C.Spiller to TEN 24 for 9 yards (A.Williamson). PENALTY on NO-J.Hill, Offensive Pass Interference, 10 yards, enforced at TEN 33 - No Play.
 (NO, NO 35, Q1) T.Morstead kicks 67 yards from NO 35 to TEN -2. D.McCluster to TEN 14 for 16 yards (J.Sanford). PENALTY on TEN-P.Supernaw, Offensive Holding, 7 yards, enforced at TEN 14.
 (TEN, TEN 30, Q1, 2 and 5) (2:58) A.Andrews left tackle to TEN 30 for no gain (S.Anthony; B.Richardson). PENALTY on NO-B.Richardson, Defensive Offside, 5 yards, enforced at TEN 30 - No Play.
 (NO, NO 22, Q1, 3 and 9) (:12) (Shotgun) D.Brees pass short left intended for B.Cooks INTERCEPTED by P.Cox at NO 37. P.Cox to NO 37 for no gain (B.Cooks). PENALTY on TEN-K.Klug, Roughing the Passer, 15 yards, enforced at NO 22 - No Play.
 (NO, TEN 3, Q2, 1 and 3) (11:43) (Shotgun) D.Brees pass incomplete short left [J.Casey]. PENALTY on TEN-J.Casey, Roughing the Passer, 2 yards, enforced at TEN 3 - No Play.
+(NO, NO 33, Q2, 3 and 7) (7:13) (Shotgun) D.Brees pass incomplete short middle to B.Cooks. A flag was thrown on the play, but officials huddled and did not call a penalty.
 (NO, NO 35, Q2, 2 and 6) (3:04) (Shotgun) D.Brees pass short middle to M.Ingram to NO 39 for 4 yards (W.Woodyard). PENALTY on NO-T.Armstead, Offensive Holding, 10 yards, enforced at NO 35 - No Play.
 (NO, TEN 48, Q3, 2 and 10) (:48) (Shotgun) PENALTY on NO-T.Armstead, False Start, 5 yards, enforced at TEN 48 - No Play.
 (NO, TEN 12, Q4, 2 and 11) (12:22) D.Brees sacked at TEN 21 for -9 yards (D.Bass). PENALTY on TEN-D.Bass, Roughing the Passer, 6 yards, enforced at TEN 12 - No Play. PENALTY on TEN-B.Orakpo, Unsportsmanlike Conduct, 3 yards, enforced between downs. PENALTY on TEN-B.Orakpo, Unsportsmanlike Conduct, 2 yards, enforced between downs.
@@ -2015,16 +2016,16 @@
 (NYJ, NYJ 20, Q2, 4 and 10) (5:03) R.Quigley punts 49 yards to BUF 31, Center-T.Purdum. L.McKelvin to 50 for 19 yards (T.Purdum). PENALTY on BUF-N.Robey, Offensive Holding, 10 yards, enforced at BUF 29.
 (BUF, BUF 21, Q4, 3 and 11) (14:12) (Shotgun) PENALTY on BUF-T.Taylor, Delay of Game, 5 yards, enforced at BUF 21 - No Play.
 (NYJ, NYJ 33, Q4, 4 and 2) (11:44) R.Quigley punts 47 yards to BUF 20, Center-T.Purdum. L.McKelvin to BUF 21 for 1 yard (D.Smith). PENALTY on NYJ-R.Miles, Offensive Holding, 10 yards, enforced at BUF 21.
-(BUF, BUF 42, Q4, 4 and 3) (:35) C.Schmidt punts 38 yards to NYJ 20, Center-G.Sanborn. J.Kerley to NYJ 26 for 6 yards (J.Meeks). PENALTY on BUF-G.Sanborn, Offensive Holding, 10 yards, enforced at NYJ 26.
+(BUF, BUF 42, Q4, 4 and 3) (:35) C.Schmidt punts 38 yards to NYJ 20, Center-G.Sanborn. J.Kerley to NYJ 26 for 6 yards (J.Meeks). PENALTY on BUF-G.Sanborn, Offensive Holding, 10 yards, enforced at NYJ 0.
 (NO, NO 35, Q1) K.Forbath kicks 65 yards from NO 35 to WAS 0. R.Ross to WAS 8 for 8 yards (J.Hill; T.Hightower). PENALTY on WAS-R.Grant, Offensive Holding, 4 yards, enforced at WAS 8.
 (WAS, WAS 4, Q1, 1 and 10) (14:48) A.Morris right tackle to WAS 10 for 6 yards (J.Jenkins; B.Richardson). PENALTY on WAS-M.Moses, Offensive Holding, 2 yards, enforced at WAS 4 - No Play.
-(WAS, WAS 23, Q1, 3 and 7) (4:25) (Shotgun) PENALTY on NO-H.Kikaha, Neutral Zone Infraction, 5 yards, enforced at WAS 23 - No Play.
+(WAS, WAS 23, Q1, 3 and 7) (5:52) (Shotgun) PENALTY on NO-H.Kikaha, Neutral Zone Infraction, 5 yards, enforced at WAS 23 - No Play.
 (NO, NO 20, Q2, 1 and 10) (9:52) PENALTY on NO-T.Armstead, False Start, 5 yards, enforced at NO 20 - No Play.
-(NO, NO 35, Q2, 4 and 5) (7:28) T.Morstead punts 48 yards to WAS 17, Center-J.Drescher. J.Crowder to WAS 36 for 19 yards (T.Morstead). PENALTY on WAS-T.Robinson, Offensive Holding, 10 yards, enforced at WAS 26.
-(WAS, NO 19, Q2, 1 and 10) (5:05) PENALTY on NO, Defensive Holding, 5 yards, enforced at NO 19 - No Play.
-(NO, NO 22, Q2, 2 and 8) (2:43) (No Huddle, Shotgun) D.Brees pass to M.Ingram pushed ob at NO 24 for 2 yards (B.Breeland). PENALTY on NO-B.Watson, Offensive Pass Interference, 10 yards, enforced at NO 22 - No Play.
+(NO, NO 35, Q2, 4 and 5) (8:32) T.Morstead punts 48 yards to WAS 17, Center-J.Drescher. J.Crowder to WAS 36 for 19 yards (T.Morstead). PENALTY on WAS-T.Robinson, Offensive Holding, 10 yards, enforced at WAS 26.
+(WAS, NO 19, Q2, 1 and 10) (7:12) PENALTY on NO, Defensive Holding, 5 yards, enforced at NO 19 - No Play.
+(NO, NO 22, Q2, 2 and 8) (3:18) (No Huddle, Shotgun) D.Brees pass to C.Spiller pushed ob at NO 24 for 2 yards (B.Breeland). PENALTY on NO-B.Watson, Offensive Pass Interference, 10 yards, enforced at NO 22 - No Play.
 (WAS, WAS 36, Q2, 3 and 5) (1:02) (Shotgun) K.Cousins pass incomplete to P.Garcon (D.Breaux). PENALTY on NO-K.Wilson, Defensive Holding, 5 yards, enforced at WAS 36 - No Play.
-(WAS, NO 16, Q2, 2 and 10) (:12) PENALTY on WAS-Trent.Williams, False Start, 5 yards, enforced at NO 16 - No Play.
+(WAS, NO 16, Q2, 2 and 10) (:43) PENALTY on WAS-Trent.Williams, False Start, 5 yards, enforced at NO 16 - No Play.
 (NO, NO 20, Q3, 2 and 10) (4:32) (Shotgun) D.Brees pass to W.Snead to NO 29 for 9 yards (C.Culliver). PENALTY on NO-Z.Strief, Offensive Holding, 10 yards, enforced at NO 20 - No Play.
 (WAS, WAS 35, Q3) D.Hopkins kicks 67 yards from WAS 35 to NO -2. C.Spiller to NO 28 for 30 yards (D.Hopkins, D.Young). PENALTY on NO-J.Dunbar, Offensive Holding, 10 yards, enforced at NO 20.
 (WAS, WAS 12, Q4, 3 and 3) (4:48) PENALTY on WAS-C.McCoy, Delay of Game, 5 yards, enforced at WAS 12 - No Play.
@@ -2099,7 +2100,7 @@
 (BAL, BAL 24, Q3, 4 and 6) (:11) (Punt formation) S.Koch punts 41 yards to JAC 35, Center-M.Cox. B.Walters to JAC 37 for 2 yards (B.Trawick). PENALTY on JAC-D.Gratz, Illegal Block Above the Waist, 10 yards, enforced at JAC 35.
 (JAC, BAL 39, Q4, 3 and 12) (13:18) (Shotgun) B.Bortles pass short middle to B.Walters to BAL 30 for 9 yards (W.Hill). PENALTY on BAL, Unnecessary Roughness, 15 yards, enforced at BAL 30.
 (JAC, JAC 45, Q4, 1 and 10) (:25) (Shotgun) PENALTY on JAC-Z.Beadles, False Start, 5 yards, enforced at JAC 45 - No Play.
-(JAC, BAL 49, Q4, 4 and 4) (:14) B.Bortles sacked at JAC 45 for -6 yards (E.Dumervil). PENALTY on BAL-E.Dumervil, Face Mask (15 Yards), 14 yards, enforced at BAL 49 - No Play.
+(JAC, BAL 49, Q4, 4 and 4) (:14) B.Bortles sacked at JAC 45 for -6 yards (E.Dumervil). PENALTY on BAL-E.Dumervil, Face Mask (15 Yards), 15 yards, enforced at 50.
 (PIT, PIT 20, Q1, 2 and 10) (8:01) (Shotgun) PENALTY on PIT-A.Villanueva, False Start, 5 yards, enforced at PIT 20 - No Play.
 (PIT, PIT 35, Q1) C.Boswell kicks 73 yards from PIT 35 to CLE -8. D.Johnson Jr to CLE 20 for 28 yards (V.Williams). PENALTY on CLE-J.Bademosi, Illegal Block Above the Waist, 7 yards, enforced at CLE 14.
 (CLE, CLE 11, Q1, 2 and 6) (4:16) (Shotgun) J.Manziel pass short left to D.Johnson Jr to CLE 12 for 1 yard (S.Spence, C.Heyward). PENALTY on PIT, Face Mask (15 Yards), 15 yards, enforced at CLE 12.
@@ -2443,7 +2444,7 @@
 (NYG, NYG 8, Q3, 1 and 10) (5:02) (Shotgun) E.Manning pass short left to O.Beckham Jr. to NYG 11 for 3 yards (D.Hall). PENALTY on WAS-D.Hall, Face Mask (15 Yards), 15 yards, enforced at NYG 11.
 (NYG, NYG 20, Q4, 2 and 10) (11:30) (No Huddle, Shotgun) E.Manning pass deep middle to O.Beckham Jr. to WAS 49 for 31 yards (D.Hall). PENALTY on WAS-D.Hall, Horse Collar Tackle, 15 yards, enforced at WAS 49.
 (WAS, WAS 9, Q4, 1 and 10) (10:06) K.Cousins pass incomplete deep left to J.Crowder [J.Bromley]. PENALTY on NYG-J.Bromley, Roughing the Passer, 15 yards, enforced at WAS 9 - No Play.
-(NYG, WAS 15, Q4) (Kick formation) PENALTY on NYG-M.Hughes, False Start, 5 yards, enforced at WAS 15 - No Play.
+(NYG, WAS 15, Q4) PENALTY on NYG-M.Hughes, False Start, 5 yards, enforced at WAS 15 - No Play.
 (WAS, NYG 40, Q4, 4 and 11) (:27) T.Way punts 40 yards to NYG 0, Center-N.Sundberg. D.Harris pushed ob at NYG 6 for 6 yards (J.Johnson). PENALTY on WAS-T.Murphy, Offensive Holding, 10 yards, enforced at NYG 6.
 (MIN, ATL 32, Q1, 3 and 8) (6:28) (Shotgun) T.Bridgewater pass short left to S.Diggs to ATL 16 for 16 yards (C.Godfrey). PENALTY on MIN-S.Diggs, Unsportsmanlike Conduct, 15 yards, enforced between downs.
 (MIN, ATL 16, Q1, 3 and 9) (3:51) (Shotgun) T.Bridgewater pass incomplete short right to M.Wallace. PENALTY on ATL-D.Trufant, Defensive Pass Interference, 15 yards, enforced at ATL 16 - No Play.
@@ -2569,7 +2570,7 @@
 (KC, BUF 24, Q4, 1 and 10) (5:42) A.Smith pass incomplete short right to A.Wilson. PENALTY on BUF-J.Hughes, Roughing the Passer, 12 yards, enforced at BUF 24 - No Play.
 (KC, BUF 12, Q4, 1 and 10) (5:38) S.Ware up the middle to BUF 4 for 8 yards (J.Hughes). PENALTY on KC-L.Duvernay-Tardif, Offensive Holding, 10 yards, enforced at BUF 12 - No Play.
 (KC, KC 35, Q4) C.Santos kicks 64 yards from KC 35 to BUF 1. M.Thigpen to BUF 19 for 18 yards (D.Sorensen). PENALTY on BUF-R.Brooks, Offensive Holding, 9 yards, enforced at BUF 19.
-(BUF, BUF 21, Q4, 4 and 9) (2:16) (Shotgun) T.Taylor scrambles left end to BUF 18 for -3 yards. FUMBLES, and recovers at BUF 20. T.Taylor ran ob at BUF 29 for 9 yards (D.Moses). Buffalo challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #3 at 02:07.)
+(BUF, BUF 21, Q4, 4 and 9) (2:16) (Shotgun) T.Taylor scrambles to BUF 18 for -3 yards. FUMBLES, and recovers at BUF 20. T.Taylor ran ob at BUF 29 for 9 yards (D.Moses). Buffalo challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #3 at 02:07.)
 (ARI, ARI 20, Q1, 3 and 5) (8:07) (Shotgun) PENALTY on ARI-J.Gresham, False Start, 5 yards, enforced at ARI 20 - No Play.
 (ARI, SF 15, Q1, 1 and 10) (5:30) S.Taylor up the middle to SF 13 for 2 yards (T.Jerod-Eddie). PENALTY on SF, Defensive 12 On-field, 5 yards, enforced at SF 13.
 (ARI, SF 40, Q1, 2 and 8) (1:14) PENALTY on ARI-D.Fells, False Start, 5 yards, enforced at SF 40 - No Play.
@@ -2693,6 +2694,7 @@
 (CIN, CLE 16, Q2, 2 and 5) (4:35) PENALTY on CIN-R.Hewitt, False Start, 5 yards, enforced at CLE 16 - No Play.
 (CLE, CLE 28, Q3, 2 and 6) (14:12) (Shotgun) A.Davis pass short middle to B.Hartline to CLE 37 for 9 yards (A.Jones). PENALTY on CIN-A.Jones, Horse Collar Tackle, 15 yards, enforced at CLE 37. Penalty on CIN-A.Jones, Face Mask (15 Yards), declined.
 (CIN, CLE 1, Q3, 1 and 1) (7:55) J.Hill left guard for 1 yard, TOUCHDOWN. PENALTY on CLE-C.Kirksey, Unsportsmanlike Conduct, 15 yards, enforced between downs.
+(CIN, 50, Q3) M.Nugent kicks 50 yards from 50 to end zone, Touchback. Kickoff at the 50 yard line due to the penalty on the scoring play
 (CLE, CLE 39, Q3, 3 and 2) (4:50) (Shotgun) A.Davis pass incomplete short right [G.Atkins]. PENALTY on CLE-A.Davis, Intentional Grounding, 16 yards, enforced at CLE 39.
 (CLE, CLE 42, Q4, 1 and 10) (12:23) (Shotgun) A.Davis pass incomplete short right to I.Crowell (C.Dunlap). PENALTY on CLE-C.Erving, Offensive Holding, 10 yards, enforced at CLE 42 - No Play.
 (CLE, CLE 27, Q4, 2 and 3) (5:18) (No Huddle, Shotgun) A.Davis pass incomplete short right [C.Dunlap]. PENALTY on CLE-A.Davis, Intentional Grounding, 13 yards, enforced at CLE 27.
@@ -2853,3 +2855,878 @@
 (WAS, WAS 37, Q3, 1 and 10) (2:13) K.Cousins pass incomplete short right to J.Reed. PENALTY on DAL-B.Carr, Defensive Holding, 5 yards, enforced at WAS 37 - No Play.
 (DAL, DAL 35, Q4) D.Bailey kicks 64 yards from DAL 35 to WAS 1. R.Ross to WAS 42 for 41 yards (D.Wilson). PENALTY on DAL-J.Wilcox, Face Mask (15 Yards), 15 yards, enforced at WAS 42.
 (DAL, DAL 35, Q4) D.Bailey kicks 60 yards from DAL 35 to WAS 5. D.Jackson to WAS 13 for 8 yards. Lateral to J.Reed to WAS 7 for -6 yards. Lateral to J.Crowder to WAS 13 for 6 yards. J.Crowder pass incomplete short right to J.Reed. PENALTY on WAS-J.Crowder, Illegal Forward Pass, 0 yards, enforced at WAS 13.
+(ARI, MIN 9, Q1, 1 and 9) (8:48) C.Palmer pass short left to Ja.Brown to MIN 8 for 1 yard (A.Harris). Minnesota challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+(MIN, ARI 20, Q2, 3 and 7) (:26) (Shotgun) T.Bridgewater pass incomplete deep right to M.Wallace. PENALTY on ARI-T.Mathieu, Defensive Holding, 5 yards, enforced at ARI 20 - No Play.
+(MIN, MIN 41, Q3, 1 and 10) (12:53) A.Peterson up the middle to MIN 41 for no gain (D.Bucannon). PENALTY on ARI-R.Bryant, Defensive Offside, 5 yards, enforced at MIN 41 - No Play.
+(ARI, ARI 29, Q4, 4 and 1) (10:21) D.Butler punts 49 yards to MIN 22, Center-M.Leach. M.Sherels to ARI 45 for 33 yards (B.Golden). ARI-B.Golden was injured during the play.  PENALTY on MIN-J.Robinson, Offensive Holding, 10 yards, enforced at MIN 22.
+(MIN, MIN 22, Q4, 1 and 10) (8:44) T.Bridgewater pass incomplete deep right to M.Wallace [X.Williams]. Penalty on ARI-P.Peterson, Defensive Holding, declined. PENALTY on ARI-X.Williams, Roughing the Passer, 15 yards, enforced at MIN 22 - No Play.
+(MIN, ARI 24, Q4, 1 and 10) (6:34) A.Peterson right end pushed ob at ARI 14 for 10 yards (J.Bethel). PENALTY on MIN-M.Harris, Offensive Holding, 10 yards, enforced at ARI 24 - No Play.
+(ARI, ARI 16, Q4, 1 and 10) (4:50) C.Palmer pass deep right intended for M.Floyd INTERCEPTED by T.Waynes at ARI 42. T.Waynes pushed ob at ARI 18 for 24 yards (L.Sendlein). PENALTY on MIN-S.Floyd, Defensive Offside, 5 yards, enforced at ARI 16 - No Play.
+(MIN, MIN 42, Q4, 1 and 10) (:29) T.Bridgewater spiked the ball to stop the clock. PENALTY on ARI-S.Weatherspoon, Defensive 12 On-field, 5 yards, enforced at MIN 42 - No Play.
+(PHI, PHI 39, Q1, 1 and 10) (12:43) (Shotgun) S.Bradford pass deep left to R.Cooper to BUF 19 for 42 yards (L.McKelvin). Buffalo challenged the pass completion ruling, and the play was REVERSED. (Shotgun) S.Bradford pass incomplete deep left to R.Cooper.
+(PHI, PHI 42, Q1, 3 and 7) (12:13) (No Huddle, Shotgun) PENALTY on BUF-M.Williams, Neutral Zone Infraction, 5 yards, enforced at PHI 42 - No Play.
+(PHI, PHI 19, Q1, 3 and 9) (7:16) (No Huddle, Shotgun) PENALTY on BUF-J.Hughes, Neutral Zone Infraction, 5 yards, enforced at PHI 19 - No Play.
+(BUF, BUF 31, Q1, 2 and 3) (6:15) (No Huddle, Shotgun) PENALTY on BUF-J.Felton, False Start, 5 yards, enforced at BUF 31 - No Play.
+(BUF, BUF 34, Q1, 1 and 10) (3:12) (Shotgun) L.McCoy left end ran ob at BUF 34 for no gain (W.Thurmond). PENALTY on BUF-J.Miller, Offensive Holding, 10 yards, enforced at BUF 34 - No Play.
+(PHI, BUF 37, Q2, 1 and 10) (11:36) (Shotgun) S.Bradford scrambles up the middle to BUF 32 for 5 yards (M.Lawson). PENALTY on PHI-D.Kelly, Offensive Holding, 10 yards, enforced at BUF 37 - No Play.
+(PHI, BUF 47, Q2, 1 and 20) (11:19) (No Huddle) D.Sproles left end to BUF 49 for -2 yards (L.McKelvin). PENALTY on PHI-D.Kelly, Offensive Holding, 10 yards, enforced at BUF 47 - No Play.
+(BUF, PHI 15, Q2, 1 and 10) (7:13) (Shotgun) PENALTY on BUF-J.Mills, False Start, 5 yards, enforced at PHI 15 - No Play.
+(BUF, BUF 35, Q2) J.Gay kicks 67 yards from BUF 35 to PHI -2. J.Huff pushed ob at PHI 34 for 36 yards (J.Gay). PENALTY on PHI-B.Celek, Offensive Holding, 10 yards, enforced at PHI 20.
+(PHI, PHI 23, Q2, 1 and 10) (5:21) (No Huddle, Shotgun) S.Bradford pass short right to J.Matthews to PHI 34 for 11 yards (B.Rambo). PENALTY on PHI-J.Peters, Illegal Use of Hands, 10 yards, enforced at PHI 23 - No Play.
+(BUF, PHI 38, Q2, 2 and 10) (1:56) (Shotgun) T.Taylor pass incomplete short left to S.Watkins. PENALTY on BUF-J.Miller, Illegal Use of Hands, 10 yards, enforced at PHI 38 - No Play.
+(BUF, PHI 21, Q3, 2 and 2) (6:33) (Shotgun) L.McCoy right end to PHI 17 for 4 yards (T.Hart). PENALTY on BUF-M.Thigpen, Illegal Motion, 5 yards, enforced at PHI 21 - No Play.
+(PHI, PHI 22, Q3, 4 and 8) (4:11) D.Jones punts 51 yards to BUF 27, Center-J.Dorenbos. M.Thigpen ran ob at BUF 41 for 14 yards (J.Dorenbos). PENALTY on PHI-R.Cooper, Unnecessary Roughness, 15 yards, enforced at BUF 41.
+(BUF, PHI 30, Q3, 1 and 10) (3:03) (Shotgun) PENALTY on BUF-J.Felton, False Start, 5 yards, enforced at PHI 30 - No Play.
+(PHI, PHI 11, Q3, 1 and 10) (:44) (Shotgun) S.Bradford pass incomplete short middle to Z.Ertz. PENALTY on BUF-N.Robey, Defensive Pass Interference, 14 yards, enforced at PHI 11 - No Play.
+(PHI, BUF 37, Q4, 3 and 10) (13:29) (No Huddle, Shotgun) PENALTY on BUF-J.Hughes, Neutral Zone Infraction, 5 yards, enforced at BUF 37 - No Play.
+(BUF, BUF 5, Q4, 2 and 10) (12:49) (Shotgun) L.McCoy left end ran ob at BUF 23 for 18 yards (M.Jenkins). PENALTY on BUF-E.Wood, Offensive Holding, 5 yards, enforced at BUF 10.
+(BUF, BUF 13, Q4, 2 and 6) (8:02) (Shotgun) T.Taylor pass short right to J.Felton to BUF 21 for 8 yards (M.Kendricks; D.Ryans). PENALTY on BUF-R.Incognito, Face Mask (15 Yards), 7 yards, enforced at BUF 13 - No Play.
+(BUF, BUF 10, Q4, 2 and 20) (6:06) (Shotgun) T.Taylor pass short left to S.Watkins ran ob at BUF 26 for 16 yards (E.Rowe). Philadelphia challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)
+(PHI, BUF 17, Q4, 3 and 9) (3:35) (No Huddle, Shotgun) PENALTY on BUF-M.Dareus, Neutral Zone Infraction, 5 yards, enforced at BUF 17 - No Play.
+(BUF, BUF 20, Q4, 2 and 10) (3:23) (No Huddle, Shotgun) T.Taylor scrambles up the middle to BUF 30 for 10 yards (M.Kendricks). PENALTY on BUF-R.Incognito, Offensive Holding, 10 yards, enforced at BUF 20 - No Play.
+(BUF, BUF 38, Q4, 3 and 3) (1:23) (Shotgun) PENALTY on BUF-J.Mills, False Start, 5 yards, enforced at BUF 38 - No Play.
+(NYJ, TEN 15, Q2) PENALTY on TEN-D.Searcy, Neutral Zone Infraction, 5 yards, enforced between downs.
+(TEN, TEN 14, Q3, 1 and 10) (8:11) M.Mariota sacked at TEN 11 for -3 yards (C.Pace). PENALTY on NYJ-D.Harris, Defensive Holding, 5 yards, enforced at TEN 14 - No Play.
+(TEN, TEN 41, Q3, 1 and 10) (5:09) M.Mariota scrambles left end to TEN 49 for 8 yards (C.Pryor). PENALTY on TEN-A.Gallik, Offensive Holding, 10 yards, enforced at TEN 41 - No Play.
+(TEN, NYJ 2, Q3) TWO-POINT CONVERSION ATTEMPT. M.Mariota pass to D.McCluster is complete. ATTEMPT SUCCEEDS. PENALTY on NYJ-D.Revis, Defensive Holding, 5 yards, enforced between downs.
+(TEN, NYJ 41, Q4, 2 and 17) (12:27) (Shotgun) PENALTY on TEN-A.Turzilli, False Start, 5 yards, enforced at NYJ 41 - No Play.
+(NYJ, TEN 49, Q4, 1 and 10) (10:35) (Shotgun) S.Ridley right end to TEN 45 for 4 yards (M.Griffin). PENALTY on NYJ-K.Davis, Offensive Holding, 10 yards, enforced at TEN 49 - No Play.
+(PIT, PIT 35, Q1) C.Boswell kicks 68 yards from PIT 35 to CIN -3. B.Tate to CIN 34 for 37 yards (S.Thomas). PENALTY on CIN-C.Uzomah, Illegal Block Above the Waist, 10 yards, enforced at CIN 20. {Tate credited with 23 return yards due to penalty}
+(CIN, CIN 25, Q1, 2 and 12) (8:01) (Shotgun) A.Dalton pass deep middle to T.Eifert to CIN 43 for 18 yards (M.Mitchell). PENALTY on PIT-M.Mitchell, Unnecessary Roughness, 15 yards, enforced at CIN 43.
+(PIT, CIN 26, Q2, 1 and 10) (14:15) F.Toussaint left guard to CIN 23 for 3 yards (D.Peko; V.Burfict). PENALTY on PIT-A.Brown, Illegal Crackback, 15 yards, enforced at CIN 26 - No Play.
+(CIN, CIN 21, Q2, 1 and 10) (12:28) New CIN QB McCarron A.McCarron pass short right to A.Green to CIN 27 for 6 yards (A.Blake). PENALTY on PIT-A.Blake, Unnecessary Roughness, 15 yards, enforced at CIN 27.
+(CIN, CIN 42, Q2, 1 and 10) (11:54) A.McCarron pass incomplete deep left to A.Green. PENALTY on PIT-W.Allen, Defensive Pass Interference, 22 yards, enforced at CIN 42 - No Play.
+(CIN, CIN 25, Q3, 2 and 5) (14:10) (Shotgun) A.McCarron pass short left intended for M.Sanu INTERCEPTED by W.Gay [J.Harrison] at CIN 23. W.Gay for 23 yards, TOUCHDOWN. PENALTY on PIT-W.Gay, Unsportsmanlike Conduct, 15 yards, enforced between downs. Penalty for excessive celebration to be enforced on Kick off.
+(PIT, CIN 31, Q3, 3 and 7) (2:35) (Shotgun) B.Roethlisberger pass short right to A.Brown pushed ob at CIN 17 for 14 yards (D.Kirkpatrick). Penalty on CIN-D.Kirkpatrick, Defensive Holding, declined. Cincinnati challenged the pass completion ruling, and the play was REVERSED. (Shotgun) B.Roethlisberger pass incomplete short right to A.Brown (D.Kirkpatrick). PENALTY on CIN-D.Kirkpatrick, Defensive Holding, 5 yards, enforced at CIN 31 - No Play.
+(CIN, CIN 28, Q4, 1 and 10) (5:52) A.McCarron pass deep right to T.Kroft to CIN 41 for 13 yards (W.Allen; M.Mitchell). PENALTY on CIN-A.Whitworth, Offensive Holding, 10 yards, enforced at CIN 28 - No Play.
+(PIT, CIN 6, Q4, 1 and 6) (4:43) D.Williams right guard to CIN 3 for 3 yards (L.Hall). PENALTY on CIN-V.Burfict, Unnecessary Roughness, 2 yards, enforced at CIN 3.
+(HOU, HOU 14, Q1, 4 and 16) (13:16) S.Lechler punts 55 yards to NE 31, Center-J.Weeks. K.Martin to NE 44 for 13 yards (B.Peters; M.Bullough). PENALTY on NE-E.Martin, Illegal Block Above the Waist, 10 yards, enforced at NE 44.
+(NE, HOU 6, Q1, 2 and 6) (8:15) T.Brady pass short middle to B.LaFell for 6 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on NE, Illegal Formation, 5 yards, enforced at HOU 6 - No Play.
+(NE, HOU 2, Q1, 3 and 2) (7:28) (Shotgun) T.Brady pass short left to K.Martin for 2 yards, TOUCHDOWN. PENALTY on HOU-J.Watt, Roughing the Passer, 15 yards, enforced between downs. Penalty on HOU-E.Pleasant, Illegal Use of Hands, declined.
+(HOU, HOU 41, Q1, 3 and 3) (5:13) (Shotgun) B.Hoyer pass short right to A.Hunt to HOU 47 for 6 yards (L.Johnson). PENALTY on HOU-D.Brown, Unnecessary Roughness, 15 yards, enforced at HOU 41 - No Play.
+(NE, HOU 47, Q2, 2 and 6) (6:05) B.Bolden up the middle to HOU 44 for 3 yards (B.Cushing; B.McKinney). PENALTY on NE-T.Jackson, Offensive Holding, 10 yards, enforced at HOU 47 - No Play.
+(HOU, HOU 3, Q2, 1 and 10) (4:15) (Shotgun) PENALTY on HOU-C.Fiedorowicz, False Start, 1 yard, enforced at HOU 3 - No Play.
+(NE, HOU 38, Q3, 1 and 10) (12:52) T.Brady pass deep right to D.Amendola to HOU 22 for 16 yards (A.Hal). Houston challenged the pass completion ruling, and the play was REVERSED. T.Brady pass incomplete deep right to D.Amendola.
+(NE, HOU 36, Q3, 3 and 8) (12:48) (Shotgun) PENALTY on HOU-J.Watt, Neutral Zone Infraction, 5 yards, enforced at HOU 36 - No Play.
+(NE, HOU 31, Q3, 3 and 3) (11:57) (Shotgun) T.Brady pass short right to J.White pushed ob at HOU 11 for 20 yards (A.Hal). Houston challenged the pass completion ruling, and the play was REVERSED. (Shotgun) T.Brady pass incomplete short right to J.White.
+(HOU, HOU 29, Q3, 2 and 1) (11:16) (Shotgun) B.Hoyer pass incomplete deep right to N.Washington (M.Butler). PENALTY on NE-L.Ryan, Defensive Holding, 5 yards, enforced at HOU 29 - No Play.
+(NE, NE 39, Q4, 2 and 9) (8:36) (Shotgun) T.Brady pass deep left to D.Amendola to HOU 40 for 21 yards (Q.Demps). PENALTY on NE-T.Jackson, Offensive Holding, 11 yards, enforced at NE 39 - No Play.
+(NE, NE 28, Q4, 2 and 20) (8:36) (Shotgun) PENALTY on NE-M.Cannon, False Start, 5 yards, enforced at NE 28 - No Play.
+(IND, JAC 4, Q1, 2 and 3) (9:22) PENALTY on IND-M.Hasselbeck, Delay of Game, 5 yards, enforced at JAC 4 - No Play.
+(IND, IND 41, Q1, 1 and 10) (6:45) PENALTY on JAC-R.Miller, Encroachment, 5 yards, enforced at IND 41 - No Play.
+(JAC, JAC 19, Q1, 4 and 11) (3:21) B.Anger punts 43 yards to IND 38, Center-C.Tinker. Q.Bray to IND 42 for 4 yards (N.Sterling). PENALTY on IND-D.Smith, Illegal Block Above the Waist, 10 yards, enforced at IND 42.
+(JAC, JAC 23, Q2, 3 and 7) (13:43) (Shotgun) PENALTY on JAC-Z.Beadles, False Start, 5 yards, enforced at JAC 23 - No Play.
+(JAC, JAC 37, Q2, 1 and 10) (8:54) (No Huddle) D.Robinson left end to IND 49 for 14 yards (J.McNary). PENALTY on JAC-M.Lewis, Offensive Holding, 10 yards, enforced at JAC 37 - No Play.
+(IND, IND 23, Q2, 3 and 9) (6:10) (Shotgun) M.Hasselbeck pass short left to Z.Tipton to IND 38 for 15 yards (N.Marshall). PENALTY on IND-J.Reitz, Offensive Holding, 10 yards, enforced at IND 23 - No Play.
+(JAC, JAC 35, Q2) J.Myers kicks 65 yards from JAC 35 to end zone, Touchback. PENALTY on IND-C.Geathers, Unnecessary Roughness, 10 yards, enforced at IND 20.
+(IND, JAC 12, Q3, 2 and 10) (8:54) (Shotgun) C.Whitehurst pass short right to F.Gore to JAC 2 for 10 yards (T.Alualu; J.Tripp). PENALTY on IND-J.Harrison, Offensive Holding, 9 yards, enforced at JAC 12 - No Play.
+(JAC, 50, Q3, 1 and 10) (5:57) B.Bortles pass incomplete deep right to M.Lee. PENALTY on IND-J.Brown, Defensive Pass Interference, 34 yards, enforced at 50 - No Play.
+(JAC, JAC 44, Q3, 2 and 10) (2:35) (Shotgun) PENALTY on JAC-A.Robinson, False Start, 5 yards, enforced at JAC 44 - No Play.
+(JAC, JAC 39, Q3, 2 and 15) (1:31) B.Bortles pass short right to J.Thomas to JAC 48 for 9 yards (J.Newsome; J.McNary). PENALTY on IND-J.Newsome, Illegal Contact, 5 yards, enforced at JAC 39 - No Play.
+(IND, IND 20, Q4, 1 and 10) (12:53) (Shotgun) M.Hasselbeck pass incomplete short right to T.Hilton. PENALTY on JAC-A.Branch, Roughing the Passer, 15 yards, enforced at IND 20 - No Play.
+(JAC, JAC 45, Q4, 3 and 8) (9:46) (Shotgun) B.Bortles pass short right to A.Hurns pushed ob at IND 48 for 7 yards (D.Butler). Jacksonville challenged the first down ruling, and the play was REVERSED. (Shotgun) B.Bortles pass short right to A.Hurns pushed ob at IND 46 for 9 yards (D.Butler).
+(JAC, IND 21, Q4, 3 and 4) (6:34) (Shotgun) B.Bortles pass short middle to R.Greene to IND 3 for 18 yards (M.Adams). PENALTY on IND-R.Mathis, Roughing the Passer, 2 yards, enforced at IND 3.
+(SD, SD 41, Q1, 4 and 2) (13:27) M.Scifres punts 43 yards to KC 16, Center-M.Windt. F.Hammond pushed ob at SD 26 for 58 yards (M.Scifres). PENALTY on KC-S.Nelson, Illegal Block Above the Waist, 8 yards, enforced at KC 16.
+(KC, KC 24, Q1, 1 and 10) (11:59) S.Ware right end to KC 39 for 15 yards (J.Addae). PENALTY on KC-B.Parker, Offensive Holding, 10 yards, enforced at KC 30.
+(KC, KC 41, Q1, 1 and 10) (10:26) (Shotgun) PENALTY on SD, Neutral Zone Infraction, 5 yards, enforced at KC 41 - No Play.
+(KC, SD 45, Q1, 4 and 9) (7:29) D.Colquitt punts 38 yards to SD 7, Center-J.Winchester, downed by KC-J.Fleming. PENALTY on SD-J.Wilson, Offensive Holding, 3 yards, enforced at SD 7.
+(SD, SD 40, Q1, 4 and 11) (2:16) M.Scifres punts 55 yards to KC 5, Center-M.Windt. F.Hammond to KC 22 for 17 yards (J.Attaochu). FUMBLES (J.Attaochu), RECOVERED by SD-M.Windt at KC 26. M.Windt to KC 26 for no gain (D.Alexander). Penalty on KC, declined. Officials did not annouce type of penalty or player. It was declined by San Diego ,
+(KC, KC 32, Q1, 1 and 10) (1:06) (Shotgun) A.Smith sacked at KC 27 for -5 yards (D.Philon). PENALTY on SD-S.Williams, Defensive Holding, 5 yards, enforced at KC 32 - No Play.
+(KC, KC 37, Q1, 1 and 10) (:34) (Shotgun) PENALTY on KC-A.Wilson, False Start, 5 yards, enforced at KC 37 - No Play.
+(KC, KC 32, Q1, 2 and 15) (:05) (Shotgun) PENALTY on KC-Z.Fulton, False Start, 5 yards, enforced at KC 32 - No Play.
+(SD, KC 50, Q2, 4 and 2) (9:14) (Run formation) PENALTY on KC-J.Howard, Neutral Zone Infraction, 5 yards, enforced at KC 50 - No Play.
+(KC, KC 30, Q3, 3 and 2) (14:07) (Shotgun) A.Smith left end pushed ob at KC 42 for 12 yards (J.Addae). PENALTY on SD-J.Addae, Unnecessary Roughness, 15 yards, enforced at KC 42.
+(KC, KC 37, Q3, 2 and 7) (3:58) (Shotgun) A.Smith pass short right to C.West for 63 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on KC-T.Kelce, Offensive Pass Interference, 10 yards, enforced at KC 37 - No Play.
+(SD, SD 25, Q3, 1 and 10) (2:14) (Shotgun) M.Gordon left end to SD 29 for 4 yards (E.Berry). PENALTY on SD-C.Hairston, Offensive Holding, 10 yards, enforced at SD 25 - No Play.
+(KC, SD 43, Q4, 1 and 10) (13:40) (Shotgun) A.Smith scrambles up the middle to SD 37 for 6 yards (D.Perryman). PENALTY on KC-J.Reid, Offensive Holding, 10 yards, enforced at SD 43 - No Play.
+(SD, KC 1, Q4, 1 and 1) (:16) (Pass formation) PENALTY on KC-D.Ford, Defensive Offside, 0 yards, enforced at KC 1 - No Play.
+(SD, KC 1, Q4, 1 and 1) (:05) (Shotgun) PENALTY on SD-P.Rivers, Delay of Game, 5 yards, enforced at KC 1 - No Play.
+(SD, KC 6, Q4, 2 and 6) (:02) (Shotgun) P.Rivers pass incomplete short right to M.Floyd (E.Berry). PENALTY on SD-C.Hairston, False Start, 5 yards, enforced at KC 6 - No Play.
+(CHI, CHI 34, Q1, 2 and 17) (4:42) (Shotgun) M.Forte right tackle pushed ob at CHI 44 for 10 yards (B.Breeland). PENALTY on CHI-M.Slauson, Offensive Holding, 10 yards, enforced at CHI 34 - No Play.
+(CHI, CHI 36, Q1, 4 and 15) (2:50) (Punt formation) P.O'Donnell punts 52 yards to WAS 12, Center-P.Scales. J.Crowder to WAS 39 for 27 yards (S.Martin). PENALTY on WAS-D.Carrier, Illegal Block Above the Waist, 6 yards, enforced at WAS 13.
+(WAS, WAS 31, Q1, 1 and 10) (:29) (Shotgun) K.Cousins pass incomplete deep right to D.Jackson. PENALTY on CHI-T.Porter, Defensive Pass Interference, 32 yards, enforced at WAS 31 - No Play.
+(WAS, WAS 35, Q2) D.Hopkins kicks 67 yards from WAS 35 to CHI -2. D.Thompson to CHI 30 for 32 yards (D.Hopkins). PENALTY on CHI-K.Lee, Offensive Holding, 7 yards, enforced at CHI 14.
+(WAS, WAS 49, Q2, 1 and 10) (9:46) K.Cousins right end pushed ob at CHI 46 for 5 yards (T.Porter). PENALTY on WAS-M.Moses, Offensive Holding, 10 yards, enforced at WAS 49 - No Play.
+(CHI, CHI 31, Q2, 3 and 1) (6:36) (No Huddle) PENALTY on WAS-R.Jean Francois, Neutral Zone Infraction, 5 yards, enforced at CHI 31 - No Play.
+(CHI, WAS 32, Q2, 2 and 8) (5:01) J.Cutler pass short middle to Z.Miller to WAS 18 for 14 yards (D.Hall). PENALTY on CHI-C.Leno Jr., Offensive Holding, 10 yards, enforced at WAS 32 - No Play.
+(CHI, WAS 42, Q2, 2 and 18) (4:30) (Shotgun) J.Cutler pass short middle to M.Forte to WAS 36 for 6 yards (W.Blackmon). PENALTY on CHI-M.Mariani, Offensive Pass Interference, 10 yards, enforced at WAS 42 - No Play.
+(WAS, WAS 25, Q2, 2 and 5) (2:19) (Shotgun) PENALTY on WAS-Trent.Williams, False Start, 5 yards, enforced at WAS 25 - No Play.
+(CHI, CHI 42, Q2, 1 and 10) (1:10) (Shotgun) PENALTY on CHI-K.Long, False Start, 5 yards, enforced at CHI 42 - No Play.
+(WAS, CHI 1, Q3, 3 and 1) (8:05) T.Compton reported in as eligible.  PENALTY on WAS-K.Cousins, Delay of Game, 4 yards, enforced at CHI 1 - No Play.
+(CHI, CHI 43, Q3, 2 and 2) (6:40) (No Huddle, Shotgun) J.Langford left tackle to CHI 46 for 3 yards (D.Hall). PENALTY on WAS-D.Goldson, Unnecessary Roughness, 15 yards, enforced at CHI 46.
+(CHI, CHI 35, Q3) R.Gould kicks 70 yards from CHI 35 to WAS -5. R.Ross to WAS 17 for 22 yards (H.Jones-Quartey; S.McManis). PENALTY on WAS-D.Young, Offensive Holding, 8 yards, enforced at WAS 17.
+(WAS, CHI 41, Q4, 2 and 5) (10:36) (Shotgun) A.Morris left tackle to CHI 37 for 4 yards (C.Prosinski). PENALTY on WAS-Trent.Williams, Offensive Holding, 10 yards, enforced at CHI 41 - No Play.
+(CHI, CHI 20, Q4, 1 and 10) (2:11) (Shotgun) PENALTY on CHI-H.Grasu, False Start, 5 yards, enforced at CHI 20 - No Play.
+(CAR, ATL 22, Q1, 2 and 10) (13:34) (No Huddle) C.Newton pass incomplete short right to J.Stewart. PENALTY on CAR-R.Kalil, Offensive Holding, 10 yards, enforced at ATL 22 - No Play.
+(CAR, ATL 6, Q1, 2 and 6) (12:25) (No Huddle, Shotgun) C.Newton pass incomplete short left to D.Funchess. PENALTY on ATL-O.Schofield, Unnecessary Roughness, 3 yards, enforced at ATL 6 - No Play.
+(ATL, ATL 37, Q1, 1 and 10) (5:06) D.Freeman right end to ATL 29 for -8 yards (L.Kuechly; B.Benwikere). PENALTY on CAR-K.Ealy, Defensive Offside, 5 yards, enforced at ATL 37 - No Play.
+(ATL, CAR 47, Q2, 4 and 1) (11:53) (Shotgun) M.Ryan pass short middle to R.White to CAR 35 for 12 yards (R.Harper). PENALTY on CAR-R.Harper, Unsportsmanlike Conduct, 15 yards, enforced at CAR 35.
+(CAR, CAR 16, Q2, 4 and 2) (8:21) B.Nortman punts 49 yards to ATL 35, Center-J.Jansen. D.Hester to ATL 35 for no gain. PENALTY on ATL-T.Coleman, Unnecessary Roughness, 15 yards, enforced at ATL 35.
+(ATL, ATL 49, Q2, 1 and 10) (6:03) (No Huddle) M.Ryan pass short left to J.Hardy to CAR 42 for 9 yards (C.Finnegan). PENALTY on ATL-P.DiMarco, Illegal Substitution, 6 yards, enforced at ATL 49 - No Play.
+(CAR, ATL 10, Q3, 1 and 10) (7:32) (Shotgun) C.Newton sacked at ATL 11 for -1 yards (O.Schofield). PENALTY on CAR-M.Remmers, Offensive Holding, 10 yards, enforced at ATL 10 - No Play.
+(ATL, ATL 32, Q3, 3 and 10) (4:22) (Shotgun) M.Ryan sacked at ATL 24 for -8 yards (K.Short). Carolina challenged the fumble ruling, and the play was REVERSED. (Shotgun) M.Ryan sacked at ATL 26 for -6 yards (K.Short). FUMBLES (K.Short), RECOVERED by CAR-K.Short at ATL 26. K.Short to ATL 26 for no gain (J.Matthews).
+(ATL, ATL 31, Q3, 1 and 10) (:55) (No Huddle, Shotgun) M.Ryan pass deep middle intended for J.Hardy INTERCEPTED by L.Kuechly at CAR 43. L.Kuechly to CAR 43 for no gain (J.Hardy). PENALTY on CAR-B.Benwikere, Unnecessary Roughness, 15 yards, enforced at CAR 43.
+(CAR, CAR 41, Q4, 1 and 10) (14:16) (Shotgun) M.Tolbert right tackle to CAR 43 for 2 yards (J.Durant). PENALTY on CAR-D.Funchess, Illegal Formation, 5 yards, enforced at CAR 41 - No Play.
+(CAR, CAR 38, Q4, 4 and 13) (12:07) B.Nortman punts 33 yards to ATL 29, Center-J.Jansen, downed by CAR-S.Thompson. PENALTY on ATL-P.Wheeler, Offensive Holding, 10 yards, enforced at ATL 29.
+(ATL, CAR 44, Q4, 1 and 10) (8:09) S.Renfree pass short right to N.Williams to CAR 33 for 11 yards (A.Klein; B.Jacobs). PENALTY on ATL-R.Schraeder, Unsportsmanlike Conduct, 15 yards, enforced between downs.
+(ATL, CAR 35, Q4, 4 and 8) (5:29) (Shotgun) S.Renfree pass short right to J.Hardy to CAR 25 for 10 yards (J.Norman). PENALTY on ATL-N.Williams, False Start, 5 yards, enforced at CAR 35 - No Play.
+(TB, TB 20, Q1, 1 and 10) (15:00) J.Winston pass short right to V.Jackson to NO 44 for 36 yards (B.Browner). PENALTY on TB-D.Smith, Offensive Holding, 10 yards, enforced at TB 20 - No Play.
+(NO, TB 46, Q1, 2 and 8) (10:55) (Shotgun) C.Spiller left end ran ob at TB 45 for 1 yard. PENALTY on NO-B.Coleman, Offensive Holding, 10 yards, enforced at TB 45.
+(TB, TB 24, Q1, 4 and 12) (1:58) (Punt formation) J.Schum punts 52 yards to NO 24, Center-A.DePaola. M.Murphy to NO 30 for 6 yards (R.Shepard). PENALTY on TB-D.Dye, Player Out of Bounds on Punt, 5 yards, enforced at NO 30.
+(NO, TB 22, Q2, 1 and 10) (14:28) D.Brees pass short right to M.Colston to TB 14 for 8 yards (S.Moore, C.Conte). PENALTY on NO-Z.Strief, Illegal Formation, 5 yards, enforced at TB 22 - No Play.
+(NO, TB 15, Q2) (Kick formation) PENALTY on NO-S.Kelemete, False Start, 5 yards, enforced at TB 15 - No Play.
+(TB, TB 25, Q2, 2 and 5) (11:27) (No Huddle, Shotgun) J.Winston pass incomplete short middle to D.Martin (C.Jordan). PENALTY on NO-K.Wilson, Unnecessary Roughness, 15 yards, enforced at TB 25.
+(TB, TB 43, Q2, 2 and 7) (10:50) (Shotgun) J.Winston pass incomplete short middle to A.Humphries. PENALTY on NO-K.Wilson, Unnecessary Roughness, 15 yards, enforced at TB 43.
+(TB, NO 19, Q2, 3 and 5) (8:18) (No Huddle, Shotgun) J.Winston pass incomplete deep right to A.Seferian-Jenkins. PENALTY on NO-B.Browner, Defensive Holding, 5 yards, enforced at NO 19 - No Play.
+(NO, NO 30, Q2, 1 and 10) (6:08) PENALTY on NO-D.Brees, Delay of Game, 5 yards, enforced at NO 30 - No Play.
+(NO, TB 35, Q2, 3 and 13) (2:53) (Shotgun) D.Brees pass short right to W.Snead pushed ob at TB 23 for 12 yards (B.McDougald). New Orleans challenged the first down ruling, and the play was REVERSED. (Shotgun) D.Brees pass short right to W.Snead pushed ob at TB 21 for 14 yards (B.McDougald).
+(TB, TB 47, Q2, 1 and 10) (:35) (No Huddle, Shotgun) J.Winston scrambles up the middle to NO 47 for 6 yards (K.Edebali). PENALTY on NO-K.Wilson, Illegal Contact, 5 yards, enforced at NO 47.
+(NO, NO 32, Q3, 3 and 15) (5:13) (Shotgun) D.Brees sacked at NO 25 for -7 yards (K.Brown). PENALTY on TB-H.Jones, Illegal Use of Hands, 5 yards, enforced at NO 32 - No Play.
+(NO, TB 49, Q3, 1 and 10) (3:29) D.Brees pass short right to B.Coleman to TB 29 for 20 yards (C.Conte). PENALTY on TB-C.Conte, Horse Collar Tackle, 15 yards, enforced at TB 29.
+(NO, TB 15, Q3) K.Forbath extra point is GOOD, Center-J.Drescher, Holder-T.Morstead. PENALTY on TB-W.Gholston, Unnecessary Roughness, 15 yards, enforced between downs.
+(NO, NO 44, Q4, 2 and 9) (15:00) (Shotgun) D.Brees pass short left to W.Snead to TB 48 for 8 yards (J.Adjei-Barimah). PENALTY on NO, Illegal Formation, 5 yards, enforced at NO 44 - No Play.
+(NO, TB 48, Q4, 4 and 1) (13:57) (Run formation) PENALTY on NO-M.Unger, False Start, 5 yards, enforced at TB 48 - No Play.
+(TB, TB 42, Q4, 1 and 10) (11:44) (No Huddle, Shotgun) J.Winston pass short left to R.Shepard pushed ob at TB 48 for 6 yards (K.Vaccaro). PENALTY on TB-M.Evans, Offensive Pass Interference, 10 yards, enforced at TB 42 - No Play.
+(TB, TB 32, Q4, 1 and 20) (11:28) (Shotgun) C.Sims up the middle to TB 38 for 6 yards (D.Ellerbe, B.Richardson). PENALTY on TB-M.Evans, Unnecessary Roughness, 15 yards, enforced at TB 38.
+(TB, TB 48, Q4, 4 and 4) (10:00) (Shotgun) J.Winston pass short left to A.Seferian-Jenkins to NO 43 for 9 yards (B.Browner). PENALTY on NO-K.Vaccaro, Roughing the Passer, 15 yards, enforced at NO 43.
+(NO, NO 42, Q4, 3 and 10) (6:04) (Shotgun) PENALTY on NO-Z.Strief, False Start, 5 yards, enforced at NO 42 - No Play.
+(NO, NO 33, Q4, 3 and 2) (2:30) (Shotgun) D.Brees pass incomplete deep left to B.Cooks. PENALTY on TB-A.Verner, Defensive Holding, 5 yards, enforced at NO 33 - No Play.
+(STL, STL 39, Q1, 4 and 1) (12:19) J.Hekker punts 42 yards to DET 19, Center-J.McQuaide, fair catch by G.Tate. PENALTY on STL-C.Bryant, Face Mask (15 Yards), 15 yards, enforced at DET 19.
+(STL, DET 47, Q1, 3 and 4) (1:03) (Shotgun) C.Keenum pass incomplete short left to T.Austin [H.Ngata]. PENALTY on DET-J.Jones, Defensive Holding, 5 yards, enforced at DET 47 - No Play.
+(STL, STL 18, Q2, 4 and 9) (7:19) J.Hekker punts 61 yards to DET 21, Center-J.McQuaide. G.Tate ran ob at DET 43 for 22 yards (J.Hekker). PENALTY on DET-D.Carey, Illegal Block Above the Waist, 10 yards, enforced at DET 25.
+(DET, STL 44, Q2, 1 and 10) (2:52) (No Huddle, Shotgun) M.Stafford pass deep left to G.Tate to STL 8 for 36 yards (M.Alexander). PENALTY on DET-T.Riddick, Chop Block, 15 yards, enforced at STL 44 - No Play.
+(DET, DET 38, Q2, 1 and 10) (:13) (Shotgun) M.Stafford pass incomplete short left. PENALTY on DET-M.Stafford, Intentional Grounding, 10 yards, enforced at DET 38. Penalty on DET-T.Swanson, Offensive Holding, declined.
+(STL, STL 29, Q3, 1 and 10) (14:00) C.Keenum pass short left to J.Cook to 50 for 21 yards (N.Lawson). PENALTY on STL-G.Robinson, Chop Block, 14 yards, enforced at STL 29 - No Play.
+(STL, STL 40, Q3, 1 and 10) (6:29) PENALTY on DET-E.Ansah, Neutral Zone Infraction, 5 yards, enforced at STL 40 - No Play.
+(STL, DET 6, Q3, 1 and 6) (5:08) T.Austin left end to DET 7 for -1 yards (T.Whitehead). PENALTY on STL-T.Austin, Illegal Shift, 5 yards, enforced at DET 6 - No Play.
+(DET, DET 39, Q3, 4 and 12) (1:04) S.Martin punts 44 yards to STL 17, Center-D.Muhlbach. T.Austin for 83 yards, TOUCHDOWN NULLIFIED by Penalty. DET-D.Carey was injured during the play.  PENALTY on STL-C.Davis, Offensive Holding, 9 yards, enforced at STL 18.
+(DET, DET 17, Q4, 2 and 6) (11:35) (Shotgun) PENALTY on STL-E.Westbrooks, Neutral Zone Infraction, 5 yards, enforced at DET 17 - No Play.
+(CLE, SF 20, Q2, 1 and 10) (12:24) (Shotgun) I.Crowell right guard to SF 1 for 19 yards (K.Acker). PENALTY on CLE-A.Pasztor, Offensive Holding, 10 yards, enforced at SF 20 - No Play.
+(CLE, SF 9, Q2, 2 and 9) (10:46) PENALTY on CLE-J.Manziel, False Start, 5 yards, enforced at SF 9 - No Play.
+(CLE, CLE 20, Q2, 1 and 10) (4:12) (Shotgun) PENALTY on CLE-J.Greco, False Start, 5 yards, enforced at CLE 20 - No Play.
+(CLE, CLE 4, Q2, 3 and 26) (3:24) (Shotgun) J.Manziel sacked in End Zone for -4 yards, SAFETY NULLIFIED by Penalty (C.Lemonier). PENALTY on SF-C.Lemonier, Face Mask (15 Yards), 15 yards, enforced at CLE 4 - No Play.
+(CLE, CLE 38, Q2, 2 and 7) (2:00) (Shotgun) J.Manziel pass incomplete short left to D.Johnson Jr. PENALTY on SF-G.Hodges, Defensive Pass Interference, 2 yards, enforced at CLE 38 - No Play.
+(SF, SF 15, Q3, 1 and 10) (7:11) (Shotgun) B.Gabbert pass incomplete short left to A.Boldin. PENALTY on CLE-N.Orchard, Defensive Pass Interference, 7 yards, enforced at SF 15 - No Play.
+(SF, SF 22, Q3, 1 and 10) (7:08) (Shotgun) B.Gabbert scrambles right end to SF 27 for 5 yards (T.Williams). PENALTY on CLE-C.Robertson, Unsportsmanlike Conduct, 15 yards, enforced at SF 27.
+(SF, SF 42, Q3, 1 and 10) (6:47) B.Gabbert pass deep left to Q.Patton to CLE 23 for 35 yards (K.Williams). PENALTY on SF-Q.Patton, Illegal Motion, 5 yards, enforced at SF 42 - No Play.
+(SF, SF 41, Q4, 4 and 3) (13:47) (Punt formation) B.Pinion punts 41 yards to CLE 18, Center-K.Nelson. T.Benjamin to CLE 18 for no gain (R.Armstrong). PENALTY on CLE-J.Bademosi, Offensive Holding, 9 yards, enforced at CLE 18.
+(CLE, SF 6, Q4, 3 and 6) (9:43) (Shotgun) J.Manziel pass incomplete short right to D.Jennings. PENALTY on SF-M.Cromartie, Defensive Holding, 3 yards, enforced at SF 6 - No Play.
+(CLE, SF 3, Q4, 2 and 3) (8:53) I.Crowell right guard for 3 yards, TOUCHDOWN. PENALTY on SF-A.Brooks, Unsportsmanlike Conduct, 15 yards, enforced between downs.
+(SF, SF 20, Q4, 1 and 10) (8:48) (Shotgun) B.Gabbert pass short middle to A.Boldin to SF 29 for 9 yards (D.Whitner). Cleveland challenged the pass completion ruling, and the play was REVERSED. (Shotgun) B.Gabbert pass incomplete to A.Boldin (D.Whitner).
+(CLE, SF 38, Q4, 4 and 2) (3:31) (Run formation) PENALTY on CLE-A.Mack, False Start, 5 yards, enforced at SF 38 - No Play.
+(SF, SF 49, Q4, 1 and 10) (2:00) (Shotgun) B.Gabbert pass short left to T.Cadet to CLE 35 for 16 yards (K.Williams). PENALTY on CLE-K.Dansby, Unsportsmanlike Conduct, 15 yards, enforced at CLE 35. Penalty on CLE-K.Dansby, Defensive Holding, declined.
+(DEN, OAK 47, Q1, 1 and 10) (13:36) B.Osweiler pass incomplete short left to E.Sanders (N.Thorpe). PENALTY on OAK-N.Thorpe, Defensive Holding, 5 yards, enforced at OAK 47 - No Play.
+(OAK, OAK 21, Q1, 3 and 9) (8:57) (Shotgun) D.Carr pass incomplete short middle to S.Roberts. PENALTY on DEN-C.Harris, Illegal Contact, 5 yards, enforced at OAK 21 - No Play.
+(OAK, OAK 22, Q1, 4 and 14) (6:53) M.King punts 53 yards to DEN 25, Center-J.Condo. E.Sanders pushed ob at OAK 46 for 29 yards (J.Olawale). PENALTY on DEN-T.Davis, Running Into the Kicker, 5 yards, enforced at OAK 22 - No Play.
+(DEN, DEN 22, Q1, 1 and 10) (6:31) R.Hillman right guard to DEN 33 for 11 yards (M.Edwards). PENALTY on OAK-M.Edwards, Face Mask (15 Yards), 15 yards, enforced at DEN 33.
+(OAK, OAK 20, Q2, 4 and 25) (13:18) M.King punts 52 yards to DEN 28, Center-J.Condo. E.Sanders pushed ob at DEN 36 for 8 yards (B.Heeney). PENALTY on DEN-L.Doss, Offensive Holding, 10 yards, enforced at DEN 36.
+(DEN, DEN 35, Q2, 3 and 1) (11:56) B.Osweiler pass incomplete short right to D.Thomas. PENALTY on OAK-N.Thorpe, Defensive Holding, 4 yards, enforced at DEN 35 - No Play.
+(OAK, DEN 6, Q3, 3 and 1) (10:16) PENALTY on OAK-C.Walford, False Start, 5 yards, enforced at DEN 6 - No Play.
+(OAK, OAK 40, Q3, 3 and 10) (7:56) (Shotgun) PENALTY on OAK-R.Hudson, False Start, 5 yards, enforced at OAK 40 - No Play.
+(OAK, DEN 49, Q3, 2 and 6) (2:53) (Shotgun) D.Carr pass deep left to C.Walford ran ob at DEN 32 for 17 yards. Denver challenged the pass completion ruling, and the play was REVERSED. (Shotgun) D.Carr pass incomplete deep left to C.Walford (D.Stewart).
+(DEN, DEN 20, Q3) B.Colquitt kicks 63 yards from DEN 20 to OAK 17. J.Ross to OAK 33 for 16 yards (S.Barrett). PENALTY on OAK-K.McGill, Offensive Holding, 10 yards, enforced at OAK 33.
+(OAK, OAK 36, Q4, 3 and 9) (15:00) (Shotgun) PENALTY on OAK-D.Penn, False Start, 6 yards, enforced at OAK 36 - No Play.
+(OAK, DEN 11, Q4, 2 and 10) (14:35) (Shotgun) PENALTY on OAK-L.Smith, False Start, 5 yards, enforced at DEN 11 - No Play.
+(OAK, OAK 39, Q4, 1 and 10) (10:22) PENALTY on OAK-L.Smith, False Start, 5 yards, enforced at OAK 39 - No Play.
+(DEN, DEN 14, Q4, 1 and 10) (8:48) R.Hillman right end to DEN 20 for 6 yards (C.Lofton). PENALTY on DEN-V.Davis, Offensive Holding, 7 yards, enforced at DEN 14 - No Play.
+(OAK, DEN 36, Q4, 2 and 9) (3:03) L.Murray right end to DEN 35 for 1 yard (T.Davis). PENALTY on OAK-A.Cooper, Illegal Block Above the Waist, 10 yards, enforced at DEN 35.
+(DAL, DAL 35, Q1) D.Bailey kicks 68 yards from DAL 35 to GB -3. J.Janis to GB 24 for 27 yards (J.Wilcox, K.Wilber). PENALTY on GB-D.Jones, Offensive Holding, 9 yards, enforced at GB 18.
+(DAL, DAL 33, Q1, 2 and 1) (11:54) M.Cassel pass incomplete short middle to D.Bryant. PENALTY on GB-S.Shields, Defensive Holding, 5 yards, enforced at DAL 33 - No Play.
+(GB, GB 48, Q1, 3 and 4) (6:58) (No Huddle, Shotgun) PENALTY on GB-J.Kuhn, False Start, 5 yards, enforced at GB 48 - No Play.
+(GB, GB 43, Q1, 3 and 9) (6:33) (Shotgun) A.Rodgers pass incomplete deep left to R.Cobb [D.Lawrence]. PENALTY on DAL-T.Patmon, Defensive Holding, 5 yards, enforced at GB 43 - No Play.
+(GB, DAL 41, Q1, 1 and 10) (6:10) (No Huddle, Shotgun) J.Starks left end to DAL 37 for 4 yards (S.Lee, J.Wilcox). PENALTY on GB-D.Bakhtiari, Offensive Holding, 10 yards, enforced at DAL 41 - No Play.
+(GB, DAL 18, Q1, 2 and 10) (3:26) (No Huddle, Shotgun) E.Lacy left tackle to DAL 12 for 6 yards (B.Jones). PENALTY on GB-J.Sitton, Offensive Holding, 10 yards, enforced at DAL 18 - No Play.
+(GB, DAL 27, Q2, 2 and 5) (12:40) (No Huddle) A.Rodgers pass short right to R.Cobb pushed ob at DAL 22 for 5 yards (B.Church). PENALTY on GB-D.Adams, Offensive Holding, 10 yards, enforced at DAL 22.
+(GB, DAL 19, Q2, 1 and 10) (11:13) (No Huddle) A.Rodgers pass incomplete deep middle to R.Cobb [R.Gregory]. PENALTY on DAL-G.Hardy, Defensive Offside, 5 yards, enforced at DAL 19 - No Play.
+(DAL, DAL 38, Q2, 3 and 5) (7:06) (Shotgun) M.Cassel pass deep middle to D.Bryant to GB 34 for 28 yards (D.Randall). Green Bay challenged the pass completion ruling, and the play was REVERSED. (Shotgun) M.Cassel pass incomplete deep middle to D.Bryant (D.Randall).
+(GB, DAL 22, Q2, 2 and 5) (3:13) (No Huddle, Shotgun) A.Rodgers pass incomplete deep middle to R.Rodgers (J.Wilcox). PENALTY on DAL-J.Wilcox, Illegal Contact, 5 yards, enforced at DAL 22 - No Play.
+(GB, DAL 15, Q2) (Kick formation) PENALTY on DAL-T.Crawford, Defensive Offside, 5 yards, enforced between downs.
+(DAL, DAL 37, Q2, 2 and 10) (:18) (Shotgun) PENALTY on DAL-T.Smith, False Start, 5 yards, enforced at DAL 37 - No Play.
+(DAL, DAL 33, Q3, 4 and 1) (3:06) C.Jones punts 38 yards to GB 29, Center-L.Ladouceur, out of bounds. PENALTY on GB-D.Randall, Offensive Holding, 10 yards, enforced at GB 29.
+(DAL, DAL 30, Q4, 2 and 8) (12:32) PENALTY on DAL-T.Frederick, False Start, 5 yards, enforced at DAL 30 - No Play.
+(GB, DAL 20, Q4, 2 and 15) (5:20) (Shotgun) A.Rodgers pass short left to R.Rodgers to DAL 10 for 10 yards (J.Crawford, A.Hitchens). PENALTY on GB-J.Jones, Offensive Pass Interference, 10 yards, enforced at DAL 20 - No Play.
+(BAL, BAL 22, Q1, 3 and 8) (13:49) (Shotgun) PENALTY on SEA-B.Irvin, Neutral Zone Infraction, 5 yards, enforced at BAL 22 - No Play.
+(BAL, BAL 27, Q1, 4 and 3) (13:33) (Punt formation) S.Koch punts 58 yards to SEA 15, Center-M.Cox. T.Lockett to SEA 18 for 3 yards (A.Levine). Penalty on SEA, Illegal Block Above the Waist, declined. PENALTY on SEA-C.Marsh, Defensive Offside, 5 yards, enforced at BAL 27 - No Play.
+(SEA, SEA 37, Q2, 3 and 5) (11:13) (Shotgun) R.Wilson pass deep left to T.Lockett to BAL 37 for 26 yards (L.Webb). PENALTY on BAL-L.Webb, Unnecessary Roughness, 15 yards, enforced at BAL 37.
+(BAL, BAL 12, Q2, 2 and 5) (7:51) (Shotgun) J.Clausen pass short left to K.Aiken to BAL 12 for no gain (K.McCray). PENALTY on BAL-R.Jensen, Illegal Block Above the Waist, 6 yards, enforced at BAL 12 - No Play.
+(BAL, BAL 23, Q2, 2 and 10) (:54) (Shotgun) PENALTY on BAL-J.Clausen, False Start, 5 yards, enforced at BAL 23 - No Play.
+(BAL, SEA 22, Q2, 2 and 10) (:05) J.Clausen kneels to SEA 24 for -2 yards (M.Bennett). PENALTY on SEA-C.Avril, Unsportsmanlike Conduct, 12 yards, enforced at SEA 24.
+(SEA, BAL 28, Q3, 1 and 10) (9:39) D.Harris right tackle to BAL 25 for 3 yards (D.Smith; B.Urban). PENALTY on BAL-T.Jernigan, Unnecessary Roughness, 13 yards, enforced at BAL 25.
+(SEA, BAL 12, Q3, 2 and 10) (9:07) (Shotgun) R.Wilson pass incomplete short right to C.Helfet. PENALTY on SEA-C.Helfet, Offensive Pass Interference, 10 yards, enforced at BAL 12 - No Play.
+(BAL, BAL 20, Q3, 1 and 10) (8:54) No. 74 - Hurst (BAL) reports as eligible.  PENALTY on BAL-M.Williams, False Start, 5 yards, enforced at BAL 20 - No Play.
+(BAL, BAL 19, Q3, 3 and 11) (8:10) (No Huddle, Shotgun) J.Clausen pass incomplete deep right to K.Aiken (M.Burley). PENALTY on SEA-J.Lane, Illegal Use of Hands, 5 yards, enforced at BAL 19 - No Play.
+(SEA, SEA 32, Q4, 3 and 1) (12:38) (Shotgun) PENALTY on SEA-R.Wilson, Delay of Game, 5 yards, enforced at SEA 32 - No Play.
+(BAL, BAL 46, Q4, 1 and 10) (11:34) (Shotgun) J.Clausen pass short middle to K.Aiken to SEA 49 for 5 yards (K.McCray). PENALTY on BAL-R.Wagner, Offensive Holding, 10 yards, enforced at BAL 46 - No Play.
+(SEA, BAL 15, Q4) S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan. PENALTY on BAL-A.Levine, Leaping, 15 yards, enforced between downs.
+(BAL, BAL 20, Q4, 1 and 10) (8:55) T.West left tackle to BAL 37 for 17 yards (K.McCray). PENALTY on BAL-C.Matthews, Offensive Holding, 10 yards, enforced at BAL 37.
+(SEA, SEA 25, Q4, 2 and 10) (2:00) D.Coleman right tackle to SEA 44 for 19 yards (S.Wright). PENALTY on BAL-C.Upshaw, Unnecessary Roughness, 15 yards, enforced at SEA 44.
+(MIA, NYG 26, Q1, 2 and 10) (6:26) (Shotgun) PENALTY on NYG-C.Jenkins, Encroachment, 5 yards, enforced at NYG 26 - No Play.
+(NYG, NYG 10, Q2, 1 and 10) (5:49) E.Manning pass incomplete deep right to O.Beckham Jr. [D.Shelby]. PENALTY on NYG-O.Beckham Jr., Offensive Pass Interference, 5 yards, enforced at NYG 10 - No Play.
+(NYG, NYG 25, Q2, 2 and 5) (3:23) (No Huddle, Shotgun) PENALTY on MIA-N.Suh, Defensive Offside, 4 yards, enforced at NYG 25 - No Play.
+(NYG, NYG 25, Q2, 2 and 5) (1:29) (No Huddle, Shotgun) E.Manning pass deep middle to O.Beckham Jr. to MIA 30 for 45 yards (B.Grimes). PENALTY on MIA-O.Vernon, Roughing the Passer, 15 yards, enforced at MIA 30.
+(MIA, MIA 23, Q2, 2 and 10) (:34) (Shotgun) R.Tannehill pass short middle to J.Ajayi to MIA 34 for 11 yards (U.Unga). PENALTY on MIA-J.Cameron, Illegal Shift, 5 yards, enforced at MIA 23 - No Play.
+(MIA, MIA 26, Q2, 4 and 7) (:13) (Punt formation) M.Darr punts 56 yards to NYG 18, Center-J.Denney. D.Harris to NYG 28 for 10 yards (J.Jenkins). PENALTY on MIA, Illegal Use of Hands, 10 yards, enforced at MIA 26 - No Play.
+(MIA, MIA 39, Q3, 1 and 10) (12:52) L.Miller left tackle to MIA 40 for 1 yard (M.Kuhn). PENALTY on MIA-B.Turner, Offensive Holding, 10 yards, enforced at MIA 39 - No Play.
+(MIA, NYG 42, Q3, 3 and 2) (9:57) (Shotgun) PENALTY on MIA-D.Thomas, False Start, 5 yards, enforced at NYG 42 - No Play.
+(NYG, NYG 36, Q3, 2 and 10) (7:47) (No Huddle) O.Darkwa left end to NYG 36 for no gain (R.Jones; J.Taylor). MIA-J.Jenkins was injured during the play. His return is Questionable.  PENALTY on MIA-R.Jones, Face Mask (15 Yards), 15 yards, enforced at NYG 36.
+(NYG, MIA 6, Q3, 1 and 6) (5:07) E.Manning pass incomplete short right to O.Beckham Jr.. New York Giants challenged the incomplete pass ruling, and the play was REVERSED. E.Manning pass short right to O.Beckham Jr. for 6 yards, TOUCHDOWN.
+(MIA, MIA 21, Q3, 2 and 9) (4:22) (Shotgun) R.Tannehill pass short right to J.Cameron to MIA 28 for 7 yards (M.Herzlich). FUMBLES (M.Herzlich), and recovers at MIA 28. New York Giants challenged the loose ball recovery ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)
+(NYG, NYG 18, Q3, 2 and 11) (2:41) (No Huddle, Shotgun) E.Manning pass incomplete deep right to O.Beckham Jr.. PENALTY on MIA-B.Grimes, Defensive Pass Interference, 14 yards, enforced at NYG 18 - No Play.
+(NYG, NYG 32, Q3, 1 and 10) (2:35) (No Huddle, Shotgun) E.Manning pass incomplete deep left to H.Nicks. PENALTY on MIA-J.Phillips, Roughing the Passer, 15 yards, enforced at NYG 32 - No Play.
+(MIA, MIA 39, Q3, 1 and 10) (:33) PENALTY on MIA-D.Thomas, False Start, 5 yards, enforced at MIA 39 - No Play.
+(NYG, MIA 15, Q4) J.Brown extra point is GOOD, Center-D.Aiken, Holder-B.Wing. PENALTY on NYG-M.Newhouse, Unsportsmanlike Conduct, 15 yards, enforced between downs.
+(MIA, NYG 31, Q4, 3 and 10) (7:39) (Shotgun) R.Tannehill pass incomplete short middle to Da.Williams. PENALTY on MIA-J.Fox, Offensive Holding, 10 yards, enforced at NYG 31 - No Play.
+(MIA, NYG 48, Q4, 1 and 10) (5:50) (Shotgun) R.Tannehill pass incomplete short left to J.Landry (T.Wade). PENALTY on MIA-J.Landry, Unnecessary Roughness, 15 yards, enforced at NYG 48.
+(STL, STL 17, Q1, 2 and 8) (8:07) (Shotgun) PENALTY on STL-G.Robinson, False Start, 5 yards, enforced at STL 17 - No Play.
+(TB, TB 27, Q1, 3 and 3) (2:02) (Shotgun) J.Winston pass incomplete [M.Alexander]. PENALTY on TB-J.Winston, Intentional Grounding, 10 yards, enforced at TB 27.
+(TB, TB 4, Q2, 1 and 10) (14:45) D.Martin right guard to TB 8 for 4 yards (R.McLeod). PENALTY on TB-G.Cherilus, Illegal Formation, 2 yards, enforced at TB 4 - No Play.
+(STL, TB 28, Q2, 1 and 10) (4:05) T.Gurley right tackle to TB 24 for 4 yards (W.Gholston). PENALTY on TB-W.Gholston, Unnecessary Roughness, 12 yards, enforced at TB 24.
+(TB, TB 32, Q3, 2 and 10) (13:37) D.Martin right end to TB 33 for 1 yard (A.Donald). PENALTY on STL-J.Jenkins, Unnecessary Roughness, 15 yards, enforced at TB 33.
+(TB, TB 48, Q3, 1 and 10) (13:17) J.Winston pass deep right to M.Evans ran ob at STL 26 for 26 yards. PENALTY on TB, Illegal Formation, 5 yards, enforced at TB 48 - No Play.
+(TB, TB 43, Q3, 1 and 15) (12:53) J.Winston pass deep right to M.Evans pushed ob at STL 37 for 20 yards (T.Johnson). St. Louis challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)
+(TB, STL 23, Q3, 1 and 10) (12:04) (Shotgun) J.Winston scrambles right tackle to STL 22 for 1 yard (L.Joyner). PENALTY on STL-W.Hayes, Defensive Offside, 5 yards, enforced at STL 23 - No Play.
+(TB, STL 9, Q3, 2 and 9) (9:54) (Shotgun) PENALTY on TB-J.Winston, Delay of Game, 5 yards, enforced at STL 9 - No Play.
+(STL, TB 43, Q3, 1 and 10) (2:07) PENALTY on TB-G.McCoy, Encroachment, 5 yards, enforced at TB 43 - No Play.
+(STL, TB 37, Q3, 3 and 4) (:46) (Shotgun) PENALTY on STL-C.Keenum, Delay of Game, 5 yards, enforced at TB 37 - No Play.
+(STL, TB 38, Q4, 4 and 5) (15:00) J.Hekker punts 34 yards to TB 4, impetus ends at TB 6, Center-J.McQuaide, downed by STL-C.Reynolds. PENALTY on TB-D.Bowers, Offensive Holding, 2 yards, enforced at TB 4.
+(TB, STL 15, Q4) TWO-POINT CONVERSION ATTEMPT. J.Winston pass to R.Shepard is complete. ATTEMPT SUCCEEDS. PENALTY on TB-A.Marpet, Offensive Holding, 10 yards, enforced at STL 15 - No Play.
+(TB, STL 13, Q4, 2 and 10) (8:09) (Shotgun) PENALTY on STL-E.Sims, Encroachment, 5 yards, enforced at STL 13 - No Play.
+(TB, STL 8, Q4, 2 and 5) (8:09) (Shotgun) J.Winston pass short right to A.Seferian-Jenkins to STL 1 for 7 yards (M.Alexander). PENALTY on TB-A.Seferian-Jenkins, Delay of Game, 5 yards, enforced between downs.
+(DAL, NYJ 45, Q1, 2 and 12) (9:05) M.Cassel pass short right to D.McFadden to NYJ 40 for 5 yards (D.Harris). PENALTY on DAL-Z.Martin, Illegal Block Above the Waist, 10 yards, enforced at NYJ 40.
+(NYJ, DAL 35, Q1, 1 and 10) (8:29) PENALTY on NYJ-B.Winters, False Start, 5 yards, enforced at DAL 35 - No Play.
+(NYJ, DAL 50, Q1, 3 and 10) (1:24) (Shotgun) R.Fitzpatrick pass short middle to E.Decker to DAL 37 for 13 yards (B.Jones). Dallas challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+(NYJ, NYJ 35, Q1) R.Bullock kicks 67 yards from NYJ 35 to DAL -2. L.Whitehead to DAL 29 for 31 yards (R.Miles). PENALTY on NYJ-J.Cumberland, Illegal Use of Hands, 5 yards, enforced at DAL 29.
+(NYJ, DAL 24, Q2, 1 and 10) (9:45) (Shotgun) B.Powell right end to DAL 26 for -2 yards (B.Carr). PENALTY on NYJ-B.Winters, Offensive Holding, 10 yards, enforced at DAL 24 - No Play.
+(NYJ, NYJ 9, Q2, 2 and 12) (4:42) PENALTY on NYJ-K.Davis, False Start, 4 yards, enforced at NYJ 9 - No Play.
+(NYJ, NYJ 14, Q2, 3 and 7) (2:57) (Shotgun) R.Fitzpatrick pass deep left to Q.Enunwa to NYJ 48 for 34 yards (B.Carr). PENALTY on NYJ-B.Winters, Illegal Use of Hands, 7 yards, enforced at NYJ 14 - No Play.
+(DAL, DAL 45, Q2, 1 and 10) (1:47) (Shotgun) K.Moore pass short middle to T.Williams to NYJ 41 for 14 yards (C.Pace). PENALTY on NYJ-C.Pace, Horse Collar Tackle, 15 yards, enforced at NYJ 41.
+(NYJ, DAL 49, Q2, 1 and 10) (:31) (Shotgun) R.Fitzpatrick pass incomplete deep left to B.Marshall. PENALTY on DAL-B.Carr, Defensive Pass Interference, 19 yards, enforced at DAL 49 - No Play.
+(NYJ, DAL 22, Q2, 4 and 2) (:13) (Field Goal formation) R.Bullock 40 yard field goal is GOOD, NULLIFIED by Penalty, Center-T.Purdum, Holder-R.Quigley. PENALTY on NYJ, Illegal Shift, 5 yards, enforced at DAL 22 - No Play.
+(DAL, DAL 35, Q3) D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback. PENALTY on DAL, Offside on Free Kick, 5 yards, enforced at NYJ 20. Injury update: Muhammad Wilkerson has a head injury and has been taken to the locker room for evaluation.
+(DAL, DAL 36, Q4, 4 and 8) (14:21) (Punt formation) PENALTY on DAL-A.Gachkar, False Start, 5 yards, enforced at DAL 36 - No Play.
+(NYJ, DAL 22, Q4, 2 and 9) (11:17) C.Ivory right end to DAL 13 for 9 yards (A.Hitchens). PENALTY on NYJ-B.Giacomini, Offensive Holding, 10 yards, enforced at DAL 22 - No Play.
+(DAL, DAL 46, Q4, 1 and 10) (6:55) R.Turbin up the middle to 50 for 4 yards (D.Harrison; E.Henderson). PENALTY on DAL-Z.Martin, Offensive Holding, 10 yards, enforced at DAL 46 - No Play.
+(DAL, DAL 36, Q4, 1 and 20) (6:29) (Shotgun) PENALTY on DAL-L.Collins, False Start, 5 yards, enforced at DAL 36 - No Play.
+(NYG, NYG 24, Q1, 3 and 6) (13:51) (No Huddle, Shotgun) E.Manning pass incomplete deep middle to O.Beckham Jr. (L.Kuechly). PENALTY on CAR-L.Kuechly, Defensive Pass Interference, 24 yards, enforced at NYG 24 - No Play.
+(CAR, CAR 5, Q1, 4 and 9) (11:46) B.Nortman punts 44 yards to CAR 49, Center-J.Jansen. D.Harris pushed ob at CAR 32 for 17 yards (M.Addison). PENALTY on NYG-T.Jacobs, Offensive Holding, 10 yards, enforced at CAR 40. Officially, a return for 9 yards.
+(CAR, 50, Q1, 1 and 10) (7:17) (Shotgun) C.Newton up the middle pushed ob at NYG 3 for 47 yards (C.Dahl). PENALTY on NYG-L.Collins, Unnecessary Roughness, 2 yards, enforced at NYG 3.
+(NYG, NYG 41, Q1, 1 and 10) (3:36) (No Huddle) S.Vereen left tackle to NYG 45 for 4 yards (K.Coleman). PENALTY on CAR-C.Finnegan, Unnecessary Roughness, 15 yards, enforced at NYG 45.
+(CAR, CAR 37, Q2, 4 and 16) (14:07) B.Nortman punts 54 yards to NYG 9, Center-J.Jansen. D.Harris to NYG 11 for 2 yards (M.Addison). PENALTY on NYG-P.Amukamara, Illegal Block Above the Waist, 3 yards, enforced at NYG 6. Officially, a return for 0 yards.
+(NYG, NYG 3, Q2, 1 and 10) (13:52) A.Williams up the middle to NYG 5 for 2 yards (J.Allen, C.Johnson). PENALTY on NYG-O.Beckham Jr., Unnecessary Roughness, 2 yards, enforced at NYG 5.
+(NYG, NYG 29, Q2, 4 and 5) (10:55) B.Wing punts 46 yards to CAR 25, Center-D.Aiken. T.Ginn to CAR 25 for no gain (L.Collins). PENALTY on CAR-A.Klein, Offensive Holding, 10 yards, enforced at CAR 25.
+(NYG, CAR 48, Q2, 3 and 3) (6:25) (No Huddle, Shotgun) E.Manning pass short middle to D.Harris to CAR 35 for 13 yards (C.Tillman) [K.Ealy]. PENALTY on NYG-W.Tye, Offensive Pass Interference, 10 yards, enforced at CAR 48 - No Play.
+(NYG, NYG 49, Q2, 2 and 3) (3:37) R.Jennings left end to CAR 49 for 2 yards (S.Thompson). Carolina challenged the fumble ruling, and the play was REVERSED. R.Jennings left end to CAR 49 for 2 yards (C.Tillman, S.Thompson). FUMBLES (C.Tillman), touched at CAR 49, RECOVERED by CAR-C.Tillman at NYG 46.
+(CAR, NYG 14, Q3, 3 and 14) (5:38) (Shotgun) C.Newton pass short left to T.Ginn for 14 yards, TOUCHDOWN. PENALTY on CAR-T.Ginn, Unsportsmanlike Conduct, 15 yards, enforced between downs.
+(NYG, CAR 45, Q3, 4 and 2) (3:43) (No Huddle, Shotgun) E.Manning pass short left to O.Beckham Jr. to CAR 40 for 5 yards (J.Norman). PENALTY on NYG-O.Beckham Jr., Unnecessary Roughness, 15 yards, enforced between downs.
+(NYG, NYG 45, Q3, 2 and 10) (3:16) (No Huddle, Shotgun) PENALTY on NYG-M.White, False Start, 5 yards, enforced at NYG 45 - No Play.
+(NYG, CAR 38, Q3, 2 and 7) (2:30) (No Huddle, Shotgun) E.Manning pass short middle to M.White to CAR 28 for 10 yards (L.Kuechly). PENALTY on CAR-J.Norman, Unnecessary Roughness, 14 yards, enforced at CAR 28.
+(NYG, CAR 15, Q4) J.Brown extra point is GOOD, Center-D.Aiken, Holder-B.Wing. PENALTY on CAR-T.Davis, Defensive Offside, 5 yards, enforced between downs.
+(CAR, CAR 16, Q4, 2 and 10) (5:12) (No Huddle, Shotgun) PENALTY on CAR-M.Remmers, False Start, 5 yards, enforced at CAR 16 - No Play.
+(PHI, PHI 32, Q1, 3 and 4) (9:47) (No Huddle, Shotgun) PENALTY on PHI-N.Agholor, False Start, 5 yards, enforced at PHI 32 - No Play.
+(PHI, ARI 22, Q1, 2 and 3) (7:47) (No Huddle, Shotgun) S.Bradford pass incomplete deep left to Z.Ertz (T.Mathieu). PENALTY on PHI-R.Mathews, Offensive Holding, 10 yards, enforced at ARI 22 - No Play.
+(ARI, ARI 22, Q2, 2 and 6) (11:39) (Shotgun) C.Palmer scrambles left end to ARI 30 for 8 yards (E.Biggers). PENALTY on ARI-M.Iupati, Offensive Holding, 10 yards, enforced at ARI 22 - No Play.
+(ARI, PHI 30, Q3, 3 and 2) (9:59) (Shotgun) C.Palmer pass deep right to M.Floyd to PHI 1 for 29 yards. Philadelphia challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+(ARI, ARI 35, Q3) C.Catanzaro kicks 61 yards from ARI 35 to PHI 4. J.Huff to PHI 13 for 9 yards (T.Niklas). PENALTY on PHI-C.Maragos, Illegal Block Above the Waist, 6 yards, enforced at PHI 13.
+(ARI, PHI 28, Q3, 1 and 10) (:51) C.Palmer pass incomplete short right to L.Fitzgerald. PENALTY on PHI-J.Watkins, Defensive Pass Interference, 12 yards, enforced at PHI 28 - No Play.
+(PHI, PHI 27, Q4, 1 and 10) (14:43) (Shotgun) PENALTY on PHI-J.Peters, False Start, 5 yards, enforced at PHI 27 - No Play.
+(CHI, 50, Q1, 1 and 10) (14:54) M.Forte up the middle to MIN 15 for 35 yards (T.Newman). PENALTY on CHI-H.Grasu, Offensive Holding, 10 yards, enforced at 50 - No Play.
+(MIN, CHI 22, Q1, 2 and 3) (7:00) A.Peterson left guard to CHI 23 for -1 yards (J.Timu). PENALTY on CHI-L.Houston, Defensive Offside, 5 yards, enforced at CHI 22 - No Play.
+(MIN, MIN 21, Q2, 2 and 7) (9:16) (Shotgun) T.Bridgewater scrambles up the middle to MIN 34 for 13 yards (J.Jenkins). PENALTY on MIN-M.Harris, Offensive Holding, 10 yards, enforced at MIN 21 - No Play.
+(CHI, MIN 30, Q2, 2 and 1) (6:52) (No Huddle, Shotgun) J.Cutler left tackle to MIN 30 for no gain (D.Hunter). PENALTY on MIN-D.Hunter, Face Mask (15 Yards), 15 yards, enforced at MIN 30 - No Play.
+(MIN, MIN 29, Q2, 3 and 1) (4:09) A.Peterson up the middle to MIN 28 for -1 yards (J.Timu). PENALTY on CHI-W.Sutton, Defensive Offside, 5 yards, enforced at MIN 29 - No Play.
+(CHI, CHI 35, Q3, 3 and 17) (:38) (Shotgun) PENALTY on CHI-M.Slauson, False Start, 5 yards, enforced at CHI 35 - No Play.
+(CHI, CHI 30, Q3, 3 and 22) (:21) (Shotgun) J.Cutler pass short middle to E.Royal to MIN 47 for 23 yards (A.Harris). PENALTY on CHI-J.Langford, Offensive Holding, 10 yards, enforced at CHI 40.
+(MIN, MIN 35, Q4) B.Walsh kicks 72 yards from MIN 35 to CHI -7. D.Thompson to CHI 20 for 27 yards (R.Blanton). PENALTY on MIN-J.Trusnik, Unnecessary Roughness, 15 yards, enforced at CHI 20.
+(MIN, CHI 3, Q4, 3 and 3) (2:00) (Run formation) PENALTY on MIN-M.Harris, False Start, 5 yards, enforced at CHI 3 - No Play.
+(MIN, CHI 8, Q4, 3 and 8) (2:00) M.Asiata right tackle to CHI 9 for -1 yards (M.Unrein). PENALTY on CHI-J.Jenkins, Defensive Offside, 4 yards, enforced at CHI 8 - No Play.
+(ATL, ATL 44, Q1, 4 and 7) (8:56) (Punt formation) E.Weems left end pushed ob at JAC 48 for 8 yards (P.Thompson). PENALTY on ATL-K.Ishmael, Offensive Holding, 10 yards, enforced at ATL 48.
+(JAC, JAC 36, Q1, 3 and 4) (5:15) (Shotgun) B.Bortles pass short middle to J.Thomas to JAC 45 for 9 yards (N.Stupar). PENALTY on JAC-L.Joeckel, Offensive Holding, 10 yards, enforced at JAC 36 - No Play.
+(ATL, ATL 19, Q2, 1 and 10) (14:00) M.Ryan pass incomplete short left to J.Jones. PENALTY on JAC-D.House, Defensive Holding, 5 yards, enforced at ATL 19 - No Play.
+(ATL, ATL 35, Q2, 3 and 13) (12:13) (Shotgun) M.Ryan pass short left to D.Freeman to ATL 47 for 12 yards (D.House). PENALTY on ATL-A.Levitre, Offensive Holding, 10 yards, enforced at ATL 35 - No Play.
+(ATL, ATL 31, Q2, 4 and 10) (1:53) M.Bosher punts 47 yards to JAC 22, Center-J.Harris. R.Greene to JAC 42 for 20 yards (N.Stupar). PENALTY on JAC-C.Harbor, Offensive Holding, 10 yards, enforced at JAC 22.
+(JAC, JAC 33, Q2, 1 and 10) (:56) (No Huddle, Shotgun) B.Bortles right end to JAC 34 for 1 yard. B.Bortles pass deep right to A.Hurns to ATL 45 for 21 yards (R.Allen). PENALTY on JAC-B.Bortles, Illegal Forward Pass, 5 yards, enforced at JAC 34. The Replay Official reviewed the illegal forward pass ruling, and the play was REVERSED. (No Huddle, Shotgun) B.Bortles pass short right to A.Hurns to ATL 45 for 22 yards (R.Allen).
+(JAC, ATL 4, Q3, 3 and 4) (10:51) (Shotgun) B.Bortles pass incomplete short right to A.Hurns. PENALTY on ATL-O.Schofield, Defensive Pass Interference, 3 yards, enforced at ATL 4 - No Play.
+(JAC, ATL 23, Q3, 2 and 4) (7:50) (Shotgun) B.Bortles left end to ATL 20 for 3 yards (R.Alford). Jacksonville challenged the first down ruling, and the play was REVERSED. (Shotgun) B.Bortles left end to ATL 19 for 4 yards (R.Alford).
+(ATL, JAC 46, Q3, 3 and 7) (:59) (Shotgun) M.Ryan pass incomplete short left to N.Williams. PENALTY on JAC-D.House, Defensive Pass Interference, 6 yards, enforced at JAC 46 - No Play.
+(ATL, ATL 38, Q4, 1 and 10) (13:24) M.Ryan pass incomplete deep left to J.Jones. PENALTY on JAC-T.Smith, Defensive Pass Interference, 31 yards, enforced at ATL 38 - No Play.
+(ATL, JAC 34, Q4, 1 and 10) (4:04) M.Ryan pass short middle to D.Freeman to JAC 36 for -2 yards (A.Branch). PENALTY on ATL-R.White, Offensive Pass Interference, 10 yards, enforced at JAC 34 - No Play.
+(ATL, JAC 24, Q4, 3 and 14) (2:00) (Shotgun) M.Ryan pass short left to D.Freeman to JAC 19 for 5 yards (D.House). JAC-J.Evans was injured during the play. His return is Questionable.  Penalty on ATL-J.Tamme, Illegal Block Above the Waist, declined. PENALTY on ATL-A.Levitre, Illegal Block Above the Waist, 10 yards, enforced at JAC 19.
+(HOU, HOU 21, Q1, 2 and 9) (14:28) T.Yates pass incomplete deep left to D.Hopkins. PENALTY on IND-V.Davis, Defensive Pass Interference, 22 yards, enforced at HOU 21 - No Play.
+(IND, HOU 16, Q1, 2 and 9) (:03) (Shotgun) PENALTY on HOU-J.Watt, Neutral Zone Infraction, 5 yards, enforced at HOU 16 - No Play.
+(HOU, HOU 17, Q2, 1 and 10) (10:50) K.Lamm reported in as eligible.  A.Blue right tackle to HOU 18 for 1 yard (K.Langford). PENALTY on HOU-C.Shorts III, Offensive Holding, 8 yards, enforced at HOU 17 - No Play.
+(HOU, HOU 8, Q2, 1 and 10) (2:15) (Shotgun) T.Yates sacked at HOU 4 for -4 yards (K.Langford). PENALTY on IND-T.Cole, Defensive Offside, 5 yards, enforced at HOU 8 - No Play.
+(HOU, IND 47, Q2, 1 and 10) (1:28) (Shotgun) T.Yates pass incomplete short left to D.Hopkins (V.Davis). PENALTY on IND-V.Davis, Defensive Pass Interference, 13 yards, enforced at IND 47 - No Play.
+(HOU, IND 34, Q2, 1 and 10) (1:24) (Shotgun) T.Yates scrambles left tackle to IND 15 for 19 yards (D.Butler). HOU-T.Yates was injured during the play. He is Out.  PENALTY on HOU-D.Brown, Offensive Holding, 10 yards, enforced at IND 34 - No Play.
+(IND, IND 39, Q3, 4 and 1) (12:32) P.McAfee punts 41 yards to HOU 20, Center-M.Overton. K.Mumphery to HOU 35 for 15 yards (J.McNary; W.Guy). PENALTY on HOU-W.Mercilus, Running Into the Kicker, 5 yards, enforced at IND 39 - No Play. Penalty on HOU-A.Bouye, Defensive Holding, declined. Houston challenged the running into the kicker ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+(IND, IND 47, Q3, 3 and 7) (11:46) (Shotgun) M.Hasselbeck pass incomplete deep right [J.Watt]. PENALTY on IND-M.Hasselbeck, Intentional Grounding, 12 yards, enforced at IND 47.
+(HOU, HOU 30, Q3, 4 and 20) (9:40) S.Lechler punts 59 yards to IND 11, Center-J.Weeks. Q.Bray to IND 26 for 15 yards (J.Simon). PENALTY on IND-J.Brown, Defensive Holding, 5 yards, enforced at IND 11.
+(HOU, IND 20, Q3, 1 and 10) (5:14) A.Blue up the middle to IND 19 for 1 yard (J.Freeman; D.Jackson). PENALTY on HOU-C.Fiedorowicz, Offensive Holding, 10 yards, enforced at IND 20 - No Play.
+(HOU, IND 26, Q3, 3 and 16) (3:58) (Shotgun) B.Weeden pass short right to A.Hunt to IND 6 for 20 yards (D.Lowery; M.Adams). PENALTY on HOU-R.Griffin, Offensive Holding, 10 yards, enforced at IND 21.
+(HOU, IND 44, Q4, 1 and 10) (12:18) (Run formation) K.Lamm reported in as eligible.  B.Weeden pass incomplete deep left to R.Griffin (D.Lowery). PENALTY on IND-D.Lowery, Defensive Pass Interference, 22 yards, enforced at IND 44 - No Play.
+(HOU, IND 13, Q4, 3 and 1) (10:51) (Shotgun) PENALTY on IND-D.Parry, Defensive 12 On-field, 5 yards, enforced at IND 13 - No Play.
+(HOU, HOU 35, Q4) N.Novak kicks 71 yards from HOU 35 to IND -6. Q.Bray to IND 21 for 27 yards (M.Bullough). PENALTY on IND-A.Davis, Illegal Blindside Block, 10 yards, enforced at IND 21.
+(HOU, HOU 14, Q4, 3 and 2) (5:32) (Shotgun) B.Weeden pass short left to D.Hopkins to HOU 21 for 7 yards (M.Adams). Indianapolis challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)
+(NE, NE 30, Q1, 2 and 1) (13:04) C.Fleming reported in as eligible.  B.Bolden up the middle to NE 31 for 1 yard (D.Jones; W.Woodyard). PENALTY on NE-S.Mason, Offensive Holding, 10 yards, enforced at NE 30 - No Play.
+(TEN, TEN 48, Q1, 3 and 14) (3:47) (Shotgun) M.Mariota pass short left to A.Fasano to NE 37 for 15 yards (M.Butler). PENALTY on TEN-C.Warmack, Offensive Holding, 10 yards, enforced at TEN 48 - No Play. Penalty on TEN, Illegal Shift, declined.
+(NE, NE 37, Q1, 2 and 10) (1:52) (Shotgun) J.White right guard to NE 41 for 4 yards (M.Griffin; B.Webb). PENALTY on NE, Illegal Formation, 5 yards, enforced at NE 37 - No Play.
+(TEN, TEN 31, Q2, 3 and 4) (14:22) (Shotgun) PENALTY on TEN-T.Lewan, False Start, 5 yards, enforced at TEN 31 - No Play.
+(NE, NE 45, Q2, 3 and 3) (3:47) (Shotgun) PENALTY on NE-J.Kline, False Start, 5 yards, enforced at NE 45 - No Play.
+(NE, NE 41, Q3, 1 and 10) (7:26) (Shotgun) T.Brady pass deep left to B.LaFell pushed ob at TEN 41 for 18 yards (D.Stafford). PENALTY on TEN-D.Stafford, Unnecessary Roughness, 14 yards, enforced at TEN 41.
+(TEN, TEN 22, Q3, 3 and 8) (4:24) (Shotgun) Z.Mettenberger pass short left intended for T.McBride INTERCEPTED by M.Butler at TEN 32. M.Butler to TEN 32 for no gain (T.McBride). PENALTY on NE-L.Johnson, Defensive Holding, 5 yards, enforced at TEN 22 - No Play.
+(NE, NE 24, Q4, 3 and 6) (8:24) (Shotgun) T.Brady pass short left to J.White to TEN 6 for 70 yards (B.Webb). PENALTY on NE-K.Martin, Offensive Pass Interference, 10 yards, enforced at NE 24 - No Play.
+(KC, KC 32, Q1, 3 and 11) (11:01) (Shotgun) A.Smith scrambles right end pushed ob at KC 38 for 6 yards (T.Jernigan). PENALTY on BAL-T.Jernigan, Unnecessary Roughness, 15 yards, enforced at KC 38.
+(KC, BAL 38, Q1, 3 and 1) (9:22) No.79 - Stephenson reports as eligible. C.West left tackle for 38 yards, TOUCHDOWN. PENALTY on KC-C.West, Unsportsmanlike Conduct, 15 yards, enforced between downs.
+(KC, KC 20, Q1, 2 and 10) (6:24) (Shotgun) PENALTY on KC-A.Smith, Delay of Game, 5 yards, enforced at KC 20 - No Play.
+(BAL, BAL 22, Q1, 3 and 4) (1:27) (Shotgun) PENALTY on BAL-K.Juszczyk, False Start, 5 yards, enforced at BAL 22 - No Play.
+(BAL, BAL 27, Q2, 3 and 5) (13:38) (No Huddle, Shotgun) PENALTY on BAL-C.Matthews, False Start, 5 yards, enforced at BAL 27 - No Play.
+(BAL, BAL 30, Q2, 4 and 2) (12:49) (Punt formation) S.Koch punts 45 yards to KC 25, Center-M.Cox, out of bounds. PENALTY on KC-D.Harris, Running Into the Kicker, 5 yards, enforced at BAL 30 - No Play.
+(BAL, BAL 41, Q2, 2 and 15) (10:44) (Shotgun) J.Clausen pass incomplete short left to T.Magee (D.Johnson). PENALTY on BAL-M.Williams, Offensive Pass Interference, 10 yards, enforced at BAL 41 - No Play.
+(BAL, BAL 35, Q2, 4 and 21) (9:47) (Punt formation) S.Koch punts 50 yards to KC 15, Center-M.Cox. F.Hammond to KC 27 for 12 yards (K.Juszczyk). PENALTY on KC-T.Branch, Illegal Block Above the Waist, 10 yards, enforced at KC 25.
+(BAL, BAL 30, Q2, 2 and 8) (:22) (No Huddle, Shotgun) J.Clausen scrambles up the middle to BAL 37 for 7 yards (D.Sorensen). PENALTY on KC-D.Sorensen, Unnecessary Roughness, 15 yards, enforced at BAL 37.
+(KC, KC 35, Q3) C.Santos kicks 65 yards from KC 35 to BAL 0. K.Clay to BAL 16 for 16 yards (C.Conley). PENALTY on BAL-Z.Smith, Offensive Holding, 8 yards, enforced at BAL 16.
+(BAL, BAL 48, Q3, 2 and 2) (6:58) T.West up the middle to KC 45 for 7 yards (J.Mauga; A.Bailey). PENALTY on BAL-M.Yanda, Illegal Crackback, 15 yards, enforced at BAL 48 - No Play.
+(KC, KC 23, Q4, 2 and 3) (13:43) (Shotgun) PENALTY on KC-L.Duvernay-Tardif, False Start, 5 yards, enforced at KC 23 - No Play.
+(BUF, WAS 42, Q1, 1 and 10) (5:12) (Shotgun) L.McCoy left end pushed ob at WAS 32 for 10 yards (W.Blackmon). PENALTY on BUF-C.Kouandjio, Illegal Motion, 5 yards, enforced at WAS 42 - No Play.
+(BUF, WAS 36, Q1, 3 and 4) (3:29) (Shotgun) PENALTY on BUF-C.Hogan, False Start, 5 yards, enforced at WAS 36 - No Play.
+(WAS, BUF 37, Q2, 4 and 1) (14:28) (Run formation) T.Compton reported in as eligible.  PENALTY on BUF-S.Charles, Encroachment, 5 yards, enforced at BUF 37 - No Play.
+(BUF, WAS 1, Q2, 3 and 1) (1:48) L.McCoy left tackle to WAS 1 for no gain (D.Goldson). PENALTY on WAS-C.Baker, Defensive Offside, 0 yards, enforced at WAS 1 - No Play.
+(WAS, WAS 1, Q2, 1 and 10) (1:34) PENALTY on WAS-J.Reed, False Start, 0 yards, enforced at WAS 1 - No Play.
+(WAS, BUF 40, Q2, 2 and 2) (:08) K.Cousins spiked the ball to stop the clock. PENALTY on WAS, Illegal Formation, 0 yards, enforced at BUF 40 - No Play.
+(WAS, WAS 28, Q3, 4 and 10) (4:33) T.Way punts 47 yards to BUF 25, Center-N.Sundberg. M.Thigpen pushed ob at BUF 30 for 5 yards (W.Compton). PENALTY on BUF-D.Williams, Illegal Block Above the Waist, 10 yards, enforced at BUF 25.
+(BUF, BUF 15, Q3, 1 and 10) (4:22) (Shotgun) T.Taylor pass short right to N.O'Leary pushed ob at WAS 48 for 37 yards (W.Blackmon). Washington challenged the runner was in bounds ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+(WAS, WAS 31, Q3, 3 and 11) (1:02) (Shotgun) PENALTY on WAS-M.Jones, False Start, 5 yards, enforced at WAS 31 - No Play.
+(WAS, BUF 36, Q4, 2 and 6) (12:18) T.Compton reported in as eligible.  M.Jones left end to BUF 23 for 13 yards (C.Graham). PENALTY on BUF-P.Brown, Face Mask (15 Yards), 11 yards, enforced at BUF 23.
+(WAS, BUF 12, Q4, 1 and 10) (11:52) M.Jones right tackle to BUF 10 for 2 yards (I.Enemkpali). PENALTY on BUF-S.Charles, Illegal Use of Hands, 5 yards, enforced at BUF 10.
+(BUF, WAS 47, Q4, 2 and 10) (10:14) (Shotgun) T.Taylor pass incomplete short middle to C.Hogan. PENALTY on BUF-J.Mills, Offensive Holding, 10 yards, enforced at WAS 47 - No Play.
+(BUF, WAS 2, Q4) (Kick formation) PENALTY on WAS, Defensive 12 On-field, 1 yard, enforced at WAS 2 - No Play.
+(BUF, BUF 35, Q4) J.Gay kicks onside 13 yards from BUF 35 to BUF 48. P.Garcon (didn't try to advance) to BUF 48 for no gain. PENALTY on BUF-N.Robey, Offside on Free Kick, 5 yards, enforced at BUF 48.
+(CLE, SEA 21, Q1, 3 and 9) (9:39) (Shotgun) J.Manziel pass short left to D.Johnson Jr to SEA 8 for 13 yards (B.Wagner) [C.Avril]. FUMBLES (B.Wagner), ball out of bounds at SEA 8. Seattle challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)
+(SEA, SEA 33, Q1, 3 and 8) (6:55) (Shotgun) R.Wilson pass incomplete deep left to K.Smith [R.Starks]. PENALTY on CLE-P.Kruger, Defensive Offside, 5 yards, enforced at SEA 33 - No Play.
+(SEA, CLE 17, Q1, 3 and 8) (1:41) (Shotgun) R.Wilson pass incomplete deep right to J.Kearse (J.Bademosi). PENALTY on CLE-J.Bademosi, Defensive Pass Interference, 16 yards, enforced at CLE 17 - No Play.
+(CLE, SEA 25, Q2, 3 and 5) (7:33) (Shotgun) J.Manziel pass short left to D.Johnson Jr to SEA 26 for -1 yards (M.Burley) [B.Irvin]. PENALTY on SEA-C.Avril, Defensive Offside, 5 yards, enforced at SEA 25 - No Play.
+(SEA, SEA 20, Q2, 3 and 2) (5:04) (Shotgun) PENALTY on SEA-R.Wilson, Delay of Game, 5 yards, enforced at SEA 20 - No Play.
+(CLE, CLE 24, Q2, 3 and 7) (:37) (Shotgun) J.Manziel pass incomplete short left to T.Benjamin [B.Wagner]. PENALTY on SEA-F.Clark, Defensive Offside, 5 yards, enforced at CLE 24 - No Play.
+(SEA, SEA 43, Q2, 1 and 10) (:02) (Shotgun) R.Wilson pass deep left to J.Kearse to CLE 18 for 39 yards (T.Gipson; C.Kirksey) [K.Dansby]. PENALTY on CLE-T.Williams, Face Mask (15 Yards), 9 yards, enforced at CLE 18.
+(SEA, CLE 9, Q2, 1 and 9) (:00) S.Hauschka 27 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan. Untimed down due to defensive penalty on previous play.
+(SEA, CLE 22, Q3, 1 and 10) (:50) (Shotgun) PENALTY on SEA-J.Sweezy, False Start, 5 yards, enforced at CLE 22 - No Play.
+(CLE, SEA 44, Q4, 2 and 6) (12:14) (Shotgun) J.Manziel scrambles right end ran ob at SEA 35 for 9 yards (F.Clark). PENALTY on CLE-C.Erving, Offensive Holding, 10 yards, enforced at SEA 44 - No Play.
+(SEA, CLE 13, Q4, 1 and 10) (4:01) (Shotgun) R.Wilson pass incomplete short left to J.Kearse (P.Desir). PENALTY on SEA-J.Britt, Offensive Holding, 10 yards, enforced at CLE 13 - No Play.
+(OAK, GB 46, Q1, 3 and 8) (9:35) (Shotgun) PENALTY on OAK-S.Roberts, False Start, 5 yards, enforced at GB 46 - No Play.
+(GB, GB 24, Q1, 4 and 13) (8:09) T.Masthay punts 49 yards to OAK 27, Center-B.Goode. J.Ross to OAK 26 for -1 yards (A.Ripkowski). PENALTY on OAK-S.Harris, Offensive Holding, 10 yards, enforced at OAK 26.
+(OAK, OAK 17, Q1, 3 and 9) (6:34) (Shotgun) D.Carr pass deep middle intended for C.Walford INTERCEPTED by M.Hyde at OAK 36. M.Hyde to OAK 2 for 34 yards (C.Walford). PENALTY on GB, Unsportsmanlike Conduct, 15 yards, enforced at OAK 2.
+(OAK, OAK 20, Q1, 2 and 10) (4:48) (Shotgun) D.Carr pass incomplete deep right to A.Cooper. PENALTY on GB-D.Randall, Defensive Pass Interference, 25 yards, enforced at OAK 20 - No Play.
+(OAK, GB 11, Q1, 1 and 10) (1:27) (Shotgun) D.Carr pass incomplete short right to S.Roberts. PENALTY on GB-M.Hyde, Defensive Holding, 5 yards, enforced at GB 11 - No Play.
+(GB, GB 21, Q2, 2 and 11) (14:24) (No Huddle, Shotgun) A.Rodgers pass short left to J.Jones to GB 24 for 3 yards (D.Hayden). PENALTY on OAK-D.Amerson, Illegal Use of Hands, 5 yards, enforced at GB 21 - No Play.
+(GB, GB 45, Q2, 4 and 1) (6:20) T.Masthay punts 55 yards to end zone, Center-B.Goode, Touchback. PENALTY on GB-J.Ryan, Offensive Holding, 10 yards, enforced at OAK 20.
+(GB, GB 2, Q2, 3 and 10) (4:17) A.Rodgers pass incomplete deep right to J.Jones. PENALTY on OAK, Defensive 12 On-field, 5 yards, enforced at GB 2 - No Play.
+(GB, GB 7, Q2, 3 and 5) (4:17) (Shotgun) A.Rodgers pass incomplete deep right to R.Cobb. PENALTY on OAK-T.Carrie, Defensive Pass Interference, 17 yards, enforced at GB 7 - No Play.
+(GB, OAK 42, Q3, 4 and 2) (11:17) (Shotgun) A.Rodgers pass incomplete deep right to R.Cobb. PENALTY on OAK-T.Carrie, Defensive Pass Interference, 28 yards, enforced at OAK 42 - No Play.
+(GB, GB 26, Q3, 2 and 7) (1:29) (No Huddle, Shotgun) A.Rodgers pass incomplete short left to J.Jones. Green Bay challenged the pass completion ruling, and the play was REVERSED. (No Huddle, Shotgun) A.Rodgers pass short left to J.Jones ran ob at GB 35 for 9 yards.
+(GB, OAK 27, Q4, 1 and 10) (13:17) (No Huddle, Shotgun) A.Rodgers pass short left to J.Jones to OAK 20 for 7 yards (D.McDonald). PENALTY on GB-J.Jones, Offensive Pass Interference, 10 yards, enforced at OAK 27 - No Play.
+(GB, OAK 11, Q4, 3 and 6) (11:04) (Shotgun) A.Rodgers pass incomplete short right to R.Cobb. PENALTY on OAK-D.Hayden, Defensive Pass Interference, 10 yards, enforced at OAK 11 - No Play.
+(OAK, OAK 26, Q4, 1 and 10) (8:33) PENALTY on OAK-M.Crabtree, False Start, 5 yards, enforced at OAK 26 - No Play.
+(OAK, OAK 14, Q4, 4 and 22) (7:02) M.King punts 37 yards to GB 49, Center-T.Gafford. M.Hyde to OAK 41 for 10 yards (D.McDonald). PENALTY on OAK-L.Alexander, Ineligible Downfield Kick, 5 yards, enforced at OAK 41.
+(GB, OAK 5, Q4, 3 and 5) (4:35) (Shotgun) A.Rodgers pass short left to J.Jones for 5 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on GB-J.Jones, Offensive Pass Interference, 10 yards, enforced at OAK 5 - No Play.
+(OAK, OAK 40, Q4, 2 and 9) (:44) (No Huddle, Shotgun) PENALTY on OAK-K.Barnes, False Start, 5 yards, enforced at OAK 40 - No Play.
+(PIT, PIT 45, Q1, 4 and 3) (11:49) (Punt formation) J.Berry punts 38 yards to DEN 17, Center-G.Warren, fair catch by E.Sanders. PENALTY on DEN-K.Webster, Offensive Holding, 8 yards, enforced at DEN 17.
+(PIT, PIT 20, Q1, 1 and 10) (4:41) (Shotgun) PENALTY on PIT-A.Brown, False Start, 5 yards, enforced at PIT 20 - No Play.
+(PIT, PIT 35, Q1, 1 and 10) (2:24) (No Huddle, Shotgun) B.Roethlisberger pass short right to M.Wheaton pushed ob at PIT 43 for 8 yards (D.Trevathan). PENALTY on DEN-V.Walker, Illegal Use of Hands, 5 yards, enforced at PIT 35 - No Play.
+(PIT, PIT 40, Q1, 2 and 10) (1:52) (Shotgun) PENALTY on DEN-V.Miller, Neutral Zone Infraction, 5 yards, enforced at PIT 40 - No Play.
+(PIT, PIT 45, Q1, 2 and 5) (1:52) (Shotgun) B.Roethlisberger pass short middle to A.Brown to DEN 43 for 12 yards (C.Harris, M.Jackson). DEN-D.Bruton was injured during the play.  PENALTY on PIT-C.Wallace, Unnecessary Roughness, 15 yards, enforced between downs.
+(DEN, 50, Q1, 1 and 10) (1:22) B.Osweiler pass incomplete short left to E.Sanders. PENALTY on DEN-D.Thomas, Offensive Pass Interference, 10 yards, enforced at 50 - No Play. Pressure by #97 Heyward.
+(DEN, DEN 49, Q1, 3 and 11) (:08) (Shotgun) PENALTY on PIT-B.Dupree, Neutral Zone Infraction, 5 yards, enforced at DEN 49 - No Play.
+(PIT, DEN 36, Q2, 2 and 10) (10:06) (Shotgun) B.Roethlisberger pass deep middle to A.Brown to DEN 4 for 32 yards (C.Nelson). PENALTY on PIT-H.Miller, Offensive Holding, 10 yards, enforced at DEN 36 - No Play.
+(PIT, DEN 46, Q2, 3 and 20) (9:31) (Shotgun) B.Roethlisberger pass incomplete deep left to D.Heyward-Bey. PENALTY on DEN-A.Talib, Defensive Pass Interference, 24 yards, enforced at DEN 46 - No Play.
+(DEN, PIT 26, Q2, 1 and 10) (5:03) C.Anderson right tackle to PIT 27 for -1 yards (S.McLendon). PENALTY on DEN-L.Vasquez, Offensive Holding, 10 yards, enforced at PIT 26 - No Play.
+(DEN, PIT 36, Q2, 1 and 20) (4:36) (Shotgun) B.Osweiler pass short left to D.Thomas to PIT 29 for 7 yards (W.Gay). PENALTY on PIT-A.Moats, Illegal Use of Hands, 5 yards, enforced at PIT 36 - No Play.
+(DEN, DEN 30, Q3, 1 and 10) (13:58) R.Hillman right end to DEN 30 for no gain (L.Timmons; B.Boykin). PENALTY on DEN-V.Davis, Offensive Holding, 10 yards, enforced at DEN 30 - No Play.
+(PIT, DEN 35, Q3, 1 and 10) (7:54) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to A.Brown. PENALTY on DEN-C.Harris, Defensive Pass Interference, 26 yards, enforced at DEN 35 - No Play.
+(DEN, DEN 49, Q3, 4 and 10) (5:45) (Punt formation) B.Colquitt punts 42 yards to PIT 9, Center-A.Brewer. A.Brown to PIT 28 for 19 yards (V.Green). PENALTY on PIT-W.Johnson, Illegal Block Above the Waist, 3 yards, enforced at PIT 6.
+(PIT, PIT 15, Q3, 2 and 10) (3:26) (Shotgun) PENALTY on PIT-M.Gilbert, False Start, 5 yards, enforced at PIT 15 - No Play.
+(PIT, PIT 35, Q3, 4 and 5) (1:27) (Punt formation) J.Berry punts 36 yards to DEN 29, Center-G.Warren. J.Norwood for 71 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on DEN, Illegal Substitution, 5 yards, enforced at DEN 33.
+(PIT, DEN 32, Q4, 1 and 10) (13:53) (Shotgun) B.Roethlisberger pass short middle to M.Wheaton to DEN 19 for 13 yards (B.Roby, D.Trevathan). PENALTY on DEN-M.Jackson, Unnecessary Roughness, 9 yards, enforced at DEN 19.
+(DEN, DEN 20, Q4, 1 and 10) (12:34) R.Hillman right end to DEN 13 for -7 yards (J.Harrison). Lateral.  PENALTY on PIT-B.Dupree, Defensive Holding, 5 yards, enforced at DEN 20 - No Play.
+(PIT, PIT 38, Q4, 2 and 9) (10:45) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to D.Williams. PENALTY on PIT-C.Wallace, Offensive Holding, 10 yards, enforced at PIT 38 - No Play.
+(DEN, DEN 20, Q4, 3 and 6) (8:11) (Shotgun) B.Osweiler pass short left to R.Hillman to DEN 26 for 6 yards (R.Cockrell). PENALTY on DEN-M.Garcia, Offensive Holding, 10 yards, enforced at DEN 20 - No Play.
+(PIT, PIT 47, Q4, 3 and 7) (6:14) (Shotgun) PENALTY on DEN-D.Wolfe, Neutral Zone Infraction, 5 yards, enforced at PIT 47 - No Play.
+(MIA, MIA 25, Q1, 2 and 7) (:59) (Shotgun) PENALTY on MIA, Offensive 12 On-field, 5 yards, enforced at MIA 25 - No Play.
+(SD, MIA 36, Q2, 3 and 2) (10:46) (Shotgun) P.Rivers pass incomplete deep left to M.Floyd. PENALTY on MIA-Br.McCain, Defensive Pass Interference, 20 yards, enforced at MIA 36 - No Play.
+(SD, SD 38, Q2, 2 and 9) (6:48) (Shotgun) P.Rivers pass incomplete short left to D.Inman. PENALTY on SD-J.Barksdale, False Start, 5 yards, enforced at SD 38 - No Play.
+(SD, MIA 48, Q2, 1 and 10) (5:58) (Shotgun) PENALTY on MIA-N.Suh, Neutral Zone Infraction, 5 yards, enforced at MIA 48 - No Play.
+(SD, MIA 36, Q2, 3 and 11) (1:53) (Shotgun) PENALTY on MIA-N.Suh, Encroachment, 5 yards, enforced at MIA 36 - No Play.
+(SD, MIA 31, Q2, 3 and 6) (1:53) (Shotgun) P.Rivers pass incomplete short right to A.Gates [O.Vernon]. PENALTY on MIA-O.Vernon, Roughing the Passer, 15 yards, enforced at MIA 31 - No Play.
+(SD, SD 21, Q3, 1 and 10) (8:25) D.Brown right end to SD 30 for 9 yards (B.Grimes). PENALTY on SD-O.Franklin, Offensive Holding, 10 yards, enforced at SD 21 - No Play.
+(SD, SD 28, Q3, 3 and 3) (6:42) (Shotgun) P.Rivers pass incomplete short left to M.Floyd. PENALTY on MIA-T.Lippett, Defensive Pass Interference, 7 yards, enforced at SD 28 - No Play.
+(MIA, MIA 41, Q3, 2 and 7) (3:20) (Shotgun) PENALTY on MIA-D.Thomas, False Start, 5 yards, enforced at MIA 41 - No Play.
+(SD, MIA 20, Q4, 1 and 10) (9:51) (Shotgun) D.Brown up the middle to MIA 20 for no gain (N.Hewitt). PENALTY on SD-T.Robinson, Offensive Holding, 10 yards, enforced at MIA 20 - No Play.
+(SD, MIA 30, Q4, 1 and 20) (9:20) (Shotgun) P.Rivers pass short left to J.Herndon pushed ob at MIA 23 for 7 yards (Da.Williams). PENALTY on SD-D.Inman, Offensive Pass Interference, 10 yards, enforced at MIA 30 - No Play.
+(SD, MIA 5, Q4, 1 and 5) (6:13) (Shotgun) PENALTY on SD-P.Rivers, Delay of Game, 5 yards, enforced at MIA 5 - No Play.
+(MIA, SD 4, Q4, 2 and 3) (1:45) (Shotgun) R.Tannehill pass incomplete short left to D.Parker. PENALTY on SD-P.Robinson, Defensive Pass Interference, 3 yards, enforced at SD 4 - No Play.
+(MIA, MIA 35, Q4) (Onside Kick formation) PENALTY on MIA-A.Franks, Delay of Game, 5 yards, enforced at MIA 35 - No Play.
+(MIA, MIA 30, Q4) A.Franks kicks onside 8 yards from MIA 30 to MIA 38. D.Woodhead (didn't try to advance) to MIA 38 for no gain. PENALTY on MIA-M.Thomas, Offside on Free Kick, 5 yards, enforced at MIA 38.
+(SD, MIA 23, Q4, 1 and 10) (1:24) PENALTY on SD-P.Rivers, Delay of Game, 5 yards, enforced at MIA 23 - No Play.
+(CIN, CIN 38, Q1, 4 and 3) (11:37) K.Huber punts 62 yards to end zone, Center-C.Harris, Touchback. PENALTY on SF-R.Armstrong, Offensive Holding, 10 yards, enforced at SF 20.
+(SF, SF 29, Q1, 2 and 1) (9:40) (Shotgun) B.Gabbert pass incomplete short middle to A.Boldin (V.Burfict). PENALTY on SF-S.Draughn, Unnecessary Roughness, 14 yards, enforced at SF 29.
+(SF, SF 46, Q1, 3 and 5) (:38) (Shotgun) PENALTY on SF-Q.Patton, False Start, 5 yards, enforced at SF 46 - No Play.
+(SF, CIN 42, Q2, 3 and 11) (12:19) (Shotgun) PENALTY on SF-T.Smith, False Start, 5 yards, enforced at CIN 42 - No Play.
+(SF, CIN 47, Q2, 3 and 16) (12:19) (Shotgun) PENALTY on CIN-G.Atkins, Neutral Zone Infraction, 5 yards, enforced at CIN 47 - No Play.
+(SF, SF 20, Q2, 1 and 10) (9:52) T.Cadet left tackle to SF 22 for 2 yards (V.Burfict). PENALTY on SF-E.Pears, Offensive Holding, 10 yards, enforced at SF 20 - No Play.
+(CIN, SF 8, Q2, 2 and 7) (7:36) PENALTY on SF-I.Williams, Neutral Zone Infraction, 4 yards, enforced at SF 8 - No Play.
+(CIN, SF 1, Q2, 2 and 1) (5:18) J.Hill up the middle to SF 1 for no gain (N.Bowman, C.Carradine). Cincinnati challenged the runner broke the plane ruling, and the play was REVERSED. J.Hill up the middle for 1 yard, TOUCHDOWN.
+(CIN, SF 36, Q2, 1 and 10) (3:22) A.McCarron pass deep left to M.Jones to SF 17 for 19 yards (E.Reid). Caught at SF 17.  0-yds YAC San Francisco challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1 at 03:15.)
+(CIN, CIN 42, Q3, 3 and 7) (12:35) (Shotgun) A.McCarron pass short left to T.Kroft to SF 43 for 15 yards (E.Reid). PENALTY on CIN-M.Jones, Offensive Holding, 10 yards, enforced at SF 49. Caught at CIN 39.  18-yds YAC.  T.Kroft credited with 9-yd reception.
+(CIN, SF 12, Q3, 1 and 10) (11:40) (No Huddle) PENALTY on CIN-A.Smith, False Start, 5 yards, enforced at SF 12 - No Play.
+(CIN, SF 14, Q3, 3 and 12) (10:12) (Shotgun) A.McCarron pass incomplete short middle to G.Bernard. PENALTY on SF-N.Bowman, Defensive Pass Interference, 5 yards, enforced at SF 14 - No Play.
+(CIN, CIN 21, Q3, 1 and 10) (3:09) (Shotgun) C.Ogbuehi reported in as eligible.  G.Bernard right end to CIN 19 for -2 yards (N.Bowman, Q.Dial). PENALTY on CIN-R.Bodine, Offensive Holding, 10 yards, enforced at CIN 21 - No Play.
+(CIN, CIN 11, Q3, 1 and 20) (2:55) (Shotgun) A.McCarron pass short left to G.Bernard pushed ob at CIN 12 for 1 yard (C.Lemonier). PENALTY on SF-C.Lemonier, Unnecessary Roughness, 15 yards, enforced at CIN 12.
+(CIN, CIN 33, Q3, 2 and 4) (1:52) G.Bernard right guard to CIN 36 for 3 yards (N.Bowman). PENALTY on CIN-R.Bodine, Offensive Holding, 10 yards, enforced at CIN 33 - No Play.
+(SF, SF 46, Q3, 1 and 10) (:08) B.Gabbert pass incomplete short left to B.Bell. PENALTY on SF-M.Martin, Offensive Holding, 10 yards, enforced at SF 46 - No Play.
+(SF, CIN 19, Q4, 2 and 10) (9:15) (Shotgun) B.Gabbert pass incomplete short right to T.Smith. PENALTY on CIN-D.Kirkpatrick, Defensive Holding, 5 yards, enforced at CIN 19 - No Play.
+(SF, CIN 14, Q4, 1 and 10) (9:12) (Shotgun) B.Gabbert sacked ob at CIN 14 for 0 yards (M.Johnson). PENALTY on SF-E.Pears, Offensive Holding, 10 yards, enforced at CIN 14 - No Play.
+(SF, SF 35, Q4) P.Dawson kicks onside 10 yards from SF 35 to SF 45. M.Sanu (didn't try to advance) to SF 45 for no gain. San Francisco challenged the loose ball recovery ruling, and the play was REVERSED. P.Dawson kicks onside 10 yards from SF 35 to SF 45. RECOVERED by SF-N.Bellore.
+(SF, SF 40, Q4, 1 and 10) (1:25) (Shotgun) B.Gabbert pass short left to A.Boldin to SF 47 for 7 yards (L.Hall). PENALTY on SF-E.Pears, Offensive Holding, 10 yards, enforced at SF 40 - No Play. Caught at SF 47.  0-yds YAC
+(DET, NO 27, Q1, 1 and 10) (9:01) (Shotgun) M.Stafford pass deep middle to C.Johnson to NO 8 for 19 yards (B.Browner). PENALTY on NO-B.Browner, Unnecessary Roughness, 4 yards, enforced at NO 8. Pass 18, YAC 1
+(NO, DET 48, Q1, 1 and 10) (3:58) D.Brees pass short right to T.Hightower to DET 46 for 2 yards (D.Taylor). PENALTY on DET-K.Thornton, Illegal Use of Hands, 5 yards, enforced at DET 48 - No Play. The pass would have been 2 yards thrown, 0 YAC, but accepting the penalty nullified the play.
+(NO, DET 43, Q1, 1 and 10) (3:36) (Shotgun) PENALTY on NO-B.Watson, False Start, 5 yards, enforced at DET 43 - No Play.
+(NO, NO 33, Q2, 2 and 8) (12:20) (Shotgun) D.Brees pass incomplete short right to C.Spiller (Q.Diggs). PENALTY on NO-J.Evans, Offensive Holding, 10 yards, enforced at NO 33 - No Play.
+(DET, NO 43, Q2, 1 and 10) (7:33) (Shotgun) M.Stafford pass short left to G.Tate to NO 31 for 12 yards (B.Browner). Pass -2, YAC 14.  A flag was thrown, but no penalty for offensive pass interference was assessed.
+(DET, NO 31, Q2, 1 and 10) (7:11) A.Abdullah left end to NO 31 for no gain (B.Browner). PENALTY on DET-L.Warford, Offensive Holding, 10 yards, enforced at NO 31 - No Play.
+(NO, NO 40, Q2, 1 and 10) (3:12) (Shotgun) PENALTY on DET, Defensive 12 On-field, 5 yards, enforced at NO 40 - No Play.
+(NO, DET 24, Q2, 1 and 10) (1:12) (Shotgun) PENALTY on NO-T.Armstead, False Start, 5 yards, enforced at DET 24 - No Play.
+(NO, DET 1, Q2, 2 and 1) (:52) T.Hightower right tackle for 1 yard, TOUCHDOWN NULLIFIED by Penalty. PENALTY on NO-S.Kelemete, Illegal Formation, 4 yards, enforced at DET 1 - No Play. Kelemete was lined up on the line of scrimmage, but failed to report as an eligible receiver.
+(NO, DET 1, Q2, 4 and 1) (:03) Detroit attempted to call timeout before the play was run, but was out of timeouts.  The referee said the down would be replayed, and no timeout granted.      (Shotgun) D.Brees pass short middle to M.Colston to DET 1 for no gain. PENALTY on NO-J.Evans, Ineligible Downfield Pass, 0 yards, enforced at DET 1 - No Play. On the play, Colston caught the ball and appeared to be in the endzone, but the referee ruled that after the ineligible downfield on pass penalty, the half was over.
+(NO, NO 35, Q3) K.Forbath kicks 71 yards from NO 35 to DET -6. A.Abdullah MUFFS catch, and recovers at DET 2. A.Abdullah to DET 32 for 30 yards (M.Mauti). PENALTY on DET-J.Ihedigbo, Offensive Holding, 10 yards, enforced at DET 32.
+(DET, DET 34, Q3, 1 and 10) (10:13) (Shotgun) A.Abdullah right guard to DET 34 for no gain (S.Anthony). PENALTY on DET-T.Swanson, Offensive Holding, 10 yards, enforced at DET 34 - No Play.
+(NO, DET 27, Q3, 3 and 1) (5:10) D.Brees pass deep left to B.Cooks for 27 yards, TOUCHDOWN [E.Ansah]. Penalty on DET-J.Ihedigbo, Defensive Holding, declined. PENALTY on DET-E.Ansah, Roughing the Passer, 15 yards, enforced between downs. Pass 25, YAC 2.  The roughing the passer penalty was assessed on the kickoff.
+(NO, 50, Q3, 1 and 10) (:31) (Shotgun) D.Brees pass short left to W.Snead to DET 35 for 15 yards (S.Tulloch). PENALTY on DET-S.Tulloch, Horse Collar Tackle, 15 yards, enforced at DET 35. Pass 3, YAC 12
+(NO, DET 11, Q4, 2 and 11) (13:46) (Shotgun) D.Brees pass short right to W.Snead to DET 4 for 7 yards (S.Tulloch). FUMBLES (S.Tulloch), and recovers at DET 4. W.Snead to DET 4 for no gain (S.Tulloch). Pass 3, YAC 4 Detroit challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+(DET, DET 28, Q4, 1 and 10) (12:53) A.Abdullah right tackle to DET 32 for 4 yards (S.Anthony; H.Kikaha). New Orleans challenged the runner was down by contact ruling, and the play was REVERSED. A.Abdullah right tackle to DET 32 for 4 yards (H.Kikaha; S.Anthony). FUMBLES (H.Kikaha), RECOVERED by NO-H.Kikaha at DET 38. Penalty on DET-L.Tomlinson, Offensive Holding, declined.
+(NO, NO 24, Q4, 4 and 6) (4:29) (Shotgun) D.Brees pass short left to B.Watson pushed ob at NO 33 for 9 yards (T.Whitehead). NO-B.Watson was injured during the play. His return is Probable.  Pass 9, YAC 0 Detroit challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #3.)
+(NO, DET 40, Q4, 3 and 10) (3:15) (Shotgun) D.Brees pass incomplete short right to M.Colston. PENALTY on DET-J.Jones, Defensive Offside, 5 yards, enforced at DET 40 - No Play.
+(NO, DET 23, Q4, 1 and 10) (2:34) (No Huddle, Shotgun) D.Brees pass incomplete deep right to M.Colston (I.Abdul-Quddus). PENALTY on DET-I.Abdul-Quddus, Unnecessary Roughness, 12 yards, enforced at DET 23 - No Play.
+(DET, NO 15, Q4, 4 and 15) (:59) (Run formation) PENALTY on DET, Delay of Game, 5 yards, enforced at NO 15 - No Play.
+(OAK, OAK 23, Q1, 2 and 7) (14:54) (Shotgun) PENALTY on SD-M.Ingram, Neutral Zone Infraction, 5 yards, enforced at OAK 23 - No Play.
+(SD, OAK 32, Q1, 1 and 10) (12:28) (Shotgun) P.Rivers pass short middle to J.Phillips to OAK 21 for 11 yards (T.Carrie). PENALTY on SD-D.Fluker, Offensive Holding, 10 yards, enforced at OAK 32 - No Play.
+(OAK, SD 37, Q1, 1 and 10) (6:02) (Shotgun) PENALTY on OAK-L.Smith, False Start, 5 yards, enforced at SD 37 - No Play.
+(SD, SD 47, Q1, 3 and 5) (1:48) (Shotgun) PENALTY on SD-D.Fluker, False Start, 5 yards, enforced at SD 47 - No Play.
+(OAK, OAK 13, Q1, 2 and 7) (:27) (Shotgun) PENALTY on OAK-R.Hudson, False Start, 5 yards, enforced at OAK 13 - No Play.
+(OAK, OAK 5, Q2, 4 and 15) (14:58) M.King punts 43 yards to OAK 48, Center-T.Gafford, out of bounds. PENALTY on OAK-K.McGill, Face Mask (15 Yards), 15 yards, enforced at OAK 48.
+(SD, OAK 31, Q2, 2 and 8) (14:41) (No Huddle, Shotgun) PENALTY on SD-D.Johnson, False Start, 5 yards, enforced at OAK 31 - No Play.
+(OAK, OAK 39, Q2, 1 and 10) (9:50) (Shotgun) D.Carr scrambles right end pushed ob at OAK 48 for 9 yards (M.Te'o). PENALTY on OAK-M.Rivera, Offensive Holding, 10 yards, enforced at OAK 48.
+(OAK, SD 44, Q2, 3 and 3) (8:02) (Shotgun) PENALTY on SD-R.Mathews, Encroachment, 5 yards, enforced at SD 44 - No Play.
+(SD, SD 35, Q2, 3 and 1) (5:02) (No Huddle) D.Brown up the middle to SD 35 for no gain (C.Woodson). Measurement for the 1st Down - No Gain. San Diego challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2 at 04:55.)
+(OAK, OAK 29, Q2, 4 and 3) (3:39) (Punt formation) L.Asante right end pushed ob at 50 for 21 yards (J.Verrett). PENALTY on OAK, Illegal Formation, 5 yards, enforced at OAK 29 - No Play.
+(OAK, OAK 46, Q2, 4 and 4) (:03) (Shotgun) D.Carr pass short right to L.Murray to SD 30 for 24 yards. Lateral to A.Cooper to OAK 46 for -24 yards. Lateral to D.Carr to SD 49 for 5 yards. Lateral to M.Crabtree to SD 49 for no gain (M.Te'o). Penalty on OAK-J.Feliciano, Illegal Block Above the Waist, declined. PENALTY on OAK-G.Jackson, Ineligible Downfield Pass, 0 yards, enforced at OAK 46 - No Play.
+(SD, SD 18, Q3, 2 and 7) (14:14) (Shotgun) P.Rivers pass short right to J.Phillips ran ob at SD 27 for 9 yards. Oakland challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1 at 14:06.)
+(OAK, OAK 49, Q3, 2 and 7) (8:29) L.Murray right end to SD 46 for 5 yards (A.Phillips). PENALTY on OAK-J.Webb, Offensive Holding, 10 yards, enforced at OAK 49 - No Play.
+(OAK, OAK 32, Q3, 1 and 10) (4:48) (Shotgun) PENALTY on OAK-S.Roberts, False Start, 5 yards, enforced at OAK 32 - No Play.
+(SD, SD 11, Q3, 2 and 8) (2:43) (Shotgun) PENALTY on SD-J.Barksdale, False Start, 5 yards, enforced at SD 11 - No Play.
+(SD, OAK 20, Q4, 3 and 10) (8:58) (Shotgun) P.Rivers pass incomplete short left to D.Woodhead. PENALTY on SD, Unsportsmanlike Conduct, 15 yards, enforced at OAK 20.
+(SD, OAK 35, Q4, 4 and 25) (8:52) J.Lambo 53 yard field goal is GOOD, NULLIFIED by Penalty, Center-M.Windt, Holder-M.Scifres. PENALTY on OAK-K.Mack, Defensive Holding, 5 yards, enforced at OAK 35 - No Play.
+(SD, OAK 30, Q4, 2 and 10) (8:42) (Shotgun) P.Rivers pass short left to L.Green to OAK 24 for 6 yards (T.Carrie). PENALTY on SD-D.Fluker, Offensive Holding, 10 yards, enforced at OAK 30 - No Play.
+(SD, OAK 45, Q4, 3 and 10) (2:00) (Shotgun) P.Rivers pass incomplete deep middle to D.Inman (D.Hayden). PENALTY on OAK-D.Hayden, Defensive Pass Interference, 15 yards, enforced at OAK 45 - No Play.
+(OAK, OAK 34, Q4, 2 and 6) (:34) (No Huddle, Shotgun) D.Carr pass incomplete short middle. PENALTY on OAK-D.Carr, Intentional Grounding, 11 yards, enforced at OAK 34. This penalty requires a 10-second runoff.
+(OAK, OAK 39, Q5, 1 and 10) (13:57) (Shotgun) D.Carr sacked at OAK 39 for 0 yards (D.Square). PENALTY on OAK-D.Penn, Offensive Holding, 10 yards, enforced at OAK 39 - No Play.
+(OAK, OAK 35, Q5, 2 and 14) (13:02) (Shotgun) D.Carr pass deep right to M.Rivera to SD 45 for 20 yards (M.Ingram). PENALTY on OAK-J.Webb, Offensive Holding, 10 yards, enforced at OAK 35 - No Play.
+(OAK, OAK 25, Q5, 2 and 24) (12:29) (Shotgun) PENALTY on OAK-J.Feliciano, False Start, 5 yards, enforced at OAK 25 - No Play.
+(OAK, OAK 20, Q5, 2 and 29) (12:08) (Shotgun) D.Carr pass short middle to M.Crabtree to OAK 28 for 8 yards (D.Perryman). PENALTY on SD-D.Perryman, Unnecessary Roughness, 15 yards, enforced at OAK 28.
+(OAK, SD 45, Q5, 2 and 10) (10:21) PENALTY on OAK-C.Walford, False Start, 5 yards, enforced at SD 45 - No Play.
+(OAK, SD 13, Q5, 3 and 13) (8:25) (Shotgun) PENALTY on OAK-D.Carr, Delay of Game, 5 yards, enforced at SD 13 - No Play.
+(PHI, WAS 29, Q1, 1 and 10) (12:30) (No Huddle, Shotgun) PENALTY on WAS-K.Golston, Encroachment, 5 yards, enforced at WAS 29 - No Play.
+(PHI, WAS 24, Q1, 1 and 5) (12:16) (No Huddle, Shotgun) S.Bradford pass incomplete deep left to J.Huff. PENALTY on WAS-W.Blackmon, Defensive Pass Interference, 23 yards, enforced at WAS 24 - No Play.
+(PHI, PHI 31, Q1, 1 and 10) (10:16) (No Huddle, Shotgun) PENALTY on PHI-J.Peters, False Start, 5 yards, enforced at PHI 31 - No Play.
+(WAS, WAS 44, Q1, 1 and 10) (7:59) K.Cousins pass incomplete deep left to P.Garcon (E.Biggers). PENALTY on WAS-T.Compton, Illegal Formation, 5 yards, enforced at WAS 44 - No Play.
+(PHI, PHI 20, Q1, 3 and 7) (4:54) (No Huddle, Shotgun) S.Bradford pass incomplete short middle. PENALTY on PHI-S.Bradford, Intentional Grounding, 10 yards, enforced at PHI 20.
+(PHI, PHI 39, Q2, 1 and 10) (12:00) (Shotgun) S.Bradford pass short left to D.Murray to PHI 40 for 1 yard (W.Blackmon; W.Compton). PENALTY on PHI-L.Johnson, Illegal Formation, 5 yards, enforced at PHI 39 - No Play.
+(PHI, PHI 34, Q2, 1 and 15) (11:41) (Shotgun) PENALTY on PHI-M.Tobin, False Start, 5 yards, enforced at PHI 34 - No Play.
+(PHI, WAS 22, Q2, 1 and 10) (6:54) PENALTY on PHI-A.Barbre, False Start, 5 yards, enforced at WAS 22 - No Play.
+(PHI, PHI 35, Q2) C.Sturgis kicks 68 yards from PHI 35 to WAS -3. R.Ross to WAS 25 for 28 yards (N.Goode). PENALTY on WAS-H.Bates, Offensive Holding, 8 yards, enforced at WAS 16.
+(WAS, PHI 24, Q2, 1 and 10) (:17) (Shotgun) K.Cousins pass short middle to J.Reed to PHI 11 for 13 yards (E.Reynolds). PENALTY on PHI-W.Thurmond, Defensive Delay of Game, 5 yards, enforced at PHI 11.
+(PHI, PHI 10, Q3, 1 and 10) (12:12) (Shotgun) S.Bradford pass incomplete deep right to R.Cooper. Philadelphia challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)
+(PHI, PHI 10, Q3, 2 and 10) (12:12) (Shotgun) S.Bradford pass short right to R.Mathews to PHI 12 for 2 yards (W.Compton). PENALTY on PHI-J.Matthews, Offensive Holding, 5 yards, enforced at PHI 12.
+(PHI, WAS 8, Q3, 3 and 7) (4:56) (No Huddle, Shotgun) PENALTY on WAS-R.Kerrigan, Neutral Zone Infraction, 4 yards, enforced at WAS 8 - No Play.
+(WAS, PHI 7, Q4, 1 and 7) (10:10) PENALTY on WAS-B.Scherff, False Start, 5 yards, enforced at PHI 7 - No Play.
+(PHI, WAS 38, Q4, 1 and 10) (6:39) (No Huddle, Shotgun) S.Bradford pass short right to Z.Ertz to WAS 38 for no gain (K.Jarrett). PENALTY on PHI, Illegal Shift, 5 yards, enforced at WAS 38 - No Play.
+(WAS, PHI 44, Q4, 4 and 1) (3:35) (Punt formation) PENALTY on WAS-T.Way, Delay of Game, 5 yards, enforced at PHI 44 - No Play.
+(PHI, WAS 46, Q4, 1 and 10) (2:23) (No Huddle, Shotgun) S.Bradford sacked at PHI 48 for -6 yards (J.Hatcher). PENALTY on WAS-J.Hatcher, Face Mask (15 Yards), 15 yards, enforced at WAS 46 - No Play.
+(JAC, 50, Q1, 1 and 10) (8:37) D.Robinson left tackle to NO 49 for 1 yard (B.Browner). PENALTY on JAC-M.Lewis, Offensive Holding, 10 yards, enforced at NO 49.
+(JAC, 50, Q1, 4 and 10) (7:12) (Punt formation) PENALTY on JAC-C.Harbor, False Start, 5 yards, enforced at 50 - No Play.
+(NO, NO 17, Q1, 2 and 9) (4:52) D.Brees sacked at NO 9 for -8 yards (D.Skuta). PENALTY on JAC-D.House, Defensive Holding, 5 yards, enforced at NO 17 - No Play.
+(NO, NO 40, Q1, 1 and 10) (2:47) D.Brees pass short right to T.Cadet to NO 47 for 7 yards (J.Cyprien). PENALTY on NO-M.Hoomanawanui, Offensive Holding, 10 yards, enforced at NO 40 - No Play.
+(NO, NO 30, Q1, 1 and 20) (2:14) T.Hightower right end to NO 36 for 6 yards (D.Skuta). PENALTY on NO-M.Hoomanawanui, Offensive Holding, 10 yards, enforced at NO 30 - No Play.
+(NO, NO 24, Q1, 2 and 26) (1:04) (Shotgun) D.Brees pass short right to W.Snead to NO 35 for 11 yards (H.Pullard). PENALTY on JAC-C.Clemons, Defensive Offside, 5 yards, enforced at NO 24 - No Play.
+(NO, JAC 33, Q2, 2 and 11) (11:29) D.Brees pass incomplete deep left to J.Hill. PENALTY on JAC-M.Bennett, Defensive Offside, 5 yards, enforced at JAC 33 - No Play.
+(JAC, JAC 18, Q2, 4 and 12) (9:12) B.Anger punts 48 yards to NO 34, Center-C.Tinker. T.Cadet to NO 41 for 7 yards (J.Tripp). PENALTY on NO-B.Dixon, Illegal Block Above the Waist, 10 yards, enforced at NO 35.
+(NO, NO 25, Q2, 1 and 10) (9:01) S.Kelemete reported in as eligible.  PENALTY on NO-W.Snead, False Start, 5 yards, enforced at NO 25 - No Play.
+(NO, JAC 39, Q2, 2 and 10) (:15) (Shotgun) D.Brees pass incomplete deep left to B.Cooks. PENALTY on JAC-R.Davis, Defensive Holding, 5 yards, enforced at JAC 39 - No Play.
+(JAC, JAC 22, Q3, 2 and 8) (14:30) D.Robinson left guard to JAC 23 for 1 yard (C.Jordan). PENALTY on JAC-Z.Beadles, Offensive Holding, 10 yards, enforced at JAC 22 - No Play.
+(JAC, JAC 20, Q3, 1 and 10) (5:29) J.Gray right tackle to JAC 45 for 25 yards (K.Vaccaro). PENALTY on JAC-Z.Beadles, Offensive Holding, 10 yards, enforced at JAC 20 - No Play.
+(NO, NO 42, Q4, 1 and 10) (7:38) PENALTY on NO-D.Brees, Delay of Game, 5 yards, enforced at NO 42 - No Play.
+(IND, IND 40, Q1, 1 and 10) (12:23) (Shotgun) PENALTY on MIA, Defensive 12 On-field, 5 yards, enforced at IND 40 - No Play.
+(IND, IND 45, Q1, 1 and 5) (12:02) (Shotgun) M.Hasselbeck pass incomplete short middle to D.Allen (N.Suh). PENALTY on MIA-K.Sheppard, Illegal Contact, 5 yards, enforced at IND 45 - No Play.
+(IND, IND 25, Q1, 1 and 10) (9:11) (Shotgun) M.Hasselbeck pass deep right intended for T.Hilton INTERCEPTED by B.Grimes at IND 46. B.Grimes to IND 46 for no gain. PENALTY on MIA-B.Grimes, Defensive Holding, 5 yards, enforced at IND 25 - No Play.
+(MIA, IND 41, Q1, 3 and 20) (4:00) (Shotgun) R.Tannehill pass short right to L.Miller pushed ob at IND 33 for 8 yards (J.Freeman). PENALTY on IND-J.Freeman, Face Mask (15 Yards), 15 yards, enforced at IND 33.
+(IND, IND 27, Q1, 4 and 3) (:07) P.McAfee punts 62 yards to MIA 11, Center-M.Overton. J.Landry to MIA 26 for 15 yards (C.Geathers). PENALTY on IND-S.Moore, Ineligible Downfield Kick, 5 yards, enforced at MIA 26.
+(MIA, IND 49, Q2, 2 and 6) (13:11) PENALTY on MIA, False Start, 5 yards, enforced at IND 49 - No Play.
+(MIA, MIA 29, Q3, 4 and 14) (13:01) (Punt formation) M.Darr punts 59 yards to IND 12, Center-J.Denney. Q.Bray to IND 31 for 19 yards (J.Johnson). PENALTY on IND-A.Davis, Offensive Holding, 10 yards, enforced at IND 31.
+(IND, IND 28, Q3, 2 and 3) (12:14) PENALTY on MIA-J.Phillips, Neutral Zone Infraction, 5 yards, enforced at IND 28 - No Play.
+(IND, IND 37, Q3, 4 and 6) (10:42) (Punt formation) P.McAfee punts 51 yards to MIA 12, Center-M.Overton. J.Landry MUFFS catch, recovered by MIA-Bo.McCain at MIA 8. Bo.McCain to MIA 8 for no gain (S.Moore). PENALTY on IND-M.Overton, Offensive Holding, 10 yards, enforced at IND 37 - No Play.
+(MIA, IND 16, Q3, 2 and 3) (4:50) R.Tannehill pass short right to J.Cameron for 16 yards, TOUCHDOWN NULLIFIED by Penalty [S.Moore]. PENALTY on MIA-J.Landry, Offensive Pass Interference, 10 yards, enforced at IND 16 - No Play.
+(IND, IND 25, Q3, 1 and 10) (3:43) PENALTY on MIA-N.Suh, Encroachment, 5 yards, enforced at IND 25 - No Play.
+(IND, MIA 26, Q4, 2 and 4) (11:35) PENALTY on IND-K.Holmes, False Start, 5 yards, enforced at MIA 26 - No Play.
+(IND, IND 20, Q4, 1 and 10) (5:17) F.Gore left tackle to IND 19 for -1 yards (N.Suh). PENALTY on MIA-D.Shelby, Defensive Offside, 5 yards, enforced at IND 20 - No Play.
+(IND, IND 34, Q4, 2 and 10) (4:07) F.Gore left tackle to IND 27 for -7 yards (N.Suh). PENALTY on MIA-O.Vernon, Defensive Offside, 5 yards, enforced at IND 34 - No Play.
+(MIA, MIA 20, Q4, 3 and 10) (2:03) (No Huddle, Shotgun) R.Tannehill pass incomplete deep left to J.Cameron. PENALTY on IND-E.Walden, Roughing the Passer, 15 yards, enforced at MIA 20 - No Play.
+(NE, NE 26, Q1, 3 and 8) (2:05) (Shotgun) PENALTY on NYJ-L.Mauldin, Encroachment, 5 yards, enforced at NE 26 - No Play.
+(NYJ, NE 43, Q2, 4 and 9) (14:51) R.Quigley punts 34 yards to NE 9, Center-T.Purdum, fair catch by K.Martin. PENALTY on NYJ-J.Lattimore, Illegal Use of Hands, 5 yards, enforced at NE 9.
+(NYJ, NE 30, Q3, 2 and 8) (10:29) (Shotgun) B.Powell right tackle to NE 28 for 2 yards (M.Brown; J.Sheard). PENALTY on NYJ-J.Carpenter, Offensive Holding, 10 yards, enforced at NE 30 - No Play.
+(NYJ, NYJ 41, Q3, 1 and 10) (2:02) (Shotgun) PENALTY on NYJ-B.Marshall, False Start, 5 yards, enforced at NYJ 41 - No Play.
+(NE, NE 42, Q4, 2 and 10) (8:15) (Shotgun) T.Brady pass incomplete short left to K.Martin [S.Richardson]. PENALTY on NYJ-B.Skrine, Defensive Pass Interference, 9 yards, enforced at NE 42 - No Play.
+(NYJ, NYJ 26, Q4, 3 and 4) (1:25) (Shotgun) R.Fitzpatrick pass incomplete short left to E.Decker (M.Butler). PENALTY on NE-M.Butler, Defensive Pass Interference, 7 yards, enforced at NYJ 26 - No Play.
+(NYJ, NE 49, Q4, 4 and 8) (:34) (Punt formation) PENALTY on NYJ-R.Quigley, Delay of Game, 5 yards, enforced at NE 49 - No Play.
+(HOU, HOU 37, Q1, 1 and 10) (6:39) PENALTY on HOU-D.Brown, False Start, 5 yards, enforced at HOU 37 - No Play.
+(TEN, TEN 40, Q1, 4 and 3) (:32) (Punt formation) B.Kern punts 45 yards to HOU 15, Center-B.Brinkley, out of bounds. PENALTY on HOU-A.Bouye, Offensive Holding, 7 yards, enforced at HOU 15.
+(TEN, HOU 25, Q2, 1 and 10) (12:33) D.Cobb right guard to HOU 17 for 8 yards (J.Crick). TEN-T.Lewan was injured during the play. His return is Questionable.  PENALTY on TEN-B.Bell, Offensive Holding, 10 yards, enforced at HOU 25 - No Play.
+(TEN, HOU 31, Q2, 4 and 16) (11:26) (Field Goal formation) PENALTY on TEN-J.Looney, Illegal Substitution, 5 yards, enforced at HOU 31 - No Play.
+(HOU, TEN 9, Q2, 2 and 9) (3:25) (Shotgun) B.Daniels pass short left to A.Hunt to TEN 6 for 3 yards (M.Griffin). PENALTY on HOU-R.Griffin, Offensive Pass Interference, 10 yards, enforced at TEN 9 - No Play.
+(HOU, HOU 13, Q2, 2 and 10) (1:32) (Shotgun) J.Grimes up the middle to HOU 19 for 6 yards (K.Klug). PENALTY on HOU-D.Newton, Offensive Holding, 6 yards, enforced at HOU 13 - No Play.
+(TEN, TEN 42, Q3, 3 and 3) (9:48) (Shotgun) Z.Mettenberger pass short middle to D.Green-Beckham to HOU 45 for 13 yards (B.Cushing). PENALTY on TEN-T.McBride, Offensive Pass Interference, 10 yards, enforced at TEN 42 - No Play.
+(HOU, HOU 48, Q3, 1 and 10) (4:24) B.Weeden pass incomplete short left to D.Hopkins. TEN-B.Orakpo was injured during the play. His return is Questionable.  PENALTY on TEN-C.Sensabaugh, Defensive Pass Interference, 18 yards, enforced at HOU 48 - No Play.
+(TEN, TEN 32, Q3, 1 and 10) (:13) (No Huddle, Shotgun) Z.Mettenberger pass incomplete deep right to H.Douglas. Tennessee challenged the pass completion ruling, and the play was REVERSED. (No Huddle, Shotgun) Z.Mettenberger pass deep right to H.Douglas ran ob at HOU 37 for 31 yards.
+(KC, KC 49, Q1, 1 and 10) (14:18) C.West up the middle to 50 for 1 yard (R.Starks). PENALTY on KC-J.Avant, Offensive Holding, 10 yards, enforced at KC 49 - No Play.
+(KC, CLE 49, Q1, 3 and 8) (12:45) (Shotgun) PENALTY on CLE-P.Kruger, Neutral Zone Infraction, 5 yards, enforced at CLE 49 - No Play.
+(KC, KC 35, Q1) C.Santos kicks 69 yards from KC 35 to CLE -4. R.Mostert pushed ob at CLE 21 for 25 yards (J.Fleming). PENALTY on CLE-C.Robertson, Offensive Holding, 8 yards, enforced at CLE 16.
+(CLE, KC 27, Q2, 2 and 8) (10:29) (Shotgun) J.Manziel pass incomplete short left to D.Bowe. PENALTY on KC-D.Ford, Defensive Offside, 5 yards, enforced at KC 27 - No Play.
+(CLE, KC 23, Q2, 3 and 4) (9:23) (Shotgun) J.Manziel up the middle to KC 23 for no gain. Lateral to D.Johnson Jr pushed ob at KC 12 for 11 yards (T.Branch). Kansas City challenged the backward pass ruling, and the play was REVERSED. (Shotgun) J.Manziel to KC 22 for 1 yard. J.Manziel pass short right to D.Johnson Jr to KC 12 for 10 yards (T.Branch). PENALTY on CLE-J.Manziel, Illegal Forward Pass, 5 yards, enforced at KC 22.
+(KC, KC 18, Q2, 1 and 10) (8:53) (Shotgun) A.Smith pass incomplete deep right to C.Conley (T.Williams). PENALTY on CLE-T.Williams, Defensive Pass Interference, 40 yards, enforced at KC 18 - No Play.
+(KC, CLE 29, Q2, 1 and 10) (5:35) (Shotgun) A.Smith pass incomplete short right to A.Wilson. PENALTY on CLE-T.Williams, Defensive Holding, 5 yards, enforced at CLE 29 - No Play.
+(KC, CLE 23, Q2, 3 and 9) (4:05) (Shotgun) PENALTY on KC-T.Kelce, False Start, 5 yards, enforced at CLE 23 - No Play.
+(KC, CLE 28, Q2, 3 and 14) (3:38) (Shotgun) A.Smith scrambles right end pushed ob at CLE 14 for 14 yards (K.Dansby). PENALTY on KC-J.Allen, Offensive Holding, 10 yards, enforced at CLE 28 - No Play.
+(CLE, CLE 20, Q3, 1 and 10) (5:27) (Shotgun) PENALTY on CLE-G.Barnidge, False Start, 5 yards, enforced at CLE 20 - No Play.
+(CLE, CLE 22, Q3, 4 and 8) (3:21) (Punt formation) Direct snap to J.Poyer.  J.Poyer up the middle to CLE 32 for 10 yards (D.Sorensen). PENALTY on CLE-J.Poyer, Delay of Game, 5 yards, enforced between downs.
+(CLE, KC 8, Q4, 2 and 8) (9:04) (Shotgun) J.Manziel pass incomplete short right to M.Schwartz [J.Howard]. PENALTY on CLE-J.Manziel, Intentional Grounding, 10 yards, enforced at KC 8. Penalty on CLE-M.Schwartz, Illegal Touch Pass, declined.
+(CLE, CLE 35, Q4) T.Coons kicks 69 yards from CLE 35 to KC -4. K.Davis to KC 17 for 21 yards (P.Desir). PENALTY on KC-D.Sorensen, Illegal Block Above the Waist, 3 yards, enforced at KC 6.
+(KC, KC 23, Q4, 3 and 1) (5:53) C.West up the middle to KC 23 for no gain (J.Meder). Kansas City challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+(SF, DET 8, Q1, 2 and 8) (10:28) (Shotgun) B.Gabbert sacked ob at DET 8 for 0 yards (D.Tapp). PENALTY on SF-B.Bell, Illegal Motion, 5 yards, enforced at DET 8 - No Play.
+(SF, DET 5, Q1, 3 and 5) (9:47) (Shotgun) B.Gabbert pass incomplete short left to T.Smith. PENALTY on DET-N.Lawson, Defensive Pass Interference, 4 yards, enforced at DET 5 - No Play.
+(DET, SF 42, Q1, 2 and 2) (7:58) M.Stafford pass incomplete short right to C.Johnson [A.Lynch]. PENALTY on SF-A.Brooks, Defensive Offside, 5 yards, enforced at SF 42 - No Play.
+(DET, SF 25, Q1, 1 and 10) (6:41) (Shotgun) PENALTY on SF-G.Hodges, Neutral Zone Infraction, 5 yards, enforced at SF 25 - No Play.
+(DET, SF 39, Q2, 1 and 10) (15:00) (Shotgun) PENALTY on SF-J.Ward, Neutral Zone Infraction, 5 yards, enforced at SF 39 - No Play.
+(DET, DET 35, Q2) S.Martin kicks 69 yards from DET 35 to SF -4. B.Ellington to SF 30 for 34 yards (T.Wright). PENALTY on SF-R.Armstrong, Offensive Holding, 10 yards, enforced at SF 28.
+(DET, DET 28, Q2, 4 and 2) (10:01) S.Martin punts 52 yards to SF 20, Center-D.Muhlbach. B.Ellington pushed ob at DET 49 for 31 yards (S.Martin). PENALTY on SF-K.Acker, Offensive Holding, 10 yards, enforced at SF 20.
+(SF, SF 35, Q2, 1 and 10) (2:00) B.Gabbert pass incomplete deep middle to A.Boldin. PENALTY on DET-D.Slay, Defensive Pass Interference, 17 yards, enforced at SF 35 - No Play.
+(DET, DET 36, Q2, 1 and 10) (:26) (Shotgun) PENALTY on SF-A.Armstead, Neutral Zone Infraction, 5 yards, enforced at DET 36 - No Play.
+(DET, DET 34, Q2, 2 and 12) (:20) (Shotgun) PENALTY on SF-T.Jerod-Eddie, Neutral Zone Infraction, 5 yards, enforced at DET 34 - No Play.
+(DET, SF 25, Q2, 1 and 10) (:03) M.Stafford spiked the ball to stop the clock. PENALTY on SF-A.Lynch, Defensive Offside, 5 yards, enforced at SF 25 - No Play.
+(DET, SF 15, Q3, 3 and 3) (9:18) (Shotgun) PENALTY on DET-L.Warford, False Start, 5 yards, enforced at SF 15 - No Play.
+(DET, SF 14, Q3, 4 and 2) (8:38) (Run formation) PENALTY on DET-M.Stafford, Delay of Game, 5 yards, enforced at SF 14 - No Play.
+(DET, DET 35, Q3) S.Martin kicks 72 yards from DET 35 to SF -7. B.Ellington to SF 18 for 25 yards (D.Carey). PENALTY on DET-T.Lewis, Unnecessary Roughness, 15 yards, enforced at SF 18.
+(SF, SF 33, Q3, 1 and 10) (8:20) B.Gabbert sacked ob at SF 32 for -1 yards (I.Abdul-Quddus). PENALTY on DET-I.Abdul-Quddus, Unnecessary Roughness, 15 yards, enforced at SF 32. Penalty on DET-N.Lawson, Defensive Holding, declined.
+(DET, DET 36, Q3, 3 and 7) (:49) (Shotgun) M.Stafford pass short right to G.Tate to DET 42 for 6 yards (E.Reid). Detroit challenged the first down ruling, and the play was REVERSED. (Shotgun) M.Stafford pass short right to G.Tate to DET 43 for 7 yards (E.Reid).
+(DET, SF 49, Q4, 3 and 2) (13:52) (Shotgun) PENALTY on SF-E.Harold, Neutral Zone Infraction, 5 yards, enforced at SF 49 - No Play.
+(DET, SF 6, Q4, 3 and 6) (9:12) (Shotgun) M.Stafford pass incomplete short right to G.Tate. PENALTY on SF-T.Brock, Defensive Pass Interference, 5 yards, enforced at SF 6 - No Play.
+(DET, SF 14, Q4, 1 and 10) (4:13) (Shotgun) J.Bell up the middle to SF 4 for 10 yards (E.Reid). PENALTY on DET-L.Warford, Offensive Holding, 10 yards, enforced at SF 14 - No Play.
+(DET, SF 23, Q4, 2 and 19) (3:23) (Shotgun) M.Stafford pass deep middle to C.Johnson to SF 1 for 22 yards (T.Brock). San Francisco challenged the pass completion ruling, and the play was REVERSED. (Shotgun) M.Stafford pass incomplete deep middle to C.Johnson (T.Brock).
+(MIN, MIN 21, Q1, 2 and 8) (14:14) A.Peterson right end to MIN 22 for 1 yard (J.Brinkley). PENALTY on NYG-J.Bromley, Defensive Offside, 5 yards, enforced at MIN 21 - No Play.
+(NYG, NYG 25, Q1, 3 and 5) (4:32) (No Huddle, Shotgun) PENALTY on NYG-E.Manning, Delay of Game, 5 yards, enforced at NYG 25 - No Play.
+(MIN, NYG 24, Q2, 1 and 10) (11:42) PENALTY on MIN-M.Kalil, False Start, 5 yards, enforced at NYG 24 - No Play.
+(NYG, NYG 31, Q2, 1 and 10) (9:54) (No Huddle, Shotgun) E.Manning pass incomplete short right to D.Harris. PENALTY on MIN-C.Munnerlyn, Defensive Holding, 5 yards, enforced at NYG 31 - No Play.
+(MIN, NYG 49, Q2, 2 and 7) (6:38) A.Peterson left end to NYG 46 for 3 yards (C.Jenkins). PENALTY on NYG-R.Ayers Jr., Defensive Offside, 5 yards, enforced at NYG 49 - No Play.
+(NYG, NYG 34, Q2, 1 and 10) (2:00) (Shotgun) PENALTY on NYG-M.Newhouse, False Start, 5 yards, enforced at NYG 34 - No Play.
+(NYG, NYG 17, Q3, 1 and 10) (14:55) B.Hart reported in as eligible.  R.Jennings left end pushed ob at NYG 19 for 2 yards (E.Kendricks). PENALTY on NYG-E.Flowers, Offensive Holding, 8 yards, enforced at NYG 17 - No Play.
+(MIN, NYG 35, Q4, 1 and 10) (12:18) M.Asiata left tackle to NYG 33 for 2 yards (G.Selvie, J.Brinkley). PENALTY on NYG-J.Thomas, Disqualification, 15 yards, enforced at NYG 33.
+(NYG, MIN 43, Q4, 1 and 10) (7:49) (No Huddle, Shotgun) E.Manning pass short left to R.Jennings to MIN 36 for 7 yards (C.Greenway). PENALTY on NYG-W.Tye, Illegal Shift, 5 yards, enforced at MIN 43 - No Play.
+(ATL, ATL 15, Q1, 3 and 15) (8:29) (Shotgun) M.Ryan pass incomplete short left to D.Freeman. PENALTY on CAR-C.Tillman, Unnecessary Roughness, 15 yards, enforced at ATL 15.
+(ATL, ATL 32, Q2, 1 and 10) (10:45) PENALTY on CAR-S.Lotulelei, Encroachment, 5 yards, enforced at ATL 32 - No Play.
+(ATL, ATL 30, Q2, 3 and 12) (9:36) (Shotgun) M.Ryan pass short right to J.Jones to ATL 47 for 17 yards (L.Kuechly). PENALTY on CAR-L.Kuechly, Horse Collar Tackle, 15 yards, enforced at ATL 47.
+(CAR, ATL 40, Q2, 1 and 10) (5:57) PENALTY on CAR-T.Turner, False Start, 5 yards, enforced at ATL 40 - No Play.
+(CAR, ATL 38, Q2, 3 and 8) (4:24) (Shotgun) C.Newton scrambles up the middle to ATL 31 for 7 yards (J.Collins; P.Wheeler). Carolina challenged the first down ruling, and the play was REVERSED. (Shotgun) C.Newton scrambles up the middle to ATL 30 for 8 yards (J.Durant; P.Wheeler).
+(CAR, CAR 37, Q4, 4 and 4) (14:12) B.Nortman punts 63 yards to end zone, Center-J.Jansen, Touchback. PENALTY on ATL-T.Moeaki, Offensive Holding, 10 yards, enforced at ATL 20.
+(ATL, CAR 32, Q4, 3 and 5) (9:48) (Shotgun) PENALTY on ATL-A.Levitre, False Start, 5 yards, enforced at CAR 32 - No Play.
+(ATL, CAR 37, Q4, 1 and 10) (1:48) PENALTY on ATL-M.Person, False Start, 5 yards, enforced at CAR 37 - No Play.
+(CHI, TB 47, Q1, 3 and 3) (3:36) (No Huddle, Shotgun) J.Cutler pass short right to M.Mariani to TB 41 for 6 yards (B.Carter). PENALTY on CHI-D.Thompson, Offensive Holding, 10 yards, enforced at TB 47 - No Play.
+(TB, TB 23, Q1, 1 and 10) (1:09) J.Winston pass incomplete deep right to M.Evans. Tampa Bay challenged the incomplete pass ruling, and the play was REVERSED. J.Winston pass deep right to M.Evans ran ob at TB 39 for 16 yards.
+(TB, TB 44, Q1, 3 and 5) (:13) (No Huddle, Shotgun) J.Winston pass short left to A.Humphries pushed ob at CHI 47 for 9 yards (D.Hurst) [L.Houston]. PENALTY on TB-D.Smith, Illegal Use of Hands, 10 yards, enforced at TB 44 - No Play.
+(CHI, CHI 39, Q2, 3 and 3) (13:35) (No Huddle, Shotgun) J.Cutler pass short right intended for J.Langford INTERCEPTED by W.Gholston (G.McCoy) at CHI 32. W.Gholston to CHI 15 for 17 yards (J.Langford). PENALTY on TB-A.Verner, Face Mask (15 Yards), 15 yards, enforced at CHI 39 - No Play.
+(CHI, TB 13, Q2, 1 and 10) (11:45) (No Huddle, Shotgun) J.Cutler pass incomplete short right to E.Royal (S.Moore). PENALTY on TB-S.Moore, Defensive Pass Interference, 12 yards, enforced at TB 13 - No Play.
+(CHI, TB 4, Q2, 3 and 4) (:19) (Shotgun) PENALTY on CHI-K.Long, False Start, 5 yards, enforced at TB 4 - No Play.
+(CHI, CHI 26, Q3, 3 and 4) (10:12) (Shotgun) J.Cutler pass short middle to J.Bellamy to CHI 30 for 4 yards (S.Moore). Tampa Bay challenged the first down ruling, and the play was REVERSED. (Shotgun) J.Cutler pass short middle to J.Bellamy to CHI 29 for 3 yards (S.Moore).
+(CHI, CHI 29, Q3, 4 and 1) (9:26) (Punt formation) P.O'Donnell punts 48 yards to TB 23, Center-P.Scales. B.Rainey MUFFS catch, touched at TB 23, and recovers at TB 24. B.Rainey to TB 27 for 3 yards (C.Prosinski; S.McManis). PENALTY on TB-A.Verner, Offensive Holding, 10 yards, enforced at TB 24.
+(CHI, 50, Q4, 3 and 2) (5:01) (Shotgun) K.Carey right tackle to TB 42 for 8 yards (S.Moore). PENALTY on CHI-V.Ducasse, Offensive Holding, 10 yards, enforced at 50 - No Play.
+(DAL, BUF 34, Q1, 2 and 5) (10:45) (No Huddle) K.Moore pass incomplete deep right to B.Butler. Overthrown, receiver at goal line. PENALTY on BUF-J.Hughes, Defensive Offside, 5 yards, enforced at BUF 34 - No Play.
+(BUF, BUF 40, Q1, 1 and 10) (2:45) (Shotgun) K.Williams right tackle to DAL 34 for 26 yards (A.Hitchens, B.Jones). PENALTY on DAL-B.Jones, Face Mask (15 Yards), 15 yards, enforced at DAL 34.
+(DAL, BUF 40, Q2, 1 and 10) (12:49) K.Moore pass short left to B.Butler to BUF 28 for 12 yards (R.Brooks). Caught at BUF 29, crossing to middle. PENALTY on DAL-T.Frederick, Offensive Holding, 10 yards, enforced at BUF 40 - No Play.
+(BUF, BUF 14, Q2, 1 and 10) (10:50) (Shotgun) T.Taylor pass short left to C.Gragg to BUF 23 for 9 yards (B.Carr; S.Lee). Caught at BUF 20. PENALTY on BUF-S.Watkins, Offensive Pass Interference, 7 yards, enforced at BUF 14 - No Play.
+(DAL, BUF 44, Q2, 1 and 10) (8:16) PENALTY on DAL-T.Smith, False Start, 5 yards, enforced at BUF 44 - No Play.
+(BUF, BUF 49, Q2, 2 and 7) (2:47) (Shotgun) T.Taylor scrambles right end pushed ob at DAL 45 for 6 yards (R.Gregory). PENALTY on BUF-T.Taylor, Face Mask (15 Yards), 15 yards, enforced at 50. Rush credited to 50 (spot of foul).
+(BUF, DAL 45, Q2, 3 and 13) (1:10) (Shotgun) T.Taylor pass deep left to S.Watkins to DAL 8 for 37 yards (B.Jones). Caught at DAL 10. Penalty assessed from end of play. PENALTY on BUF-S.Watkins, Delay of Game, 5 yards, enforced at DAL 8.
+(DAL, DAL 35, Q3) D.Bailey kicks 58 yards from DAL 35 to BUF 7. W.Powell MUFFS catch, and recovers at BUF 7. W.Powell to BUF 19 for 12 yards (R.Smith, D.Wilson). PENALTY on DAL-D.Wilson, Offside on Free Kick, 5 yards, enforced at DAL 35 - No Play.
+(BUF, DAL 29, Q3, 1 and 10) (10:06) (Shotgun) T.Taylor sacked ob at DAL 29 for 0 yards (D.Olatoye). PENALTY on BUF-J.Mills, Offensive Holding, 10 yards, enforced at DAL 29 - No Play.
+(BUF, DAL 44, Q3, 3 and 8) (2:01) (Shotgun) T.Taylor pass short left to K.Williams to DAL 24 for 20 yards (B.Church). FUMBLES (B.Church), RECOVERED by DAL-B.Carr at DAL 19. B.Carr to DAL 24 for 5 yards (G.Salas). PENALTY on BUF-J.Mills, Unnecessary Roughness, 15 yards, enforced at DAL 24.
+(DAL, 50, Q4, 1 and 10) (15:00) PENALTY on DAL-Z.Martin, False Start, 5 yards, enforced at 50 - No Play.
+(DAL, DAL 31, Q4, 2 and 10) (11:37) D.McFadden left tackle to DAL 48 for 17 yards (C.Graham). Rush credited to spot of foul (DAL 40). PENALTY on DAL-L.Whitehead, Offensive Holding, 10 yards, enforced at DAL 40.
+(DAL, DAL 30, Q4, 2 and 11) (11:03) (Shotgun) K.Moore pass short right to T.Williams to DAL 41 for 11 yards (M.Butler). Caught along sideline at DAL 41. PENALTY on DAL-L.Collins, Offensive Holding, 10 yards, enforced at DAL 30 - No Play.
+(DAL, DAL 27, Q4, 3 and 14) (9:43) (Shotgun) PENALTY on DAL-K.Moore, Delay of Game, 5 yards, enforced at DAL 27 - No Play.
+(BUF, DAL 15, Q4) (Kick formation) PENALTY on BUF-C.Kouandjio, False Start, 5 yards, enforced at DAL 15 - No Play.
+(GB, ARI 44, Q1, 2 and 8) (12:13) (No Huddle, Shotgun) A.Rodgers pass incomplete deep left to J.Jones. PENALTY on ARI-C.Campbell, Defensive Offside, 5 yards, enforced at ARI 44 - No Play.
+(GB, ARI 39, Q1, 3 and 3) (11:28) (No Huddle, Shotgun) A.Rodgers pass short left to J.Jones ran ob at ARI 27 for 12 yards. PENALTY on GB-J.Sitton, Offensive Holding, 10 yards, enforced at ARI 39 - No Play.
+(GB, ARI 49, Q1, 4 and 13) (10:52) (Punt formation) PENALTY on GB-R.Rodgers, False Start, 5 yards, enforced at ARI 49 - No Play.
+(GB, GB 15, Q1, 1 and 10) (4:09) A.Rodgers pass incomplete short right. PENALTY on ARI-J.Bethel, Defensive Holding, 5 yards, enforced at GB 15 - No Play.
+(GB, GB 25, Q1, 4 and 5) (2:48) (Punt formation) T.Masthay punts 49 yards to ARI 26, Center-R.Lovato. P.Peterson pushed ob at ARI 35 for 9 yards (C.Banjo). PENALTY on GB-J.Janis, Face Mask (15 Yards), 15 yards, enforced at ARI 35.
+(GB, GB 38, Q2, 2 and 5) (12:18) R.Cobb up the middle to GB 41 for 3 yards (D.Swearinger). PENALTY on GB-C.Linsley, Offensive Holding, 10 yards, enforced at GB 38 - No Play.
+(ARI, GB 24, Q2, 2 and 1) (:38) (Shotgun) C.Palmer pass incomplete short left to L.Fitzgerald. PENALTY on GB-M.Hyde, Defensive Holding, 5 yards, enforced at GB 24 - No Play.
+(ARI, ARI 35, Q3) C.Catanzaro kicks 68 yards from ARI 35 to GB -3. J.Janis to GB 20 for 23 yards (P.Peterson). PENALTY on GB-D.Jones, Offensive Holding, 9 yards, enforced at GB 18.
+(GB, GB 2, Q3, 3 and 17) (12:43) (Shotgun) A.Rodgers pass deep left to D.Adams to GB 40 for 38 yards (J.Bethel). PENALTY on GB-D.Adams, Delay of Game, 5 yards, enforced at GB 40.
+(GB, GB 20, Q3, 1 and 10) (9:34) PENALTY on ARI, Defensive 12 On-field, 5 yards, enforced at GB 20 - No Play.
+(GB, ARI 42, Q3, 2 and 11) (8:03) (No Huddle) A.Rodgers pass incomplete deep left to R.Cobb [R.Gunter]. PENALTY on ARI-A.Okafor, Defensive 12 On-field, 5 yards, enforced at ARI 42 - No Play.
+(GB, ARI 28, Q3, 2 and 10) (6:41) (No Huddle, Shotgun) A.Rodgers pass short left to E.Lacy for 28 yards, TOUCHDOWN. PENALTY on ARI-K.Minter, Roughing the Passer, 15 yards, enforced between downs.
+(ARI, GB 45, Q3, 3 and 3) (5:03) (Shotgun) PENALTY on ARI-T.Larsen, False Start, 5 yards, enforced at GB 45 - No Play.
+(GB, GB 11, Q3, 1 and 10) (4:26) (Shotgun) A.Rodgers sacked at GB 3 for -8 yards (A.Okafor). PENALTY on ARI-J.Powers, Roughing the Passer, 15 yards, enforced at GB 11 - No Play.
+(GB, GB 40, Q3, 2 and 7) (1:05) (Shotgun) A.Rodgers pass incomplete deep left to J.Jones. PENALTY on ARI-J.Bethel, Defensive Pass Interference, 47 yards, enforced at GB 40 - No Play.
+(GB, ARI 13, Q3, 1 and 10) (:55) PENALTY on ARI, Unsportsmanlike Conduct, 7 yards, enforced at ARI 13. Penalty was on ARI Head Coach.
+(ARI, ARI 43, Q4, 3 and 6) (10:42) (Shotgun) C.Palmer pass short middle to Ja.Brown to GB 35 for 22 yards (Q.Rollins). PENALTY on ARI-T.Larsen, Illegal Use of Hands, 10 yards, enforced at ARI 43 - No Play.
+(GB, GB 9, Q4, 3 and 14) (8:34) (Shotgun) S.Tolzien sacked at GB 1 for -8 yards (D.Freeney). Penalty on GB-J.Tretter, Face Mask (15 Yards), declined. Arizona challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+(STL, STL 36, Q1, 4 and 8) (12:50) J.Hekker punts 50 yards to SEA 14, Center-J.McQuaide. T.Lockett to SEA 21 for 7 yards (C.Bryant). PENALTY on SEA-K.Pierre-Louis, Illegal Block Above the Waist, 10 yards, enforced at SEA 21.
+(SEA, SEA 7, Q1, 3 and 14) (11:52) (Shotgun) PENALTY on SEA-A.Bailey, False Start, 3 yards, enforced at SEA 7 - No Play.
+(STL, STL 15, Q1, 1 and 10) (:37) (Shotgun) C.Keenum pass incomplete short right to J.Cook (K.Wright). PENALTY on SEA-C.Avril, Neutral Zone Infraction, 5 yards, enforced at STL 15 - No Play.
+(STL, STL 24, Q2, 4 and 1) (13:41) J.Hekker punts 45 yards to SEA 31, Center-J.McQuaide, fair catch by T.Lockett. PENALTY on STL-J.Hekker, Unnecessary Roughness, 15 yards, enforced at SEA 31.
+(SEA, SEA 41, Q2, 2 and 15) (12:57) (Shotgun) R.Wilson scrambles left end to SEA 42 for 1 yard. PENALTY on SEA-R.Wilson, Illegal Forward Pass, 5 yards, enforced at SEA 42. Penalty negated pass from Wilson to Brown at STL 10 yard line. Seattle challenged the illegal forward pass ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)
+(STL, STL 11, Q2, 1 and 10) (12:28) C.Keenum scrambles right tackle to STL 15 for 4 yards (B.Irvin). PENALTY on SEA-B.Irvin, Unnecessary Roughness, 15 yards, enforced at STL 15.
+(SEA, SEA 24, Q2, 3 and 6) (5:58) (Shotgun) R.Wilson pass incomplete short right to L.Willson (T.Johnson). PENALTY on STL-T.Johnson, Unnecessary Roughness, 15 yards, enforced at SEA 24 - No Play.
+(SEA, STL 47, Q3, 2 and 2) (12:58) (Shotgun) PENALTY on SEA-A.Bailey, False Start, 5 yards, enforced at STL 47 - No Play.
+(SEA, SEA 48, Q3, 3 and 7) (12:32) (Shotgun) R.Wilson pass incomplete short left to C.Helfet (M.Alexander) [A.Donald]. PENALTY on STL-A.Donald, Roughing the Passer, 15 yards, enforced at SEA 48 - No Play.
+(SEA, STL 33, Q3, 2 and 6) (11:53) C.Michael right tackle pushed ob at STL 17 for 16 yards (T.Johnson). PENALTY on SEA-A.Bailey, Clipping, 15 yards, enforced at STL 33 - No Play.
+(SEA, STL 48, Q3, 3 and 21) (11:22) (Shotgun) R.Wilson pass short right to F.Jackson to STL 37 for 11 yards (A.Ayers; T.Johnson). PENALTY on SEA-J.Sweezy, Offensive Holding, 10 yards, enforced at STL 48 - No Play.
+(SEA, SEA 27, Q3, 3 and 4) (1:07) (Shotgun) R.Wilson pass incomplete short middle to T.Lockett (J.Jenkins). Seattle challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)
+(STL, SEA 2, Q4, 1 and 2) (11:56) T.Gurley up the middle to SEA 3 for -1 yards (K.Wright; C.Avril). PENALTY on STL-G.Reynolds, Offensive Holding, 10 yards, enforced at SEA 2 - No Play.
+(SEA, SEA 39, Q4, 2 and 10) (9:31) PENALTY on STL-A.Ayers, Neutral Zone Infraction, 5 yards, enforced at SEA 39 - No Play.
+(SEA, STL 28, Q4, 1 and 10) (3:23) (Shotgun) R.Wilson pass deep left to J.Kearse to STL 3 for 25 yards (M.Alexander) [A.Donald]. PENALTY on SEA-J.Sweezy, Offensive Holding, 10 yards, enforced at STL 28 - No Play.
+(SEA, STL 31, Q4, 2 and 13) (2:47) (No Huddle, Shotgun) R.Wilson scrambles right tackle to STL 10 for 21 yards (E.Sims). St. Louis challenged the runner was down by contact ruling, and the play was REVERSED. (No Huddle, Shotgun) R.Wilson scrambles right tackle to STL 10 for 21 yards (E.Sims). FUMBLES (E.Sims), RECOVERED by STL-A.Ayers at STL 8. A.Ayers to STL 8 for no gain (R.Wilson).
+(SEA, STL 26, Q4, 2 and 1) (:46) (No Huddle, Shotgun) R.Wilson pass incomplete deep left to J.Kearse. PENALTY on SEA, False Start, 5 yards, enforced at STL 26 - No Play. 10 second run off  inside one minute illegal shift converted to false start
+(BAL, PIT 22, Q1, 1 and 10) (6:02) No. 74 - Hurst reprts as eligible. R.Mallett pass incomplete short right [A.Moats]. PENALTY on BAL-R.Mallett, Intentional Grounding, 10 yards, enforced at PIT 22.
+(PIT, PIT 25, Q2, 3 and 5) (9:17) (No Huddle, Shotgun) PENALTY on BAL-E.Dumervil, Neutral Zone Infraction, 5 yards, enforced at PIT 25 - No Play.
+(PIT, PIT 29, Q2, 3 and 11) (7:41) (No Huddle, Shotgun) PENALTY on PIT-B.Roethlisberger, Delay of Game, 5 yards, enforced at PIT 29 - No Play.
+(BAL, BAL 37, Q2, 3 and 6) (6:28) (No Huddle, Shotgun) PENALTY on BAL-K.Osemele, False Start, 5 yards, enforced at BAL 37 - No Play.
+(BAL, BAL 45, Q2, 2 and 9) (4:12) J.Allen left guard to PIT 40 for 15 yards (M.Mitchell). PENALTY on BAL-J.Urschel, Offensive Holding, 10 yards, enforced at BAL 45 - No Play.
+(PIT, PIT 18, Q2, 3 and 12) (:46) (No Huddle, Shotgun) PENALTY on PIT-A.Brown, False Start, 5 yards, enforced at PIT 18 - No Play.
+(BAL, PIT 46, Q2, 1 and 10) (:13) (Shotgun) PENALTY on BAL-J.Urschel, False Start, 5 yards, enforced at PIT 46 - No Play.
+(BAL, BAL 32, Q3, 1 and 10) (14:55) PENALTY on BAL-M.Yanda, False Start, 5 yards, enforced at BAL 32 - No Play.
+(PIT, PIT 33, Q3, 1 and 10) (12:59) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep left to M.Bryant. PENALTY on BAL-J.Smith, Defensive Pass Interference, 29 yards, enforced at PIT 33 - No Play.
+(PIT, BAL 25, Q3, 2 and 7) (11:33) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep left to A.Brown [C.Upshaw]. PENALTY on BAL-K.Lewis, Defensive Pass Interference, 24 yards, enforced at BAL 25 - No Play.
+(PIT, BAL 1, Q3, 1 and 1) (11:26) No. 74 - Hubbard - reports as eligible. D.Williams left guard for 1 yard, TOUCHDOWN. PENALTY on PIT-M.Spaeth, Unsportsmanlike Conduct, 15 yards, enforced between downs.
+(BAL, BAL 45, Q4, 2 and 7) (12:20) (Shotgun) R.Mallett pass incomplete short right to M.Williams. PENALTY on BAL-R.Jensen, Unnecessary Roughness, 16 yards, enforced at BAL 45 - No Play.
+(BAL, PIT 32, Q4, 1 and 10) (11:32) (No Huddle, Shotgun) PENALTY on BAL-R.Jensen, False Start, 5 yards, enforced at PIT 32 - No Play.
+(PIT, BAL 8, Q4, 2 and 3) (7:31) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to M.Wheaton [C.Upshaw]. PENALTY on BAL-J.Smith, Defensive Pass Interference, 7 yards, enforced at BAL 8 - No Play.
+(PIT, BAL 1, Q4, 1 and 1) (7:27) (Shotgun) B.Roethlisberger pass short left intended for A.Brown INTERCEPTED by J.Smith at BAL -1. J.Smith for 101 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on BAL-C.Upshaw, Defensive Offside, 0 yards, enforced at BAL 1 - No Play.
+(DEN, DEN 36, Q1, 1 and 10) (6:13) (Shotgun) B.Osweiler pass incomplete short right to V.Davis [R.Maualuga]. PENALTY on CIN-R.Maualuga, Illegal Use of Hands, 5 yards, enforced at DEN 36 - No Play.
+(DEN, DEN 43, Q1, 2 and 8) (5:34) B.Osweiler scrambles up the middle to DEN 49 for 6 yards (R.Maualuga). PENALTY on CIN-A.Jones, Illegal Contact, 5 yards, enforced at DEN 49.
+(CIN, DEN 33, Q2, 3 and 5) (12:49) (Shotgun) A.McCarron scrambles left guard to DEN 27 for 6 yards (V.Miller). PENALTY on DEN-B.Marshall, Defensive Holding, 5 yards, enforced at DEN 27.
+(DEN, DEN 20, Q2, 1 and 10) (10:50) R.Hillman left end to DEN 24 for 4 yards (S.Williams). PENALTY on DEN-R.Harris, Illegal Use of Hands, 10 yards, enforced at DEN 20 - No Play.
+(DEN, DEN 10, Q2, 1 and 20) (10:37) PENALTY on DEN-D.Thomas, False Start, 5 yards, enforced at DEN 10 - No Play.
+(CIN, DEN 37, Q2, 1 and 10) (6:02) PENALTY on CIN-K.Zeitler, False Start, 5 yards, enforced at DEN 37 - No Play.
+(CIN, CIN 20, Q3, 2 and 10) (9:40) A.McCarron pass incomplete short right to A.Green. PENALTY on CIN-A.Whitworth, Offensive Holding, 10 yards, enforced at CIN 20 - No Play.
+(CIN, CIN 17, Q3, 1 and 10) (6:07) (Shotgun) A.McCarron sacked at CIN 16 for -1 yards (M.Jackson). PENALTY on DEN-M.Jackson, Face Mask (15 Yards), 15 yards, enforced at CIN 17 - No Play.
+(CIN, DEN 39, Q4, 1 and 10) (7:10) PENALTY on DEN-D.Ware, Neutral Zone Infraction, 5 yards, enforced at DEN 39 - No Play.
+(DEN, CIN 37, Q4, 2 and 2) (4:13) PENALTY on CIN-G.Atkins, Neutral Zone Infraction, 5 yards, enforced at CIN 37 - No Play.
+(DEN, DEN 33, Q5, 2 and 9) (13:36) (Shotgun) B.Osweiler pass short right to V.Green pushed ob at DEN 41 for 8 yards (V.Burfict). PENALTY on CIN-V.Burfict, Unnecessary Roughness, 15 yards, enforced at DEN 41.
+(NYJ, NYJ 20, Q1, 3 and 10) (14:19) (Shotgun) R.Fitzpatrick pass short left to E.Decker to NYJ 31 for 11 yards (C.Graham) [M.Lawson]. Caught along sideline at NYJ 31. Receiver ruled to have been out of bounds before catch. PENALTY on NYJ-E.Decker, Illegal Touch Pass, 5 yards, enforced at NYJ 20 - No Play.
+(BUF, BUF 34, Q1, 4 and 10) (8:05) C.Schmidt punts 50 yards to NYJ 16, Center-G.Sanborn. J.Kerley to NYJ 25 for 9 yards (K.Reddick). Return credited to NYJ 22 (spot of foul). PENALTY on NYJ-D.McDougle, Offensive Holding, 10 yards, enforced at NYJ 22.
+(NYJ, NYJ 12, Q1, 3 and 10) (7:44) PENALTY on NYJ-C.Ivory, Offensive 12 On-field, 5 yards, enforced at NYJ 12 - No Play.
+(BUF, NYJ 22, Q2, 2 and 1) (15:00) (Shotgun) M.Gillislee up the middle to NYJ 22 for no gain (S.Bowen; S.Richardson). PENALTY on NYJ-L.Williams, Unnecessary Roughness, 11 yards, enforced at NYJ 22.
+(BUF, BUF 29, Q2, 4 and 11) (11:14) C.Schmidt punts 51 yards to NYJ 20, Center-G.Sanborn. J.Kerley pushed ob at NYJ 25 for 5 yards (C.Graham). PENALTY on BUF-C.Hogan, Unsportsmanlike Conduct, 15 yards, enforced at NYJ 25. C.Hogan ran out of bounds and did not immediately return in-bounds.
+(BUF, NYJ 13, Q2, 4 and 3) (2:49) E.Manuel in at QB (T.Taylor at WR). (Pass formation)  PENALTY on NYJ-S.Richardson, Neutral Zone Infraction, 5 yards, enforced at NYJ 13 - No Play.
+(BUF, NYJ 8, Q2, 1 and 8) (2:35) (Shotgun) PENALTY on BUF-C.Kouandjio, False Start, 5 yards, enforced at NYJ 8 - No Play.
+(BUF, BUF 20, Q3, 1 and 10) (15:00) (Shotgun) T.Taylor pass incomplete short right to S.Watkins. Thrown wide of receiver, along sideline at BUF 32. PENALTY on NYJ-D.Revis, Illegal Use of Hands, 5 yards, enforced at BUF 20 - No Play.
+(BUF, BUF 40, Q3, 1 and 10) (10:04) (Shotgun) M.Gillislee right guard to BUF 44 for 4 yards (D.Harrison). PENALTY on BUF-C.Glenn, Offensive Holding, 10 yards, enforced at BUF 40 - No Play.
+(NYJ, BUF 40, Q4, 1 and 10) (12:21) (Shotgun) R.Fitzpatrick pass incomplete short right to B.Marshall (M.Butler) [M.Lawson]. Receiver and coverage at BUF 35. PENALTY on BUF-M.Lawson, Roughing the Passer, 15 yards, enforced at BUF 40 - No Play.
+(MIA, NE 18, Q1, 2 and 5) (9:14) (No Huddle, Shotgun) PENALTY on MIA-J.Landry, False Start, 5 yards, enforced at NE 18 - No Play.
+(MIA, MIA 25, Q1, 2 and 5) (4:01) L.Miller right end to MIA 29 for 4 yards (J.Mayo). PENALTY on NE-A.Branch, Defensive Offside, 4 yards, enforced at MIA 25 - No Play.
+(NE, NE 41, Q2, 2 and 5) (13:51) S.Jackson left tackle to NE 41 for no gain (N.Hewitt; K.Sheppard). PENALTY on NE-J.Kline, Offensive Holding, 10 yards, enforced at NE 41 - No Play.
+(NE, MIA 32, Q2, 2 and 8) (11:30) PENALTY on MIA-N.Suh, Encroachment, 5 yards, enforced at MIA 32 - No Play.
+(NE, NE 34, Q2, 2 and 11) (5:24) T.Brady pass incomplete short left to K.Martin. PENALTY on MIA-Br.McCain, Defensive Holding, 5 yards, enforced at NE 34 - No Play.
+(NE, NE 47, Q2, 3 and 2) (4:18) (Shotgun) PENALTY on MIA-N.Suh, Neutral Zone Infraction, 5 yards, enforced at NE 47 - No Play.
+(NE, MIA 48, Q2, 1 and 10) (3:53) T.Brady pass incomplete deep left to S.Chandler. PENALTY on MIA-R.Jones, Defensive Pass Interference, 24 yards, enforced at MIA 48 - No Play.
+(NE, MIA 6, Q3, 1 and 6) (12:59) S.Jackson left tackle to MIA 3 for 3 yards (Br.McCain). PENALTY on MIA-D.Coleman, Illegal Use of Hands, 4 yards, enforced at MIA 6 - No Play.
+(MIA, NE 40, Q3, 4 and 9) (7:53) (Run formation) PENALTY on MIA-R.Tannehill, Delay of Game, 5 yards, enforced at NE 40 - No Play.
+(NE, NE 19, Q3, 3 and 11) (7:07) (Shotgun) T.Brady pass incomplete short right to K.Martin (B.Grimes). PENALTY on MIA-O.Vernon, Roughing the Passer, 15 yards, enforced at NE 19 - No Play.
+(NE, NE 43, Q3, 3 and 1) (6:16) T.Brady pass deep right to K.Martin to MIA 29 for 28 yards (S.Gary). PENALTY on NE-K.Martin, Offensive Pass Interference, 10 yards, enforced at NE 43 - No Play.
+(MIA, NE 48, Q3, 2 and 10) (3:31) (No Huddle, Shotgun) R.Tannehill pass short left to L.Miller to NE 46 for 2 yards (M.Butler). PENALTY on MIA-J.Fox, Face Mask (15 Yards), 15 yards, enforced at NE 48 - No Play.
+(MIA, MIA 49, Q3, 3 and 13) (2:36) (No Huddle, Shotgun) R.Tannehill pass incomplete short right to G.Jennings. Miami challenged the incomplete pass ruling, and the play was REVERSED. (No Huddle, Shotgun) R.Tannehill pass short right to G.Jennings to NE 39 for 12 yards (M.Butler).
+(NE, NE 41, Q3, 3 and 8) (1:25) (Shotgun) PENALTY on NE-D.Amendola, False Start, 5 yards, enforced at NE 41 - No Play.
+(MIA, 50, Q4, 4 and 12) (13:18) (Punt formation) M.Darr punts 35 yards to NE 15, Center-J.Denney. D.Amendola pushed ob at NE 36 for 21 yards (N.Hewitt). PENALTY on NE-B.Bolden, Running Into the Kicker, 5 yards, enforced at 50 - No Play.
+(MIA, NE 45, Q4, 4 and 7) (13:04) (Punt formation) M.Darr punts 37 yards to NE 8, Center-J.Denney, fair catch by D.Amendola. PENALTY on NE-D.Watson, Offensive Holding, 4 yards, enforced at NE 8.
+(NE, NE 7, Q4, 4 and 23) (5:05) (Punt formation) PENALTY on NE-J.Cardona, False Start, 3 yards, enforced at NE 7 - No Play.
+(NE, NE 4, Q4, 4 and 26) (4:49) (Punt formation) R.Allen punts 54 yards to MIA 42, Center-J.Cardona. J.Landry to NE 35 for 23 yards (M.Slater). PENALTY on MIA-Da.Williams, Offensive Holding, 10 yards, enforced at NE 35.
+(CIN, CIN 33, Q1, 1 and 10) (13:48) PENALTY on CIN-J.Fisher, False Start, 5 yards, enforced at CIN 33 - No Play.
+(CIN, CIN 42, Q1, 3 and 9) (5:56) (Shotgun) A.McCarron scrambles up the middle to BAL 42 for 16 yards (K.Lewis). PENALTY on CIN-A.Whitworth, Offensive Holding, 10 yards, enforced at CIN 42 - No Play.
+(BAL, CIN 41, Q1, 2 and 10) (2:09) (Shotgun) PENALTY on BAL-M.Yanda, False Start, 5 yards, enforced at CIN 41 - No Play.
+(CIN, CIN 41, Q2, 1 and 10) (11:47) (Shotgun) J.Hill left guard to CIN 45 for 4 yards (D.Smith; Z.Smith). PENALTY on CIN-C.Boling, Offensive Holding, 10 yards, enforced at CIN 41 - No Play.
+(CIN, CIN 31, Q2, 2 and 20) (11:13) (Shotgun) A.McCarron pass short middle to M.Sanu to CIN 47 for 16 yards (C.Mosley). PENALTY on CIN-R.Bodine, Offensive Holding, 10 yards, enforced at CIN 31 - No Play. Penalty on CIN-K.Zeitler, Ineligible Downfield Pass, declined.
+(CIN, CIN 44, Q2, 3 and 7) (9:59) (Shotgun) PENALTY on CIN-A.Green, False Start, 5 yards, enforced at CIN 44 - No Play.
+(BAL, 50, Q2, 2 and 12) (7:17) (Shotgun) R.Mallett pass short left to M.Williams to CIN 46 for 4 yards (R.Maualuga). Cincinnati challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)
+(CIN, CIN 28, Q2, 2 and 13) (3:14) (Shotgun) A.McCarron pass incomplete deep left to M.Jones. PENALTY on BAL-W.Hill III, Defensive Pass Interference, 23 yards, enforced at CIN 28 - No Play.
+(BAL, CIN 45, Q3, 1 and 10) (10:00) R.Mallett pass deep right to M.Williams to CIN 24 for 21 yards (D.Kirkpatrick). Cincinnati challenged the pass completion ruling, and the play was REVERSED. R.Mallett pass incomplete deep right to M.Williams.
+(BAL, CIN 42, Q3, 4 and 7) (9:11) (Punt formation) PENALTY on CIN-C.Dunlap, Neutral Zone Infraction, 4 yards, enforced at CIN 42 - No Play. Penalty was marked off as only 4 yards
+(CIN, CIN 11, Q3, 2 and 5) (2:16) PENALTY on CIN-C.Ogbuehi, False Start, 5 yards, enforced at CIN 11 - No Play.
+(BAL, CIN 43, Q4, 3 and 4) (14:14) (Shotgun) PENALTY on BAL-K.Osemele, False Start, 5 yards, enforced at CIN 43 - No Play.
+(CIN, CIN 37, Q4, 4 and 1) (9:46) K.Huber punts 53 yards to BAL 10, Center-C.Harris. K.Clay to BAL 10 for no gain (C.Lewis-Harris). PENALTY on BAL-K.Juszczyk, Offensive Holding, 5 yards, enforced at BAL 10.
+(BAL, BAL 5, Q4, 1 and 10) (9:37) R.Mallett pass incomplete short right to K.Aiken. PENALTY on CIN-D.Kirkpatrick, Defensive Pass Interference, 11 yards, enforced at BAL 5 - No Play.
+(CIN, BAL 28, Q4, 3 and 8) (4:22) PENALTY on CIN-A.McCarron, Delay of Game, 5 yards, enforced at BAL 28 - No Play.
+(BAL, CIN 4, Q4, 1 and 4) (1:55) (Shotgun) R.Mallett pass incomplete short middle to M.Williams. PENALTY on CIN-V.Burfict, Defensive Holding, 2 yards, enforced at CIN 4 - No Play.
+(CIN, BAL 41, Q4, 4 and 7) (1:35) (Punt formation) PENALTY on CIN-K.Huber, Delay of Game, 5 yards, enforced at BAL 41 - No Play.
+(PIT, PIT 30, Q1, 1 and 10) (11:24) (Shotgun) PENALTY on PIT-C.Wallace, False Start, 5 yards, enforced at PIT 30 - No Play.
+(PIT, PIT 35, Q1) C.Boswell kicks 64 yards from PIT 35 to CLE 1. R.Mostert to CLE 47 for 46 yards (S.Thomas). PENALTY on CLE-B.Mingo, Illegal Block Above the Waist, 10 yards, enforced at CLE 31.
+(CLE, CLE 33, Q1, 1 and 10) (5:50) (Shotgun) A.Davis pass incomplete deep left to T.Benjamin. PENALTY on PIT-A.Blake, Illegal Contact, 5 yards, enforced at CLE 33 - No Play.
+(PIT, PIT 29, Q2, 2 and 11) (15:00) (Shotgun) PENALTY on PIT-D.DeCastro, False Start, 5 yards, enforced at PIT 29 - No Play.
+(CLE, CLE 38, Q2, 2 and 10) (11:53) A.Davis pass incomplete short left to D.Jennings. PENALTY on PIT-S.McLendon, Illegal Use of Hands, 5 yards, enforced at CLE 38 - No Play.
+(CLE, PIT 15, Q2, 3 and 3) (3:16) (Shotgun) PENALTY on CLE-J.Dray, False Start, 5 yards, enforced at PIT 15 - No Play.
+(PIT, PIT 35, Q3) C.Boswell kicks 65 yards from PIT 35 to CLE 0. R.Mostert to CLE 19 for 19 yards (V.Williams). PENALTY on CLE, Illegal Block Above the Waist, 7 yards, enforced at CLE 14.
+(PIT, PIT 8, Q3, 3 and 7) (11:24) (Shotgun) PENALTY on CLE-P.Kruger, Defensive Offside, 5 yards, enforced at PIT 8 - No Play.
+(CLE, PIT 13, Q3, 1 and 10) (2:23) (Shotgun) A.Davis pass short left to D.Jennings to PIT 4 for 9 yards (B.Boykin). FUMBLES (B.Boykin), and recovers at PIT 4. D.Jennings to PIT 5 for -1 yards (L.Timmons). PENALTY on CLE-T.Pryor, Unsportsmanlike Conduct, 15 yards, enforced at PIT 5.
+(CLE, PIT 20, Q3, 2 and 17) (1:52) (Shotgun) A.Davis pass short right to D.Johnson Jr to PIT 14 for 6 yards (W.Gay). PENALTY on PIT-J.Harrison, Illegal Contact, 5 yards, enforced at PIT 20 - No Play.
+(CLE, CLE 1, Q4, 1 and 10) (11:47) PENALTY on CLE-A.Pasztor, False Start, 0 yards, enforced at CLE 1 - No Play.
+(CLE, CLE 1, Q4, 1 and 10) (11:47) PENALTY on CLE-A.Davis, Delay of Game, 0 yards, enforced at CLE 1 - No Play.
+(CLE, CLE 22, Q4, 1 and 10) (7:35) (Shotgun) A.Davis pass short right to T.Benjamin to CLE 27 for 5 yards (W.Allen). PENALTY on PIT-B.Dupree, Defensive Holding, 5 yards, enforced at CLE 22 - No Play.
+(CLE, PIT 47, Q4, 1 and 10) (6:08) (No Huddle, Shotgun) A.Davis pass short left to T.Benjamin to PIT 38 for 9 yards (J.Harrison). PENALTY on PIT-L.Timmons, Defensive Holding, 5 yards, enforced at PIT 47 - No Play.
+(CLE, PIT 33, Q4, 3 and 1) (5:13) (No Huddle, Shotgun) A.Davis pass incomplete short left to T.Benjamin (S.Spence). PENALTY on CLE-T.Pryor, Illegal Shift, 5 yards, enforced at PIT 33 - No Play.
+(PIT, PIT 48, Q4, 4 and 6) (2:09) (Punt formation) PENALTY on PIT-J.Berry, Delay of Game, 5 yards, enforced at PIT 48 - No Play.
+(CLE, CLE 35, Q4, 1 and 10) (1:57) (Shotgun) A.Davis pass incomplete short right to T.Benjamin [A.Moats]. PENALTY on PIT-C.Heyward, Defensive Offside, 5 yards, enforced at CLE 35 - No Play.
+(JAC, JAC 47, Q1, 3 and 4) (11:02) (Shotgun) PENALTY on HOU-W.Mercilus, Neutral Zone Infraction, 5 yards, enforced at JAC 47 - No Play.
+(JAC, HOU 48, Q1, 1 and 10) (11:02) B.Bortles pass short left to A.Robinson to HOU 24 for 24 yards (Q.Demps). PENALTY on JAC-A.Robinson, Offensive Pass Interference, 10 yards, enforced at HOU 48 - No Play.
+(HOU, JAC 36, Q1, 2 and 1) (7:06) (Shotgun) B.Hoyer pass short left to J.Strong to JAC 16 for 20 yards (J.Evans) [A.Branch]. PENALTY on JAC-A.Branch, Roughing the Passer, 8 yards, enforced at JAC 16.
+(HOU, JAC 6, Q1, 2 and 6) (5:55) (Shotgun) PENALTY on HOU-B.Brooks, False Start, 5 yards, enforced at JAC 6 - No Play.
+(JAC, JAC 21, Q1, 4 and 13) (3:59) B.Anger punts 51 yards to HOU 28, Center-C.Tinker. B.Daniels to HOU 31 for 3 yards (J.Banyard; T.Armbrister). PENALTY on HOU-C.Moore, Illegal Block Above the Waist, 10 yards, enforced at HOU 31.
+(HOU, JAC 38, Q1, 2 and 3) (1:47) PENALTY on JAC-J.Odrick, Encroachment, 5 yards, enforced at JAC 38 - No Play.
+(HOU, HOU 35, Q2) N.Novak kicks 65 yards from HOU 35 to JAC 0. N.Marshall to JAC 22 for 22 yards (K.Drummond; D.Morris). PENALTY on JAC-J.Bartu, Offensive Holding, 10 yards, enforced at JAC 22.
+(HOU, HOU 20, Q2, 3 and 14) (2:00) (Shotgun) B.Hoyer pass short right to A.Hunt pushed ob at JAC 25 for 55 yards (D.House). PENALTY on HOU-A.Hunt, Illegal Shift, 5 yards, enforced at HOU 20 - No Play.
+(HOU, JAC 41, Q2, 1 and 10) (:48) PENALTY on HOU-K.Mumphery, False Start, 5 yards, enforced at JAC 41 - No Play.
+(HOU, HOU 26, Q3, 2 and 4) (14:30) PENALTY on JAC-R.Miller, Encroachment, 5 yards, enforced at HOU 26 - No Play.
+(HOU, HOU 31, Q3, 2 and 10) (13:44) (Shotgun) PENALTY on HOU-B.Jones, False Start, 5 yards, enforced at HOU 31 - No Play.
+(JAC, JAC 37, Q3, 3 and 7) (3:12) (Shotgun) B.Bortles pass incomplete short right to A.Hurns (J.Joseph) [J.Crick]. Houston challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)
+(HOU, HOU 20, Q3, 1 and 10) (:43) A.Blue left guard ran ob at JAC 15 for 65 yards (D.House). PENALTY on HOU-D.Newton, Offensive Holding, 10 yards, enforced at HOU 20 - No Play.
+(HOU, HOU 32, Q4, 1 and 10) (13:49) PENALTY on HOU-B.Jones, False Start, 5 yards, enforced at HOU 32 - No Play.
+(JAC, JAC 40, Q4, 1 and 10) (11:14) J.Gray left end pushed ob at HOU 38 for 22 yards (A.Hal). PENALTY on JAC-L.Joeckel, Offensive Holding, 10 yards, enforced at JAC 40 - No Play.
+(HOU, JAC 49, Q4, 1 and 10) (6:53) PENALTY on HOU-B.Brooks, False Start, 5 yards, enforced at JAC 49 - No Play.
+(JAC, HOU 23, Q4, 2 and 6) (1:42) (Shotgun) B.Bortles pass incomplete short right to A.Hurns. PENALTY on JAC, Illegal Shift, 5 yards, enforced at HOU 23 - No Play.
+(TEN, TEN 20, Q1, 1 and 10) (8:57) Z.Mettenberger pass incomplete short right [D.Lowery]. PENALTY on TEN-Z.Mettenberger, Intentional Grounding, 15 yards, enforced at TEN 20.
+(TEN, TEN 25, Q1, 4 and 5) (7:33) B.Kern punts 51 yards to IND 24, Center-B.Brinkley. Q.Bray to IND 27 for 3 yards (T.McBride). PENALTY on IND-J.Brown, Defensive Holding, 11 yards, enforced at IND 24.
+(IND, TEN 15, Q1) A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee. PENALTY on TEN-W.Woodyard, Unnecessary Roughness, 15 yards, enforced between downs.
+(TEN, TEN 19, Q2, 3 and 11) (14:23) (Shotgun) Z.Mettenberger pass short left to D.Walker to TEN 24 for 5 yards (D.Butler; E.Walden). PENALTY on IND-E.Walden, Face Mask (15 Yards), 15 yards, enforced at TEN 24.
+(IND, IND 29, Q2, 2 and 1) (9:42) (Run formation) F.Gore up the middle to IND 26 for -3 yards (A.Woods). PENALTY on TEN-J.Casey, Illegal Use of Hands, 5 yards, enforced at IND 29 - No Play.
+(TEN, TEN 29, Q2, 4 and 1) (5:07) B.Kern punts 44 yards to IND 27, Center-B.Brinkley, fair catch by Q.Bray. PENALTY on IND-J.Brown, Offensive Holding, 10 yards, enforced at IND 27.
+(IND, IND 35, Q3) P.McAfee kicks 65 yards from IND 35 to end zone, Touchback. PENALTY on IND-J.Newsome, Unnecessary Roughness, 15 yards, enforced at TEN 20.
+(TEN, TEN 35, Q3, 2 and 10) (14:57) (Run formation) D.Cobb left end pushed ob at IND 39 for 26 yards (V.Davis). PENALTY on TEN-B.Bell, Offensive Holding, 10 yards, enforced at TEN 40.
+(IND, TEN 49, Q3, 1 and 10) (4:35) (Run formation) PENALTY on TEN-S.Hill, Encroachment, 5 yards, enforced at TEN 49 - No Play.
+(TEN, IND 43, Q4, 1 and 10) (13:45) (Run formation) T.McBride left end to IND 35 for 8 yards (J.Freeman). PENALTY on IND-B.Werner, Face Mask (15 Yards), 15 yards, enforced at IND 35.
+(IND, IND 24, Q4, 4 and 6) (10:16) P.McAfee punts 44 yards to TEN 32, Center-M.Overton. H.Douglas MUFFS catch, and recovers at TEN 33. H.Douglas to TEN 33 for no gain (C.Anderson). TEN-H.Douglas was injured during the play.  PENALTY on TEN-J.Staples, Offensive Holding, 10 yards, enforced at TEN 33.
+(IND, TEN 15, Q4, 2 and 8) (2:40) (Run formation) K.Holmes reported in as eligible.  F.Gore up the middle to TEN 12 for 3 yards (A.Williamson). PENALTY on IND-F.Gore, Delay of Game, 5 yards, enforced between downs.
+(KC, KC 13, Q1, 1 and 10) (6:56) (Shotgun) PENALTY on OAK-D.Williams, Neutral Zone Infraction, 5 yards, enforced at KC 13 - No Play.
+(OAK, KC 15, Q2, 2 and 6) (15:00) (Run formation) PENALTY on OAK-L.Smith, False Start, 5 yards, enforced at KC 15 - No Play.
+(KC, KC 20, Q2, 1 and 10) (3:34) A.Smith pass short right intended for A.Wilson INTERCEPTED by D.Amerson at KC 24. D.Amerson for 24 yards, TOUCHDOWN. PENALTY on OAK-D.Amerson, Taunting, 15 yards, enforced between downs.
+(OAK, OAK 34, Q2, 2 and 1) (:37) (Shotgun) PENALTY on OAK-J.Webb, False Start, 5 yards, enforced at OAK 34 - No Play.
+(KC, KC 24, Q3, 1 and 10) (13:54) (Shotgun) A.Smith pass incomplete short right to J.Maclin (D.Amerson). PENALTY on OAK-D.Amerson, Defensive Pass Interference, 9 yards, enforced at KC 24 - No Play.
+(KC, KC 47, Q3, 1 and 10) (8:59) (Shotgun) PENALTY on KC-D.Stephenson, False Start, 5 yards, enforced at KC 47 - No Play.
+(KC, OAK 47, Q3, 3 and 4) (7:38) (Shotgun) A.Smith pass short right to J.Maclin to OAK 30 for 17 yards (C.Woodson) [K.Mack]. PENALTY on OAK-K.Mack, Roughing the Passer, 15 yards, enforced at OAK 30.
+(KC, KC 41, Q3, 2 and 10) (1:42) (Shotgun) PENALTY on OAK-D.Autry, Neutral Zone Infraction, 5 yards, enforced at KC 41 - No Play.
+(KC, OAK 21, Q4, 4 and 11) (3:27) C.Santos 39 yard field goal is GOOD, NULLIFIED by Penalty, Center-J.Winchester, Holder-D.Colquitt. PENALTY on KC-T.Kelce, Offensive Holding, 10 yards, enforced at OAK 21 - No Play.
+(OAK, OAK 37, Q4, 4 and 1) (2:25) R.Helu up the middle to OAK 40 for 3 yards (D.Johnson). PENALTY on KC-R.Parker, Taunting, 15 yards, enforced at OAK 40.
+(OAK, KC 45, Q4, 1 and 10) (2:14) (No Huddle, Shotgun) D.Carr pass incomplete deep left to S.Roberts. PENALTY on KC-R.Parker, Defensive Pass Interference, 14 yards, enforced at KC 45 - No Play.
+(OAK, OAK 24, Q4, 3 and 8) (:45) (Shotgun) D.Carr pass incomplete short middle to S.Roberts. PENALTY on KC-D.Johnson, Defensive Pass Interference, 11 yards, enforced at OAK 24 - No Play.
+(DAL, DAL 39, Q2, 2 and 7) (13:49) R.Turbin left tackle to DAL 42 for 3 yards (W.Compton). PENALTY on DAL-G.Swaim, Unnecessary Roughness, 15 yards, enforced at DAL 42.
+(DAL, WAS 4, Q2, 2 and 4) (3:39) (Shotgun) K.Moore pass short left to J.Witten pushed ob at WAS 1 for 3 yards (J.Johnson). Dallas challenged the runner broke the plane ruling, and the play was REVERSED. (Shotgun) K.Moore pass short left to J.Witten for 4 yards, TOUCHDOWN.
+(WAS, WAS 24, Q2, 4 and 20) (1:44) (Punt formation) T.Way punts 56 yards to DAL 20, Center-N.Sundberg. L.Whitehead to DAL 24 for 4 yards (H.Bates). PENALTY on DAL-B.Jones, Illegal Block Above the Waist, 10 yards, enforced at DAL 24.
+(WAS, WAS 26, Q3, 4 and 4) (13:43) (Punt formation) T.Way punts 58 yards to DAL 16, Center-N.Sundberg. L.Whitehead to DAL 18 for 2 yards (D.Everett). PENALTY on DAL-B.Jones, Offensive Holding, 9 yards, enforced at DAL 18. Penalty on DAL-K.Wilber, Illegal Block Above the Waist, declined.
+(WAS, WAS 34, Q3, 1 and 10) (8:47) C.Thompson right tackle to WAS 37 for 3 yards (R.McClain). PENALTY on WAS-D.Young, Offensive Holding, 10 yards, enforced at WAS 34 - No Play.
+(WAS, WAS 28, Q3, 2 and 10) (:48) C.Thompson right end to WAS 30 for 2 yards (B.Carr). PENALTY on WAS-M.Moses, Offensive Holding, 10 yards, enforced at WAS 28 - No Play.
+(WAS, WAS 1, Q4, 1 and 10) (12:27) PENALTY on WAS-A.Smith, False Start, 0 yards, enforced at WAS 1 - No Play.
+(DAL, DAL 37, Q4, 2 and 1) (6:59) (No Huddle, Shotgun) K.Moore pass incomplete short right to D.Street. PENALTY on DAL-T.Smith, Offensive Holding, 10 yards, enforced at DAL 37 - No Play.
+(PHI, PHI 3, Q1, 2 and 9) (8:36) (No Huddle, Shotgun) S.Bradford pass short right to R.Mathews pushed ob at PHI 22 for 19 yards (L.Collins). PENALTY on PHI-J.Peters, Tripping, 1 yard, enforced at PHI 3 - No Play.
+(PHI, PHI 4, Q1, 3 and 8) (7:51) (No Huddle, Shotgun) PENALTY on NYG-G.Selvie, Neutral Zone Infraction, 5 yards, enforced at PHI 4 - No Play.
+(NYG, NYG 23, Q2, 2 and 7) (4:09) (No Huddle, Shotgun) R.Jennings left tackle to NYG 27 for 4 yards (M.Kendricks). PENALTY on PHI-B.Allen, Defensive 12 On-field, 5 yards, enforced at NYG 23 - No Play.
+(PHI, PHI 3, Q3, 1 and 10) (11:51) (Shotgun) R.Mathews left guard to PHI 10 for 7 yards (T.Wade). New York Giants challenged the fumble ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)
+(NYG, PHI 41, Q3, 3 and 2) (5:24) (No Huddle, Shotgun) PENALTY on NYG-O.Beckham, False Start, 5 yards, enforced at PHI 41 - No Play.
+(NYG, PHI 19, Q3, 2 and 7) (3:59) (No Huddle) E.Manning pass incomplete deep right to O.Beckham (E.Biggers). PENALTY on PHI-E.Biggers, Defensive Holding, 5 yards, enforced at PHI 19 - No Play.
+(DET, DET 14, Q1, 4 and 16) (:50) (Punt formation) S.Martin punts 58 yards to CHI 28, Center-D.Muhlbach. M.Mariani to CHI 47 for 19 yards (T.Riddick). PENALTY on CHI-S.McManis, Face Mask (15 Yards), 15 yards, enforced at CHI 30.
+(DET, DET 13, Q3, 3 and 10) (7:30) (Shotgun) PENALTY on DET-R.Reiff, False Start, 5 yards, enforced at DET 13 - No Play.
+(CHI, DET 38, Q4, 1 and 10) (7:29) (Shotgun) PENALTY on DET-E.Ansah, Neutral Zone Infraction, 5 yards, enforced at DET 38 - No Play.
+(CHI, CHI 35, Q4) R.Gould kicks 64 yards from CHI 35 to DET 1. A.Abdullah to DET 11 for 10 yards (C.Prosinski; J.Anderson). PENALTY on DET-E.Ebron, Illegal Block Above the Waist, 4 yards, enforced at DET 8.
+(DET, DET 15, Q4, 1 and 10) (4:53) J.Bell left end to DET 19 for 4 yards (K.Fuller). PENALTY on DET-B.Pascoe, Offensive Holding, 7 yards, enforced at DET 15 - No Play.
+(GB, GB 32, Q1, 1 and 10) (9:37) A.Rodgers pass incomplete deep right to R.Rodgers. PENALTY on MIN-T.Johnson, Defensive Offside, 5 yards, enforced at GB 32 - No Play.
+(MIN, MIN 32, Q1, 4 and 2) (:33) J.Locke punts 52 yards to GB 16, Center-K.McDermott. M.Hyde to GB 26 for 10 yards (J.Trattou). PENALTY on GB-J.Janis, Illegal Block Above the Waist, 10 yards, enforced at GB 26.
+(GB, GB 24, Q2, 4 and 5) (6:44) (Punt formation) PENALTY on GB-R.Lovato, False Start, 5 yards, enforced at GB 24 - No Play.
+(MIN, GB 23, Q2, 2 and 7) (4:38) A.Peterson right guard to GB 20 for 3 yards (M.Neal). PENALTY on GB-C.Matthews, Unnecessary Roughness, 9 yards, enforced at GB 20.
+(GB, GB 43, Q2, 2 and 11) (2:00) (Shotgun) A.Rodgers pass incomplete short right to J.Jones [A.Barr]. PENALTY on MIN-T.Newman, Defensive Pass Interference, 12 yards, enforced at GB 43 - No Play.
+(MIN, GB 42, Q2, 4 and 2) (:15) (Shotgun) PENALTY on MIN-T.Bridgewater, Delay of Game, 5 yards, enforced at GB 42 - No Play.
+(GB, GB 20, Q3, 3 and 10) (14:15) (No Huddle) A.Rodgers pass incomplete deep left to J.Jones. PENALTY on MIN-S.Floyd, Defensive 12 On-field, 5 yards, enforced at GB 20 - No Play.
+(GB, GB 28, Q3, 4 and 9) (8:52) T.Masthay punts 49 yards to MIN 23, Center-R.Lovato. M.Sherels to MIN 36 for 13 yards (J.Ryan). PENALTY on MIN-E.Robinson, Illegal Block Above the Waist, 10 yards, enforced at MIN 33.
+(MIN, MIN 29, Q3, 2 and 4) (8:42) PENALTY on GB-M.Pennel, Neutral Zone Infraction, 5 yards, enforced at MIN 29 - No Play.
+(GB, MIN 35, Q3, 3 and 2) (5:12) (Shotgun) E.Lacy up the middle pushed ob at MIN 30 for 5 yards (E.Kendricks). MIN-K.Ellis was injured during the play.  PENALTY on GB-C.Linsley, Offensive Holding, 10 yards, enforced at MIN 35 - No Play.
+(GB, GB 33, Q3, 2 and 10) (3:43) (No Huddle, Shotgun) J.Starks right tackle to GB 39 for 6 yards (E.Kendricks, A.Sendejo). PENALTY on GB-J.Sitton, Offensive Holding, 10 yards, enforced at GB 35.
+(MIN, MIN 36, Q4, 2 and 4) (12:07) J.McKinnon left tackle to MIN 37 for 1 yard (J.Ryan). PENALTY on GB-B.Raji, Illegal Use of Hands, 5 yards, enforced at MIN 37.
+(NO, ATL 4, Q1, 3 and 4) (3:54) (Shotgun) D.Brees pass incomplete middle to W.Snead (V.Beasley). PENALTY on ATL-V.Beasley, Roughing the Passer, 2 yards, enforced at ATL 4 - No Play.
+(NO, ATL 2, Q1, 1 and 2) (3:48) T.Hightower right guard for 2 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on NO-Z.Strief, Offensive Holding, 10 yards, enforced at ATL 2 - No Play.
+(NO, ATL 13, Q2, 1 and 10) (10:54) (Shotgun) D.Brees pass incomplete short left to B.Watson (C.Godfrey) [A.Clayborn]. New Orleans challenged the pass completion ruling, and the play was REVERSED. (Shotgun) D.Brees pass short left to B.Watson for 13 yards, TOUCHDOWN [A.Clayborn].
+(ATL, NO 47, Q2, 3 and 4) (2:00) (Shotgun) D.Freeman left end to NO 48 for -1 yards (O.Gwacham). PENALTY on NO-R.Humber, Face Mask (15 Yards), 15 yards, enforced at NO 47 - No Play.
+(ATL, ATL 47, Q3, 1 and 10) (12:41) T.Ward left end ran ob at ATL 49 for 2 yards (B.Browner). PENALTY on ATL-L.Toilolo, Offensive Holding, 10 yards, enforced at ATL 47 - No Play.
+(ATL, ATL 37, Q3, 2 and 20) (12:04) (Shotgun) M.Ryan pass incomplete short left to J.Jones [B.Richardson]. PENALTY on NO-B.Richardson, Roughing the Passer, 15 yards, enforced at ATL 37 - No Play.
+(NO, ATL 45, Q3, 3 and 8) (7:02) (Shotgun) D.Brees pass incomplete short left to A.Johnson. PENALTY on ATL-P.Adams, Defensive Holding, 5 yards, enforced at ATL 45 - No Play.
+(ATL, NO 46, Q3, 1 and 10) (2:51) M.Ryan pass short middle to D.Freeman to NO 42 for 4 yards (D.Hawthorne). PENALTY on NO, Defensive 12 On-field, 5 yards, enforced at NO 46 - No Play.
+(ATL, NO 34, Q4, 3 and 9) (2:56) (Shotgun) M.Ryan pass short middle to J.Hardy to NO 28 for 6 yards (K.Wilson). PENALTY on ATL-A.Levitre, Unnecessary Roughness, 15 yards, enforced at NO 28.
+(CAR, TB 37, Q1, 1 and 10) (12:20) (No Huddle, Shotgun) C.Newton pass incomplete deep right to C.Brown (M.Jenkins). Carolina challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)
+(CAR, TB 24, Q2, 1 and 10) (15:00) PENALTY on TB-G.McCoy, Encroachment, 5 yards, enforced at TB 24 - No Play.
+(CAR, TB 31, Q2, 3 and 10) (9:37) (No Huddle, Shotgun) C.Newton pass short left to C.Brown to TB 19 for 12 yards (A.Verner). Tampa Bay challenged the pass completion ruling, and the play was REVERSED. (No Huddle, Shotgun) C.Newton pass incomplete short left to C.Brown.
+(CAR, TB 15, Q2) G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman. PENALTY on CAR-T.Turner, False Start, 5 yards, enforced at TB 15 - No Play.
+(TB, CAR 26, Q2, 1 and 10) (:47) (Shotgun) J.Winston pass incomplete short right to D.Dye [C.Johnson]. PENALTY on CAR-K.Short, Defensive Offside, 5 yards, enforced at CAR 26 - No Play.
+(TB, TB 26, Q3, 3 and 4) (13:48) (Shotgun) J.Winston pass incomplete short left to M.Evans [C.Johnson]. PENALTY on CAR-J.Norman, Defensive Holding, 5 yards, enforced at TB 26 - No Play.
+(CAR, CAR 32, Q3, 1 and 10) (11:57) (Shotgun) C.Newton left end to CAR 33 for 1 yard. C.Newton pass incomplete short left to J.Cotchery. PENALTY on CAR-C.Newton, Illegal Forward Pass, 3 yards, enforced at CAR 33.
+(CAR, CAR 24, Q3, 3 and 18) (11:04) (Shotgun) PENALTY on CAR-C.Newton, Delay of Game, 5 yards, enforced at CAR 24 - No Play.
+(TB, CAR 15, Q3) C.Barth extra point is GOOD, Center-A.DePaola, Holder-J.Schum. PENALTY on CAR-J.Norman, Defensive Offside, 5 yards, enforced between downs.
+(CAR, CAR 20, Q3, 1 and 10) (4:45) (Shotgun) C.Newton pass incomplete deep right to G.Olsen. PENALTY on TB-B.McDougald, Defensive Pass Interference, 20 yards, enforced at CAR 20 - No Play.
+(CAR, CAR 43, Q4, 1 and 10) (13:26) (Shotgun) C.Artis-Payne up the middle to 50 for 7 yards (K.Tandy; J.Keyes). PENALTY on CAR-C.Brown, Illegal Shift, 5 yards, enforced at CAR 43 - No Play.
+(CAR, TB 35, Q4, 3 and 12) (9:21) (Shotgun) C.Newton pass short right to C.Brown to TB 15 for 20 yards (J.Adjei-Barimah). Tampa Bay challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+(TB, TB 46, Q4, 1 and 10) (6:35) (No Huddle, Shotgun) J.Winston pass incomplete deep left to M.Evans. PENALTY on TB-D.Smith, Offensive Holding, 10 yards, enforced at TB 46 - No Play.
+(TB, CAR 11, Q4, 2 and 6) (2:01) (No Huddle, Shotgun) J.Winston pass incomplete short right to M.Evans. PENALTY on TB-M.Evans, Unsportsmanlike Conduct, 15 yards, enforced at CAR 11. PENALTY on TB-M.Evans, Disqualification, 15 yards, enforced between downs.
+(SD, SD 11, Q2, 2 and 10) (8:45) (Shotgun) PENALTY on SD-T.Burwell, False Start, 5 yards, enforced at SD 11 - No Play.
+(SD, DEN 49, Q2, 1 and 10) (2:57) (Shotgun) P.Rivers pass incomplete short left to A.Gates. PENALTY on SD-K.Wiggins, Offensive Holding, 10 yards, enforced at DEN 49 - No Play.
+(SD, SD 41, Q2, 1 and 20) (2:50) (Shotgun) P.Rivers pass short left to D.Woodhead to SD 41 for no gain (C.Harris). PENALTY on DEN-D.Ware, Defensive Offside, 5 yards, enforced at SD 41 - No Play.
+(SD, DEN 46, Q2, 3 and 7) (1:20) (Shotgun) P.Rivers sacked at SD 49 for -5 yards (D.Ware). PENALTY on SD-P.Rivers, Delay of Game, 5 yards, enforced between downs.
+(DEN, DEN 45, Q2, 2 and 10) (:34) (Shotgun) B.Osweiler pass short right to D.Thomas to 50 for 5 yards (D.Perryman). PENALTY on DEN-M.Schofield, Offensive Holding, 10 yards, enforced at DEN 45 - No Play.
+(SD, DEN 20, Q3, 2 and 18) (9:57) (No Huddle, Shotgun) P.Rivers pass short middle to A.Gates to DEN 14 for 6 yards (C.Nelson). DEN-D.Ware was injured during the play. His return is Probable. SD-T.Burwell was injured during the play. His return is Doubtful.  PENALTY on DEN-C.Nelson, Defensive Holding, 5 yards, enforced at DEN 20 - No Play.
+(DEN, SD 23, Q3, 1 and 10) (6:06) (No Huddle, Shotgun) PENALTY on SD-M.Ingram, Neutral Zone Infraction, 5 yards, enforced at SD 23 - No Play.
+(DEN, SD 30, Q4, 2 and 10) (13:51) (Shotgun) PENALTY on DEN-E.Sanders, False Start, 5 yards, enforced at SD 30 - No Play.
+(SD, DEN 15, Q4) J.Lambo extra point is GOOD, Center-M.Windt, Holder-M.Scifres. PENALTY on SD-J.Barksdale, False Start, 5 yards, enforced at DEN 15 - No Play.
+(DEN, SD 21, Q4, 3 and 7) (10:52) (Shotgun) PENALTY on SD-D.Square, Encroachment, 5 yards, enforced at SD 21 - No Play.
+(SD, SD 26, Q4, 2 and 4) (9:18) (Shotgun) P.Rivers pass incomplete short right to A.Gates. PENALTY on SD-J.Walton, Offensive Holding, 10 yards, enforced at SD 26 - No Play.
+(SD, SD 46, Q4, 1 and 10) (2:53) (Shotgun) D.Brown left guard to DEN 49 for 5 yards (T.Ward). PENALTY on DEN-L.McCray, Defensive Offside, 5 yards, enforced at SD 46 - No Play.
+(SD, DEN 49, Q4, 1 and 5) (2:47) (Shotgun) P.Rivers pass incomplete short right to A.Gates. PENALTY on DEN-S.Williams, Defensive Holding, 5 yards, enforced at DEN 49 - No Play.
+(ARI, ARI 39, Q1, 4 and 6) (13:01) D.Butler punts 39 yards to SEA 22, Center-M.Leach. T.Lockett pushed ob at SEA 44 for 22 yards (D.Butler). PENALTY on SEA-R.Sherman, Illegal Block Above the Waist, 10 yards, enforced at SEA 22.
+(SEA, SEA 41, Q1, 2 and 9) (9:50) R.Wilson pass short left to D.Baldwin pushed ob at SEA 47 for 6 yards (J.Powers). PENALTY on SEA-T.Lockett, Offensive Pass Interference, 10 yards, enforced at SEA 41 - No Play.
+(SEA, ARI 1, Q1, 2 and 1) (6:07) R.Wilson right tackle to ARI 1 for no gain (T.Jefferson). Seattle challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)
+(ARI, ARI 36, Q1, 2 and 5) (1:01) D.Johnson left end to ARI 38 for 2 yards (A.Rubin). PENALTY on SEA-A.Rubin, Face Mask (15 Yards), 15 yards, enforced at ARI 38.
+(ARI, ARI 31, Q2, 3 and 10) (4:21) (Shotgun) PENALTY on ARI-T.Larsen, False Start, 5 yards, enforced at ARI 31 - No Play.
+(ARI, ARI 26, Q2, 4 and 15) (4:15) D.Butler punts 56 yards to SEA 18, Center-M.Leach. T.Lockett pushed ob at ARI 16 for 66 yards (T.Jefferson). PENALTY on ARI-B.Golden, Face Mask (15 Yards), 8 yards, enforced at ARI 16.
+(SEA, ARI 33, Q2, 2 and 10) (1:21) (Shotgun) R.Wilson pass incomplete deep left to T.Lockett. PENALTY on ARI-C.Campbell, Defensive Offside, 5 yards, enforced at ARI 33 - No Play.
+(ARI, ARI 35, Q3) C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback. PENALTY on ARI-A.Fua, Unnecessary Roughness, 15 yards, enforced at SEA 20.
+(ARI, ARI 13, Q3, 2 and 7) (8:59) D.Johnson right end to ARI 17 for 4 yards (K.McCray). PENALTY on SEA-A.Rubin, Unnecessary Roughness, 15 yards, enforced at ARI 17.
+(ARI, ARI 10, Q3, 1 and 10) (:12) D.Stanton pass incomplete short right to Jo.Brown (R.Sherman). PENALTY on SEA-R.Sherman, Unsportsmanlike Conduct, 15 yards, enforced at ARI 10.
+(ARI, ARI 25, Q4, 3 and 10) (14:56) (Shotgun) PENALTY on ARI-B.Massie, False Start, 5 yards, enforced at ARI 25 - No Play.
+(SEA, SEA 39, Q4, 2 and 5) (13:36) PENALTY on SEA-G.Gilliam, False Start, 5 yards, enforced at SEA 39 - No Play.
+(SEA, ARI 44, Q4, 1 and 10) (2:59) B.Brown up the middle to ARI 44 for no gain (R.Gunter). PENALTY on ARI-R.Gunter, Illegal Use of Hands, 5 yards, enforced at ARI 44.
+(SF, SF 35, Q1) B.Pinion kicks 68 yards from SF 35 to STL -3. B.Cunningham to STL 23 for 26 yards (K.Acker). PENALTY on STL-C.Lynch, Offensive Holding, 10 yards, enforced at STL 18. Cunningham was credited with a 21-yard return.
+(STL, STL 19, Q1, 4 and 11) (12:02) J.Hekker punts 43 yards to SF 38, Center-J.McQuaide, fair catch by B.Ellington. PENALTY on STL-D.Bates, Face Mask (15 Yards), 15 yards, enforced at SF 38.
+(STL, STL 35, Q1) G.Zuerlein kicks 60 yards from STL 35 to SF 5. B.Ellington pushed ob at SF 34 for 29 yards (G.Zuerlein). PENALTY on SF-B.Miller, Unnecessary Roughness, 15 yards, enforced at SF 34.
+(SF, SF 43, Q1, 3 and 7) (1:06) (Shotgun) B.Gabbert pass short middle to Q.Patton to STL 36 for 21 yards (R.McLeod). PENALTY on SF-J.Staley, Illegal Formation, 5 yards, enforced at SF 43 - No Play. Caught at STL 36.  16-yds YAC.
+(STL, SF 34, Q2, 2 and 10) (4:51) (Shotgun) C.Keenum pass short right to M.Brown to SF 36 for -2 yards (G.Hodges, A.Lynch). PENALTY on SF-A.Brooks, Unnecessary Roughness, 15 yards, enforced at SF 36. Caught at SF 39.  3-yds YAC
+(STL, STL 35, Q2) G.Zuerlein kicks 71 yards from STL 35 to SF -6. B.Ellington pushed ob at SF 28 for 34 yards (M.Roberson). PENALTY on STL-D.Bates, Unsportsmanlike Conduct, 15 yards, enforced at SF 28.
+(SF, SF 35, Q2, 4 and 9) (:36) (Punt formation) PENALTY on SF-K.Acker, False Start, 5 yards, enforced at SF 35 - No Play.
+(STL, SF 40, Q3, 2 and 7) (4:25) C.Keenum pass incomplete deep left to K.Britt. PENALTY on SF-I.Williams, Defensive Offside, 5 yards, enforced at SF 40 - No Play.
+(STL, SF 34, Q3, 2 and 13) (2:55) T.Mason left end pushed ob at SF 30 for 4 yards (J.Ward). PENALTY on STL-B.Quick, Offensive Holding, 10 yards, enforced at SF 30.
+(STL, SF 29, Q3, 3 and 8) (1:43) (Shotgun) PENALTY on STL-D.Rhaney, False Start, 5 yards, enforced at SF 29 - No Play.
+(SF, STL 40, Q4, 2 and 2) (14:38) M.Davis up the middle to STL 34 for 6 yards (J.Laurinaitis). PENALTY on SF-A.Tiller, Offensive Holding, 10 yards, enforced at STL 40 - No Play.
+(SF, 50, Q4, 3 and 12) (14:13) (Shotgun) B.Gabbert pass incomplete deep right to T.Smith. PENALTY on STL-T.Johnson, Illegal Contact, 5 yards, enforced at 50 - No Play.
+(STL, SF 41, Q4, 4 and 2) (10:35) (Punt formation) PENALTY on STL-J.Hekker, Delay of Game, 5 yards, enforced at SF 41 - No Play.
+(SF, STL 25, Q4, 3 and 7) (6:38) (Shotgun) PENALTY on STL-A.Donald, Neutral Zone Infraction, 5 yards, enforced at STL 25 - No Play.
+(SF, STL 17, Q4, 1 and 10) (6:01) PENALTY on STL, Defensive 12 On-field, 5 yards, enforced at STL 17 - No Play.
+(SF, SF 35, Q4, 3 and 1) (2:00) PENALTY on SF-A.Tiller, False Start, 5 yards, enforced at SF 35 - No Play.
+(SF, SF 2, Q4, 3 and 10) (:24) B.Gabbert kneels to SF 1 for -1 yards. PENALTY on STL-A.Donald, Unsportsmanlike Conduct, 15 yards, enforced at SF 1.
+(SF, SF 26, Q5, 1 and 10) (4:49) B.Gabbert pass short left to D.Harris to SF 32 for 6 yards (J.Jenkins) [W.Hayes]. PENALTY on STL-W.Hayes, Roughing the Passer, 15 yards, enforced at SF 32. Caught at SF 29.  3-yds YAC
