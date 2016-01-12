@@ -53,6 +53,7 @@ func_dict = {
     'compperc': lambda x: x.compperc(),
     'attspergame': lambda x: x.atts_per_game(),
     'ydspercomp': lambda x: x.yds_per_comp(),
+    'compspergame': lambda x: x.comps_per_game(),
     'ydsperatt': lambda x: x.yds_per_att()
 }
 
@@ -74,7 +75,6 @@ def plot_players(players, xaxis, yaxis, minx=0, miny=0):
     if miny:
         players = filter_players(players, yaxis, miny)
 
-
     xfunc = func_dict[xaxis]
     yfunc = func_dict[yaxis]
 
@@ -87,6 +87,8 @@ def plot_players(players, xaxis, yaxis, minx=0, miny=0):
         x_val, y_val = xfunc(player), yfunc(player)
         if player.team == 'SEA':
             color = 'g'
+        elif player.team == 'CAR':
+            color = 'b'
         else:
             color = 'k'
         plt.text(x_val, y_val, player.name, color=color)
@@ -97,8 +99,9 @@ def plot_players(players, xaxis, yaxis, minx=0, miny=0):
 
     # Set min and max axes values
     x_diff, y_diff = x_max - x_min, y_max - y_min
-    plt.xlim(x_min - x_diff/6.0, x_max + x_diff/6.0)
-    plt.ylim(y_min - y_diff/6.0, y_max + y_diff/6.0)
+    marginsize = 10.0
+    plt.xlim(x_min - x_diff/marginsize, x_max + x_diff/marginsize)
+    plt.ylim(y_min - y_diff/marginsize, y_max + y_diff/marginsize)
 
     plt.xlabel(xaxis, size='large')
     plt.ylabel(yaxis, size='large')
@@ -109,11 +112,13 @@ def plot_players(players, xaxis, yaxis, minx=0, miny=0):
 
 if __name__ == "__main__":
     players = get_players(2015, 2015)
-    players = filter_by_playoffs(players)
 
     plot_players(players, 'atts', 'compperc', minx=50, miny=0.55)
+    plot_players(players, 'attspergame', 'ydsperatt', minx=4)
 
-    plot_players(players, 'atts', 'ydsperatt', minx=10, miny=2)
+    players = filter_by_playoffs(players)
+    plot_players(players, 'atts', 'compperc', minx=10, miny=0.35)
+    plot_players(players, 'attspergame', 'ydsperatt', minx=2)
 
 """
     blog 1

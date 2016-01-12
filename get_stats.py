@@ -1,7 +1,7 @@
 import re
 import nflgame
 import sys
-from Player import Player
+from player import Player
 
 
 def preprocess_play(play, f_penalty):
