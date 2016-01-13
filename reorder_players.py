@@ -1,6 +1,7 @@
 import sys
 from player import Player
 from matplotlib import pyplot as plt
+from runningbacks import runningbacks
 
 
 def get_players(startyear, endyear):
@@ -31,6 +32,8 @@ def get_players_from_one_year(year):
     f.close()
     return players
 
+def remove_rbs(players):
+    return filter(lambda x: (x.name, x.team) not in runningbacks, players)
 
 def filter_by_playoffs(players):
     playoffteams = ['GB', 'ARI', 'CAR', 'SEA', 'KC', 'PIT', 'DEN', 'NE']
@@ -46,18 +49,6 @@ def sort_players(players, func_key):
     players.sort(key=func, reverse=True)
 
 
-func_dict = {
-    'yds': lambda x: x.yds(),
-    'comps': lambda x: x.comps(),
-    'atts': lambda x: x.atts(),
-    'compperc': lambda x: x.compperc(),
-    'attspergame': lambda x: x.atts_per_game(),
-    'ydspercomp': lambda x: x.yds_per_comp(),
-    'compspergame': lambda x: x.comps_per_game(),
-    'ydsperatt': lambda x: x.yds_per_att()
-}
-
-
 def write_2_file(players, filename, stat=None):
     f = file('stats_reordered/%s.csv' % filename, 'w')
     for player in players:
@@ -69,7 +60,8 @@ def write_2_file(players, filename, stat=None):
             f.write('%s\n' % str(player))
 
 
-def plot_players(players, xaxis, yaxis, minx=0, miny=0):
+def plot_players(
+        filename, players, xaxis, yaxis, minx=0, miny=0, maxx=0, maxy=0):
     if minx:
         players = filter_players(players, xaxis, minx)
     if miny:
@@ -87,38 +79,114 @@ def plot_players(players, xaxis, yaxis, minx=0, miny=0):
         x_val, y_val = xfunc(player), yfunc(player)
         if player.team == 'SEA':
             color = 'g'
-        elif player.team == 'CAR':
-            color = 'b'
+            zorder = 2
+            plt.text(
+                    x_val, 
+                    y_val, 
+                    player.name, 
+                    color='k', 
+                    size='small', 
+                    weight='heavy',
+                    zorder=zorder)
+
         else:
-            color = 'k'
-        plt.text(x_val, y_val, player.name, color=color)
+            color = 'grey'
+            zorder = 0
+        plt.plot(x_val, y_val, 'o', color=color, zorder=zorder)
+        if (player.name, player.team) in good_receivers:
+            plt.text(
+                    x_val, 
+                    y_val, 
+                    player.name, 
+                    color='k', 
+                    size='small', 
+                    weight='heavy',
+                    zorder=2)
 
         # determine min and max axes values
         x_min, x_max = min(x_val, x_min), max(x_val, x_max)
         y_min, y_max = min(y_val, y_min), max(y_val, y_max)
 
     # Set min and max axes values
-    x_diff, y_diff = x_max - x_min, y_max - y_min
     marginsize = 10.0
-    plt.xlim(x_min - x_diff/marginsize, x_max + x_diff/marginsize)
-    plt.ylim(y_min - y_diff/marginsize, y_max + y_diff/marginsize)
+    if maxx:
+        plt.xlim(minx, maxx)
+    else:
+        x_diff = x_max - x_min
+        plt.xlim(x_min - x_diff/marginsize, x_max + x_diff/marginsize)
+
+    if maxy:
+        plt.ylim(miny, maxy)
+    else:
+        y_diff = y_max - y_min
+        plt.ylim(y_min - y_diff/marginsize, y_max + y_diff/marginsize)
 
     plt.xlabel(xaxis, size='large')
     plt.ylabel(yaxis, size='large')
-    plt.show()
+    plt.title(filename, size='large')
+    plt.savefig('%s' % filename)
 
     plt.close()
 
+func_dict = {
+    'yds': lambda x: x.yds(),
+    'comps': lambda x: x.comps(),
+    'atts': lambda x: x.atts(),
+    'compperc': lambda x: x.compperc(),
+    'attspergame': lambda x: x.atts_per_game(),
+    'ydspercomp': lambda x: x.yds_per_comp(),
+    'compspergame': lambda x: x.comps_per_game(),
+    'ydsperatt': lambda x: x.yds_per_att()
+}
+
+
+good_receivers = [
+    ('A.Brown', 'PIT'),
+    ('J.Jones', 'ATL'),
+    ('D.Thomas', 'DEN'),
+    ('D.Hopkins', 'HOU'),
+    ('B.Marshall', 'NYJ'),
+    ('D.Bryant', 'DAL'),
+    ('C.Johnson', 'DET'),
+    ('T.Hilton', 'IND'),
+    ('L.Fitzgerald', 'ARI'),
+    ('A.Green', 'CIN')
+]
+
 
 if __name__ == "__main__":
-    players = get_players(2015, 2015)
+    year = 2015
+    filename = 'plots/atts_vs_compperc_%d' % year
+    players = get_players(year, year)
+    players = remove_rbs(players)
+    plot_players(filename, players, 'atts', 'compperc', minx=20, miny=0, maxx=200, maxy=1.1)
 
-    plot_players(players, 'atts', 'compperc', minx=50, miny=0.55)
-    plot_players(players, 'attspergame', 'ydsperatt', minx=4)
+    year = 2014
+    filename = 'plots/atts_vs_compperc_%d' % year
+    players = get_players(year, year)
+    players = remove_rbs(players)
+    plot_players(filename, players, 'atts', 'compperc', minx=20, miny=0, maxx=200, maxy=1.1)
 
-    players = filter_by_playoffs(players)
-    plot_players(players, 'atts', 'compperc', minx=10, miny=0.35)
-    plot_players(players, 'attspergame', 'ydsperatt', minx=2)
+    year = 2013
+    filename = 'plots/atts_vs_compperc_%d' % year
+    players = get_players(year, year)
+    players = remove_rbs(players)
+    plot_players(filename, players, 'atts', 'compperc', minx=20, miny=0, maxx=200, maxy=1.1)
+
+    year = 2012
+    filename = 'plots/atts_vs_compperc_%d' % year
+    players = get_players(year, year)
+    players = remove_rbs(players)
+    plot_players(filename, players, 'atts', 'compperc', minx=20, miny=0, maxx=200, maxy=1.1)
+
+
+
+
+    # plot_players(players, 'attspergame', 'ydsperatt', minx=4)
+
+    # players = filter_by_playoffs(players)
+    # plot_players(players, 'atts', 'compperc', minx=10, miny=0.35)
+    # plot_players(players, 'attspergame', 'ydsperatt', minx=2)
 
 """
     blog 1

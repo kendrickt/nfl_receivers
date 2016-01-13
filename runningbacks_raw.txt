@@ -1,0 +1,184 @@
+Abdullah, Ameer	Detroit Lions	Nebraska
+Ajayi, Jay	Miami Dolphins	Boise State
+Allen, Javorius	Baltimore Ravens	USC
+Anderson, C.J.	Denver Broncos	California
+Andrews, Antonio	Tennessee Titans	Western Kentucky
+Artis-Payne, Cameron	Carolina Panthers	Auburn
+Asiata, Matt	Minnesota Vikings	Utah
+B
+NAME	TEAM	COLLEGE
+Banyard, Joe	Jacksonville Jaguars	UTEP
+Barner, Kenjon	Philadelphia Eagles	Oregon
+Bell, Joique	Detroit Lions	Wayne State (MI)
+Bell, Le'Veon	Pittsburgh Steelers	Michigan State
+Bernard, Giovani	Cincinnati Bengals	North Carolina
+Blount, LeGarrette	New England Patriots	Oregon
+Blue, Alfred	Houston Texans	LSU
+Bolden, Brandon	New England Patriots	Ole Miss
+Bradshaw, Ahmad	Indianapolis Colts	Marshall
+Brown, Bryce	Seattle Seahawks	Kansas State
+Brown, Donald	San Diego Chargers	Connecticut
+Brown, Malcolm	St. Louis Rams	Texas
+Burkhead, Rex	Cincinnati Bengals	Nebraska
+Bush, Reggie	San Francisco 49ers	USC
+C
+NAME	TEAM	COLLEGE
+Cadet, Travaris	New Orleans Saints	Appalachian State
+Carey, Ka'Deem	Chicago Bears	Arizona
+Charles, Jamaal	Kansas City Chiefs	Texas
+Cobb, David	Tennessee Titans	Minnesota
+Coleman, Tevin	Atlanta Falcons	Indiana
+Crockett, John	Green Bay Packers	North Dakota State
+Crowell, Isaiah	Cleveland Browns	Alabama State
+Cunningham, Benjamin	St. Louis Rams	Middle Tennessee
+D
+NAME	TEAM	COLLEGE
+Darkwa, Orleans	New York Giants	Tulane
+Davis, Knile	Kansas City Chiefs	Arkansas
+Davis, Mike	San Francisco 49ers	South Carolina
+Dixon, Boobie	Buffalo Bills	Mississippi State
+Draughn, Shaun	San Francisco 49ers	North Carolina
+Dunbar, Lance	Dallas Cowboys	North Texas
+E
+NAME	TEAM	COLLEGE
+Ellington, Andre	Arizona Cardinals	Clemson
+F
+NAME	TEAM	COLLEGE
+Forsett, Justin	Baltimore Ravens	California
+Forte, Matt	Chicago Bears	Tulane
+Foster, Arian	Houston Texans	Tennessee
+Freeman, Devonta	Atlanta Falcons	Florida State
+G
+NAME	TEAM	COLLEGE
+Gaffney, Tyler	New England Patriots	Stanford
+Gaskins, Kendall	San Francisco 49ers	Richmond
+Gerhart, Toby	Jacksonville Jaguars	Stanford
+Gillislee, Mike	Buffalo Bills	Florida
+Gordon, Melvin	San Diego Chargers	Wisconsin
+Gore, Frank	Indianapolis Colts	Miami (FL)
+Grant, Corey	Jacksonville Jaguars	Auburn
+Gray, Jonas	Jacksonville Jaguars	Notre Dame
+Grimes, Jonathan	Houston Texans	William & Mary
+Gurley, Todd	St. Louis Rams	Georgia
+H
+NAME	TEAM	COLLEGE
+Harris, DuJuan	San Francisco 49ers	Troy
+Hayne, Jarryd	San Francisco 49ers	null
+Helu, Roy	Oakland Raiders	Nebraska
+Hightower, Tim	New Orleans Saints	Richmond
+Hill, Jeremy	Cincinnati Bengals	LSU
+Hillman, Ronnie	Denver Broncos	San Diego State
+Hunt, Akeem	Houston Texans	Purdue
+Hunter, Kendall	New Orleans Saints	Oklahoma State
+Hyde, Carlos	San Francisco 49ers	Ohio State
+I
+NAME	TEAM	COLLEGE
+Ingram, Mark	New Orleans Saints	Alabama
+Ivory, Chris	New York Jets	Tiffin University
+J
+NAME	TEAM	COLLEGE
+Jackson, Fred	Seattle Seahawks	Coe
+Jackson, Steven	New England Patriots	Oregon State
+James, Mike	Tampa Bay Buccaneers	Miami (FL)
+Jennings, Rashad	New York Giants	Liberty
+Johnson, Chris	Arizona Cardinals	East Carolina
+Johnson, David	Arizona Cardinals	Northern Iowa
+Johnson Jr., Duke	Cleveland Browns	Miami (FL)
+Jones, Matt	Washington Redskins	Florida
+Jones, Taiwan	Oakland Raiders	Eastern Washington
+L
+NAME	TEAM	COLLEGE
+Lacy, Eddie	Green Bay Packers	Alabama
+Langford, Jeremy	Chicago Bears	Michigan State
+Lewis, Dion	New England Patriots	Pittsburgh
+Lynch, Marshawn	Seattle Seahawks	California
+M
+NAME	TEAM	COLLEGE
+Magee, Terrence	Baltimore Ravens	LSU
+Martin, Doug	Tampa Bay Buccaneers	Boise State
+Mason, Tre	St. Louis Rams	Auburn
+Mathews, Ryan	Philadelphia Eagles	Fresno State
+McCluster, Dexter	Tennessee Titans	Ole Miss
+McCoy, LeSean	Buffalo Bills	Pittsburgh
+McFadden, Darren	Dallas Cowboys	Arkansas
+McKinnon, Jerick	Minnesota Vikings	Georgia Southern
+Michael, Christine	Seattle Seahawks	Texas A&M
+Miller, Lamar	Miami Dolphins	Miami (FL)
+Morris, Alfred	Washington Redskins	Florida Atlantic
+Mostert, Raheem	Cleveland Browns	Purdue
+Murphy, Marcus	New Orleans Saints	Missouri
+Murray, DeMarco	Philadelphia Eagles	Oklahoma
+Murray, Latavius	Oakland Raiders	UCF
+O
+NAME	TEAM	COLLEGE
+Olawale, Jamize	Oakland Raiders	North Texas
+Oliver, Branden	San Diego Chargers	Buffalo
+P
+NAME	TEAM	COLLEGE
+Peerman, Cedric	Cincinnati Bengals	Virginia
+Perry, Senorise	Chicago Bears	Louisville
+Peterson, Adrian	Minnesota Vikings	Oklahoma
+Pierce, Bernard	Jacksonville Jaguars	Temple
+Polk, Chris	Houston Texans	Washington
+Powell, Bilal	New York Jets	Louisville
+R
+NAME	TEAM	COLLEGE
+Rainey, Bobby	Tampa Bay Buccaneers	Western Kentucky
+Rawls, Thomas	Seattle Seahawks	Central Michigan
+Redd, Silas	Washington Redskins	USC
+Reynolds, Chase	St. Louis Rams	Montana
+Riddick, Theo	Detroit Lions	Notre Dame
+Ridley, Stevan	New York Jets	LSU
+Robinson, Denard	Jacksonville Jaguars	Michigan
+Robinson, Khiry	New Orleans Saints	West Texas A&M
+Rodgers, Jacquizz	Chicago Bears	Oregon State
+S
+NAME	TEAM	COLLEGE
+Sankey, Bishop	Tennessee Titans	Washington
+Sims, Charles	Tampa Bay Buccaneers	West Virginia
+Smith, Dreamius	San Diego Chargers	West Virginia
+Smith, Rod	Dallas Cowboys	Ohio State
+Spiller, C.J.	New Orleans Saints	Clemson
+Sproles, Darren	Philadelphia Eagles	Kansas State
+Stacy, Zac	New York Jets	Vanderbilt
+Starks, James	Green Bay Packers	Buffalo
+Stewart, Jonathan	Carolina Panthers	Oregon
+T
+NAME	TEAM	COLLEGE
+Taliaferro, Lorenzo	Baltimore Ravens	Coastal Carolina
+Taylor, Stepfan	Arizona Cardinals	Stanford
+Thomas, Pierre	Washington Redskins	Illinois
+Thompson, Chris	Washington Redskins	Florida State
+Thompson, Juwan	Denver Broncos	Duke
+Todman, Jordan	Pittsburgh Steelers	Connecticut
+Turbin, Robert	Dallas Cowboys	Utah State
+V
+NAME	TEAM	COLLEGE
+Varga, Tyler	Indianapolis Colts	Yale
+Vereen, Shane	New York Giants	California
+W
+NAME	TEAM	COLLEGE
+Ward, Terron	Atlanta Falcons	Oregon State
+Ware, Spencer	Kansas City Chiefs	LSU
+Watts, Trey	St. Louis Rams	Tulsa
+Wegher, Brandon	Carolina Panthers	Morningside
+West, Charcandrick	Kansas City Chiefs	Abilene Christian
+West, Terrance	Baltimore Ravens	Towson
+White, James	New England Patriots	Wisconsin
+Whittaker, Fozzy	Carolina Panthers	Texas
+Williams, Andre	New York Giants	Boston College
+Williams, Damien	Miami Dolphins	Oklahoma
+Williams, DeAngelo	Pittsburgh Steelers	Memphis
+Williams, Karlos	Buffalo Bills	Florida State
+Williams, Kerwynn	Arizona Cardinals	Utah State
+Williams, Trey	Indianapolis Colts	Texas A&M
+Winn, George	Detroit Lions	Cincinnati
+Winston, Glenn	Cleveland Browns	Northwood (MI)
+Wood, Cierre	Buffalo Bills	Notre Dame
+Woodhead, Danny	San Diego Chargers	Chadron State
+Y
+NAME	TEAM	COLLEGE
+Yeldon, T.J.	Jacksonville Jaguars	Alabama
+Z
+NAME	TEAM	COLLEGE
+Zenner, Zach	Detroit Lions	South Dakota State
