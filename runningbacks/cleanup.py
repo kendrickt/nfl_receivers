@@ -1,11 +1,12 @@
 import sys
 try:
     from teamdict import team_dict
-except:
+except Exception as e:
+    print e
     print 'team_dict is not created yet. I hope you are using buildteams'
 
 def build_team_dict():
-    f = file('runningbacks_raw.txt', 'r')
+    f = file('rbs_2015.txt', 'r')
     f_teamdict = file('teamdict.py', 'w')
 
     team_dict = {}
@@ -28,10 +29,10 @@ def build_team_dict():
 
 
 def build_rbs():
-    f = file('runningbacks_raw.txt', 'r')
+    f = file('rbs_2015.txt', 'r')
     f_rb = file('runningbacks.py', 'w')
 
-    f_rb.write('runningbacks = [\n')
+    f_rb.write('rbs_2015 = [\n')
 
     for line in f:
         data = line.split('\t')
@@ -52,7 +53,7 @@ def build_rbs():
 
         f_rb.write('\t(\'%s\',\'%s\'),\n' % (name, team))
 
-    f_rb.write(']')
+    f_rb.write(']\n\n')
 
     f_rb.close()
     f.close()

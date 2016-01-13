@@ -61,6 +61,15 @@ class Player(object):
             return float(self.comps())/self.games()
         return 0
 
+    def tds(self):
+        return (self.home.tds + self.away.tds)
+
+    def tdspergame(self):
+        return float(self.tds()) / self.games()
+
+    def tdsperatt(self):
+        return float(self.tds()) / self.atts()
+
     def combine(self, other):
         self.home.combine(other.home)
         self.away.combine(other.away)
@@ -82,6 +91,15 @@ class Player(object):
         else:
             self.completion(hometeam, short, yds)
 
+        if 'TOUCHDOWN' in play:
+           self.touchdown(hometeam) 
+
+    def touchdown(self, hometeam):
+        if hometeam == self.team:
+            self.home.tds += 1
+        else:
+            self.away.tds += 1
+
     def change_home(self, stats):
         self.home.change(stats)
 
@@ -102,6 +120,7 @@ class Passes(object):
         self.comp_deep = 0.0
         self.att_deep = 0.0
         self.yds_deep = 0.0
+        self.tds = 0.0
         self.games = 0.0
 
     def completion(self, short, yds):
@@ -137,6 +156,7 @@ class Passes(object):
         self.yds_short += other.yds_short
         self.yds_deep += other.yds_deep
         self.games += other.games
+        self.tds += other.tds
 
     def change(self, stats):
         self.comp_short = stats[0]
@@ -146,9 +166,10 @@ class Passes(object):
         self.att_deep = stats[4]
         self.yds_deep = stats[5]
         self.games = stats[6]
+        self.tds = stats[7]
 
     def __repr__(self):
         return (str(self.comp_short) + "," + str(self.att_short) + "," +
                 str(self.yds_short) + "," + str(self.comp_deep) + "," +
                 str(self.att_deep) + "," + str(self.yds_deep) + "," +
-                str(self.games))
+                str(self.games) + "," + str(self.tds))
