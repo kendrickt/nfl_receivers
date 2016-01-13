@@ -92,7 +92,7 @@ class Player(object):
             self.completion(hometeam, short, yds)
 
         if 'TOUCHDOWN' in play:
-           self.touchdown(hometeam) 
+            self.touchdown(hometeam)
 
     def touchdown(self, hometeam):
         if hometeam == self.team:

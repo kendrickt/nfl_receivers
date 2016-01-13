@@ -8,7 +8,6 @@ if __name__ == '__main__':
     for year in years:
         f = file('rbs_%s.txt' % year, 'r')
 
-
         f_rb.write('rbs_%s = [\n' % year)
         for line in f:
             # Get name and team information
@@ -17,7 +16,7 @@ if __name__ == '__main__':
             team_info = data[2]
 
             # if RB, format name and write to file
-            name_info  = re.split(', | ', name_info)
+            name_info = re.split(', | ', name_info)
             if len(name_info) < 3:
                 continue
 

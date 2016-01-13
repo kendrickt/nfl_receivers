@@ -5,6 +5,7 @@ except Exception as e:
     print e
     print 'team_dict is not created yet. I hope you are using buildteams'
 
+
 def build_team_dict():
     f = file('rbs_2015.txt', 'r')
     f_teamdict = file('teamdict.py', 'w')
