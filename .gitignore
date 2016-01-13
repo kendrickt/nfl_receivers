@@ -3,6 +3,7 @@ venv
 *~
 *.pyc
 */.ropeproject
+plots
 
 pentalties
 tempdata

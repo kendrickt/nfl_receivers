@@ -61,7 +61,9 @@ def write_2_file(players, filename, stat=None):
 
 
 def plot_players(
-        filename, players, xaxis, yaxis, minx=0, miny=0, maxx=0, maxy=0):
+        filename, players, xaxis, yaxis,
+        teams=None,
+        minx=0, miny=0, maxx=0, maxy=0, plot_good=True):
     if minx:
         players = filter_players(players, xaxis, minx)
     if miny:
@@ -77,8 +79,9 @@ def plot_players(
     plt.figure()
     for player in players:
         x_val, y_val = xfunc(player), yfunc(player)
-        if player.team == 'SEA':
-            color = 'g'
+        
+        if player.team in teams.keys():
+            color = teams[player.team]
             zorder = 2
             plt.text(
                     x_val, 
@@ -93,7 +96,9 @@ def plot_players(
             color = 'grey'
             zorder = 0
         plt.plot(x_val, y_val, 'o', color=color, zorder=zorder)
-        if (player.name, player.team) in good_receivers:
+
+        # Label good players
+        if plot_good and (player.name, player.team) in good_receivers:
             plt.text(
                     x_val, 
                     y_val, 
@@ -156,38 +161,88 @@ good_receivers = [
 
 if __name__ == "__main__":
     year = 2015
-    filename = 'plots/atts_vs_compperc_%d' % year
+    filename = 'plots/attspergame_vs_compperc_%d' % year
     players = get_players(year, year)
     players = remove_rbs(players)
-    plot_players(filename, players, 'atts', 'compperc', minx=20, miny=0, maxx=200, maxy=1.1)
+    players = filter_players(players, 'atts', 20)
+    teams = {'SEA':'g'} 
+    plot_players(filename, players, 'attspergame', 'compperc', 
+            teams=teams, minx=1, miny=0, maxx=13, maxy=1.1)
+
+    players = filter_by_playoffs(players)
+    filename = 'plots/attspergame_vs_compperc_2015_playoffs'
+    teams = {'SEA':'g', 'CAR':'b'} 
+    plot_players(filename, players, 'attspergame', 'compperc', 
+            teams=teams, minx=1, miny=0, maxx=13, maxy=1.1, plot_good=False)
 
     year = 2014
-    filename = 'plots/atts_vs_compperc_%d' % year
+    filename = 'plots/attspergame_vs_compperc_%d' % year
     players = get_players(year, year)
     players = remove_rbs(players)
-    plot_players(filename, players, 'atts', 'compperc', minx=20, miny=0, maxx=200, maxy=1.1)
+    players = filter_players(players, 'atts', 20)
+    teams = {'SEA':'g'} 
+    plot_players(filename, players, 'attspergame', 'compperc', 
+            teams=teams, minx=1, miny=0, maxx=13, maxy=1.1)
 
     year = 2013
-    filename = 'plots/atts_vs_compperc_%d' % year
+    filename = 'plots/attspergame_vs_compperc_%d' % year
     players = get_players(year, year)
     players = remove_rbs(players)
-    plot_players(filename, players, 'atts', 'compperc', minx=20, miny=0, maxx=200, maxy=1.1)
+    players = filter_players(players, 'atts', 20)
+    teams = {'SEA':'g'} 
+    plot_players(filename, players, 'attspergame', 'compperc', 
+            teams=teams, minx=1, miny=0, maxx=13, maxy=1.1)
 
     year = 2012
-    filename = 'plots/atts_vs_compperc_%d' % year
+    filename = 'plots/attspergame_vs_compperc_%d' % year
     players = get_players(year, year)
     players = remove_rbs(players)
-    plot_players(filename, players, 'atts', 'compperc', minx=20, miny=0, maxx=200, maxy=1.1)
+    players = filter_players(players, 'atts', 20)
+    teams = {'SEA':'g'} 
+    plot_players(filename, players, 'attspergame', 'compperc', 
+            teams=teams, minx=1, miny=0, maxx=13, maxy=1.1)
 
+    year = 2015
+    filename = 'plots/attspergame_vs_ydsperatt_%d' % year
+    players = get_players(year, year)
+    players = remove_rbs(players)
+    players = filter_players(players, 'atts', 20)
+    teams = {'SEA':'g'} 
+    plot_players(filename, players, 'attspergame', 'ydsperatt', 
+            teams=teams, minx=1, miny=0, maxx=13, maxy=15)
 
+    players = filter_by_playoffs(players)
+    filename = 'plots/attspergame_vs_ydsperatt_2015_playoffs'
+    teams = {'SEA':'g', 'CAR':'b'} 
+    plot_players(filename, players, 'attspergame', 'ydsperatt', 
+            teams=teams, minx=1, miny=0, maxx=13, maxy=15, plot_good=False)
 
+    year = 2014
+    filename = 'plots/attspergame_vs_ydsperatt_%d' % year
+    players = get_players(year, year)
+    players = remove_rbs(players)
+    players = filter_players(players, 'atts', 20)
+    teams = {'SEA':'g'} 
+    plot_players(filename, players, 'attspergame', 'ydsperatt', 
+            teams=teams, minx=1, miny=0, maxx=13, maxy=15)
 
-    # plot_players(players, 'attspergame', 'ydsperatt', minx=4)
+    year = 2013
+    filename = 'plots/attspergame_vs_ydsperatt_%d' % year
+    players = get_players(year, year)
+    players = remove_rbs(players)
+    players = filter_players(players, 'atts', 20)
+    teams = {'SEA':'g'} 
+    plot_players(filename, players, 'attspergame', 'ydsperatt', 
+            teams=teams, minx=1, miny=0, maxx=13, maxy=15)
 
-    # players = filter_by_playoffs(players)
-    # plot_players(players, 'atts', 'compperc', minx=10, miny=0.35)
-    # plot_players(players, 'attspergame', 'ydsperatt', minx=2)
-
+    year = 2012
+    filename = 'plots/attspergame_vs_ydsperatt_%d' % year
+    players = get_players(year, year)
+    players = remove_rbs(players)
+    players = filter_players(players, 'atts', 20)
+    teams = {'SEA':'g'} 
+    plot_players(filename, players, 'attspergame', 'ydsperatt', 
+            teams=teams, minx=1, miny=0, maxx=13, maxy=15)
 """
     blog 1
     plot completion percentage vs number of attempts,
