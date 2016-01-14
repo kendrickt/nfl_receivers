@@ -4,18 +4,19 @@ from format_stats import func_dict, get_players, remove_rbs, filter_players, \
     filter_by_playoffs
 
 
-def plot_baldwin_year(year, stat, miny, maxy, playoffs=False):
+def plot_baldwin_year(year, stat, zfunc, miny, maxy, playoffs=False):
     filename = 'plots/attspergame_vs_%s_%d' % (stat, year)
     players = get_players(year, year)
     players = remove_rbs(players, year)
-    players = filter_players(players, 'tds', 2)
+    players = filter_players(players, 'tds', 1)
+    players = filter_players(players, 'atts', 10)
 
     for player in players:
         if player.name == 'M.Lynch':
             print player
 
     teams = {'SEA': 'g'}
-    plot_players(filename, players, 'attspergame', stat,
+    plot_players(filename, players, 'attspergame', stat, zfunc,
                  teams=teams, minx=1, miny=miny, maxx=13, maxy=maxy)
 
     if playoffs:
@@ -23,14 +24,14 @@ def plot_baldwin_year(year, stat, miny, maxy, playoffs=False):
         filename = 'plots/attspergame_vs_%s_2015_playoffs' % stat
         teams = {'SEA': 'g', 'CAR': 'b'}
         plot_players(
-            filename, players, 'attspergame', stat,
+            filename, players, 'attspergame', stat, zfunc,
             teams=teams, minx=1, miny=miny, maxx=13, maxy=maxy,
             plot_good_receivers=False, best_fit=False
         )
 
 
 def plot_players(
-        filename, players, xaxis, yaxis,
+        filename, players, xaxis, yaxis, zfunc,
         teams=None,
         minx=0, miny=0, maxx=0, maxy=0,
         plot_good_receivers=True, best_fit=True):
@@ -65,7 +66,7 @@ def plot_players(
                 x_val, y_val, 'o',
                 color=color,
                 zorder=zorder,
-                markersize=player.tds() + 3)
+                markersize=zfunc(player))
 
         # Label good players
         if plot_good_receivers and (player.name, player.team) in good_receivers:
@@ -92,7 +93,6 @@ def plot_players(
     plt.title(filename, size='large')
 
     plt.savefig('%s' % filename)
-    plt.show()
     plt.close()
 
 
@@ -122,12 +122,21 @@ good_receivers = [
 
 
 if __name__ == "__main__":
-    plot_baldwin_year(2015, 'compperc', 0, 1.1, playoffs=True)
-    plot_baldwin_year(2014, 'compperc', 0, 1.1)
-    plot_baldwin_year(2013, 'compperc', 0, 1.1)
-    plot_baldwin_year(2012, 'compperc', 0, 1.1)
+    plot_baldwin_year(2015, 'compperc', func_dict['tds'], 0, 1.1, playoffs=True)
+    plot_baldwin_year(2014, 'compperc', func_dict['tds'], 0, 1.1)
+    plot_baldwin_year(2013, 'compperc', func_dict['tds'], 0, 1.1)
+    plot_baldwin_year(2012, 'compperc', func_dict['tds'], 0, 1.1)
 
-    plot_baldwin_year(2015, 'ydsperatt', 0, 15, playoffs=True)
-    plot_baldwin_year(2014, 'ydsperatt', 0, 15)
-    plot_baldwin_year(2013, 'ydsperatt', 0, 15)
-    plot_baldwin_year(2012, 'ydsperatt', 0, 15)
+    plot_baldwin_year(2015, 'ydsperatt', func_dict['tds'], 0, 15, playoffs=True)
+    plot_baldwin_year(2014, 'ydsperatt', func_dict['tds'], 0, 15)
+    plot_baldwin_year(2013, 'ydsperatt', func_dict['tds'], 0, 15)
+    plot_baldwin_year(2012, 'ydsperatt', func_dict['tds'], 0, 15)
+
+    plot_baldwin_year(
+        2015, 'tdspergame', lambda x: 6, 0, 1.2, playoffs=True)
+    plot_baldwin_year(
+        2014, 'tdspergame', lambda x: 6, 0, 1.2)
+    plot_baldwin_year(
+        2013, 'tdspergame', lambda x: 6, 0, 1.2)
+    plot_baldwin_year(
+        2012, 'tdspergame', lambda x: 6, 0, 1.2)
