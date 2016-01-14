@@ -1,4 +1,4 @@
-import sys
+import numpy as np
 from matplotlib import pyplot as plt
 from format_stats import func_dict, get_players, remove_rbs, filter_players, \
     filter_by_playoffs
@@ -8,7 +8,12 @@ def plot_baldwin_year(year, stat, miny, maxy, playoffs=False):
     filename = 'plots/attspergame_vs_%s_%d' % (stat, year)
     players = get_players(year, year)
     players = remove_rbs(players, year)
-    players = filter_players(players, 'atts', 20)
+    players = filter_players(players, 'tds', 2)
+
+    for player in players:
+        if player.name == 'M.Lynch':
+            print player
+
     teams = {'SEA': 'g'}
     plot_players(filename, players, 'attspergame', stat,
                  teams=teams, minx=1, miny=miny, maxx=13, maxy=maxy)
@@ -20,14 +25,15 @@ def plot_baldwin_year(year, stat, miny, maxy, playoffs=False):
         plot_players(
             filename, players, 'attspergame', stat,
             teams=teams, minx=1, miny=miny, maxx=13, maxy=maxy,
-            plot_good=False
+            plot_good_receivers=False, best_fit=False
         )
 
 
 def plot_players(
         filename, players, xaxis, yaxis,
         teams=None,
-        minx=0, miny=0, maxx=0, maxy=0, plot_good=True):
+        minx=0, miny=0, maxx=0, maxy=0,
+        plot_good_receivers=True, best_fit=True):
     if minx:
         players = filter_players(players, xaxis, minx)
     if miny:
@@ -35,10 +41,6 @@ def plot_players(
 
     xfunc = func_dict[xaxis]
     yfunc = func_dict[yaxis]
-
-    # Initialize min and max axes values
-    x_min, x_max = sys.maxint, 0
-    y_min, y_max = sys.maxint, 0
 
     plt.figure()
     for player in players:
@@ -66,7 +68,7 @@ def plot_players(
                 markersize=player.tds() + 3)
 
         # Label good players
-        if plot_good and (player.name, player.team) in good_receivers:
+        if plot_good_receivers and (player.name, player.team) in good_receivers:
             plt.text(
                     x_val,
                     y_val,
@@ -76,23 +78,14 @@ def plot_players(
                     weight='heavy',
                     zorder=2)
 
-        # determine min and max axes values
-        x_min, x_max = min(x_val, x_min), max(x_val, x_max)
-        y_min, y_max = min(y_val, y_min), max(y_val, y_max)
-
     # Set min and max axes values
-    marginsize = 10.0
-    if maxx:
-        plt.xlim(minx, maxx)
-    else:
-        x_diff = x_max - x_min
-        plt.xlim(x_min - x_diff/marginsize, x_max + x_diff/marginsize)
+    plt.xlim(minx, maxx)
+    plt.ylim(miny, maxy)
 
-    if maxy:
-        plt.ylim(miny, maxy)
-    else:
-        y_diff = y_max - y_min
-        plt.ylim(y_min - y_diff/marginsize, y_max + y_diff/marginsize)
+    if best_fit:
+        p = get_best_fit(players, xaxis, yaxis)
+        xp = np.linspace(minx, maxx, 100)
+        plt.plot(xp, p(xp), '-')
 
     plt.xlabel(xaxis, size='large')
     plt.ylabel(yaxis, size='large')
@@ -101,6 +94,17 @@ def plot_players(
     plt.savefig('%s' % filename)
     plt.show()
     plt.close()
+
+
+def get_best_fit(players, xaxis, yaxis):
+    x = []
+    y = []
+    for player in players:
+        x.append(func_dict[xaxis](player))
+        y.append(func_dict[yaxis](player))
+    z = np.polyfit(x, y, 1)
+    p = np.poly1d(z)
+    return p
 
 
 good_receivers = [

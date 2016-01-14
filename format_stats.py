@@ -63,7 +63,8 @@ func_dict = {
     'attspergame': lambda x: x.atts_per_game(),
     'ydspercomp': lambda x: x.yds_per_comp(),
     'compspergame': lambda x: x.comps_per_game(),
-    'ydsperatt': lambda x: x.yds_per_att()
+    'ydsperatt': lambda x: x.yds_per_att(),
+    'tds': lambda x: x.tds()
 }
 
 

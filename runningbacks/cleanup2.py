@@ -30,6 +30,6 @@ if __name__ == '__main__':
                     elif team == 'WSH':
                         team = 'WAS'
 
-                    f_rb.write('\t(\'%s\',\' %s\'),\n' % (name, team))
+                    f_rb.write('\t(\'%s\',\'%s\'),\n' % (name, team))
 
         f_rb.write(']\n\n')

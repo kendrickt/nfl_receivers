@@ -5,7 +5,7 @@ from player import Player
 
 
 def preprocess_play(play, f_penalty):
-    pattern_name = re.compile('[A-Z][a-z]*[\. ][A-Z][a-z]*')
+    pattern_name = re.compile('[A-Z][a-zA-Z]*[\. ][A-Z][a-zA-Z]*')
     pattern_yds = re.compile('-*[0-9]+')
     pattern_team = re.compile('^\(([A-Z]+)')
 
