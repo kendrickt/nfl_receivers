@@ -52,7 +52,7 @@ def filter_by_playoffs(players):
 
 
 def filter_players(players, func_key, min_val):
-    return filter(lambda x: func_dict[func_key](x) > min_val, players)
+    return filter(lambda x: func_dict[func_key](x) >= min_val, players)
 
 
 func_dict = {

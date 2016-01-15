@@ -16,7 +16,7 @@ def plot_baldwin_year(year, stat, zfunc, miny, maxy, playoffs=False):
             print player
 
     teams = {'SEA': 'g'}
-    plot_players(filename, players, 'attspergame', stat, zfunc,
+    plot_players(filename, year, players, 'attspergame', stat, zfunc,
                  teams=teams, minx=1, miny=miny, maxx=13, maxy=maxy)
 
     if playoffs:
@@ -24,14 +24,14 @@ def plot_baldwin_year(year, stat, zfunc, miny, maxy, playoffs=False):
         filename = 'plots/attspergame_vs_%s_2015_playoffs' % stat
         teams = {'SEA': 'g', 'CAR': 'b'}
         plot_players(
-            filename, players, 'attspergame', stat, zfunc,
+            filename, year, players, 'attspergame', stat, zfunc,
             teams=teams, minx=1, miny=miny, maxx=13, maxy=maxy,
             plot_good_receivers=False, best_fit=False
         )
 
 
 def plot_players(
-        filename, players, xaxis, yaxis, zfunc,
+        filename, year, players, xaxis, yaxis, zfunc,
         teams=None,
         minx=0, miny=0, maxx=0, maxy=0,
         plot_good_receivers=True, best_fit=True):
@@ -88,11 +88,12 @@ def plot_players(
         xp = np.linspace(minx, maxx, 100)
         plt.plot(xp, p(xp), '-')
 
+    plottitle = '%s v %s in %d' % (xaxis, yaxis, year)
     plt.xlabel(xaxis, size='large')
     plt.ylabel(yaxis, size='large')
-    plt.title(filename, size='large')
+    plt.title(plottitle, size='large')
 
-    plt.savefig('%s' % filename)
+    plt.savefig(filename)
     plt.close()
 
 
@@ -131,7 +132,7 @@ if __name__ == "__main__":
     plot_baldwin_year(2014, 'ydsperatt', func_dict['tds'], 0, 15)
     plot_baldwin_year(2013, 'ydsperatt', func_dict['tds'], 0, 15)
     plot_baldwin_year(2012, 'ydsperatt', func_dict['tds'], 0, 15)
-
+"""
     plot_baldwin_year(
         2015, 'tdspergame', lambda x: 6, 0, 1.2, playoffs=True)
     plot_baldwin_year(
@@ -140,3 +141,4 @@ if __name__ == "__main__":
         2013, 'tdspergame', lambda x: 6, 0, 1.2)
     plot_baldwin_year(
         2012, 'tdspergame', lambda x: 6, 0, 1.2)
+        """
